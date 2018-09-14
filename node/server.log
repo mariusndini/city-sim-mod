@@ -1,0 +1,674 @@
+
+> application-name@0.0.1 start /home/ubuntu/naitblockchain/network/network/airline/node
+> node server
+
+SERVER START -p: 40101
+Connected to MONGO
+[90mGET / [36m304 [90m3ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m1ms[0m
+[90mGET /flyer [32m200 [90m11ms - 2b[0m
+New Account:  GDTZUJ4AHBGLT56PHMG3TCZUM4AQ4EZ3Q64VLA2R4T5UZUUJYXPRYFQ2 SACESRQRASHUAQV2ZYJ7WRSMCPEYWNSO4APKNPUNX2JPX7T2UK5YH3AQ
+[90mPOST /flyer [32m200 [90m5617ms - 260b[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m1ms[0m
+[90mGET /flyer [32m200 [90m6ms - 270b[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m1ms[0m
+[90mGET /flyer [36m304 [90m2ms[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m4ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m4ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m2ms[0m
+[90mGET /flyer [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css.map [32m200 [90m9253ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css.map [32m200 [90m44234ms[0m
+[90mGET / [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m1ms[0m
+[90mGET /flyer [36m304 [90m2ms[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m1ms[0m
+[90mGET /flyer [36m304 [90m6ms[0m
+{ _links: 
+   { transaction: 
+      { href: 'https://horizon-testnet.stellar.org/transactions/398006b0ea050d3be7ec4f862d236cb9be250337dfaed85f28f3759d172b90f1' } },
+  hash: '398006b0ea050d3be7ec4f862d236cb9be250337dfaed85f28f3759d172b90f1',
+  ledger: 10851431,
+  envelope_xdr: 'AAAAAOeaJ4A4TLn3zzsNuYs0ZwEOEzuHuVWDUeT7TNKJxd8cAAAAZACllBQAAAABAAAAAAAAAAEAAAASVGlja2V0IFB1cmNoYXNlIFRYAAAAAAABAAAAAAAAAAEAAAAA7aokKmXtcWN/alugeCPDr5QcH6BkXV+Op0WLH+4i4LkAAAAAAAAAARsfP4AAAAAAAAAAAYnF3xwAAABASrV/A9YMV/IOvHqsLV3p/1yTp1YNWob7+3MnGfqEBb0AuhZXjCf0eZeRdEeTOHDOOj+xqHRkXC+X8E+RXPfWBg==',
+  result_xdr: 'AAAAAAAAAGQAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAA=',
+  result_meta_xdr: 'AAAAAQAAAAIAAAADAKWUZwAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAXSHbnnACllBQAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAKWUZwAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAXSHbnnACllBQAAAABAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAMApZRnAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABdIduecAKWUFAAAAAEAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApZRnAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABYtV6gcAKWUFAAAAAEAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAMApWqOAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAc6IgEggAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApZRnAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAc+jn4egAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA==' }
+Purchased Ticket
+[90mPOST /ticket/5b8c22d7819a5a32a58d657f [32m200 [90m4761ms - 1.74kb[0m
+{ _links: 
+   { transaction: 
+      { href: 'https://horizon-testnet.stellar.org/transactions/6b3e7c30c4e251b6516a65a30cd125e37acb6c700496c7817eb2ccf1419aae14' } },
+  hash: '6b3e7c30c4e251b6516a65a30cd125e37acb6c700496c7817eb2ccf1419aae14',
+  ledger: 10851432,
+  envelope_xdr: 'AAAAAOeaJ4A4TLn3zzsNuYs0ZwEOEzuHuVWDUeT7TNKJxd8cAAAAZACllBQAAAACAAAAAAAAAAEAAAAUTHVnZ2FnZSBUcmFja2luZyBUYWcAAAABAAAAAAAAAAEAAAAA7aokKmXtcWN/alugeCPDr5QcH6BkXV+Op0WLH+4i4LkAAAAAAAAAADuaygAAAAAAAAAAAYnF3xwAAABAUkfdjN76jwYeyLQg9kq9evion0L5Qhz29b/8Eidz4vtk50yOOmc8iXcWQR6+Itx11zlSX97sJs+QqYvzu9vYCA==',
+  result_xdr: 'AAAAAAAAAGQAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAA=',
+  result_meta_xdr: 'AAAAAQAAAAIAAAADAKWUaAAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAWLVenuACllBQAAAABAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAKWUaAAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAWLVenuACllBQAAAACAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAMApZRoAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABYtV6e4AKWUFAAAAAIAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApZRoAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABXxvN24AKWUFAAAAAIAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAMApZRnAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAc+jn4egAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApZRoAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAc/fOlGgAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA==' }
+Added Luggage Tracking
+[90mPOST /luggage/flyer/5b8c22d7819a5a32a58d657f/ticket/5b8c247c819a5a32a58d6580 [32m200 [90m1920ms - 110b[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m0ms[0m
+{ _links: 
+   { transaction: 
+      { href: 'https://horizon-testnet.stellar.org/transactions/5772b78916588ee75fe1fd38b3f57ff16275f61cd77e09b26a945cdb2613e210' } },
+  hash: '5772b78916588ee75fe1fd38b3f57ff16275f61cd77e09b26a945cdb2613e210',
+  ledger: 10851433,
+  envelope_xdr: 'AAAAAOeaJ4A4TLn3zzsNuYs0ZwEOEzuHuVWDUeT7TNKJxd8cAAAAZACllBQAAAADAAAAAAAAAAEAAAALRmxpZ2h0IEZvb2QAAAAAAQAAAAAAAAABAAAAAO2qJCpl7XFjf2pboHgjw6+UHB+gZF1fjqdFix/uIuC5AAAAAAAAAAA7msoAAAAAAAAAAAGJxd8cAAAAQGvtJoDSUNSJh+bUkVc0H2PkNce1/N57A6NH1OnyFi0OZ80VqjWyScg7SAJBZmf3uID/lH4iGqnaHqE2j83FZQA=',
+  result_xdr: 'AAAAAAAAAGQAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAA=',
+  result_meta_xdr: 'AAAAAQAAAAIAAAADAKWUaQAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAV8bzdVACllBQAAAACAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAKWUaQAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAV8bzdVACllBQAAAADAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAMApZRpAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABXxvN1UAKWUFAAAAAMAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApZRpAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABW2IhNUAKWUFAAAAAMAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAMApZRoAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAc/fOlGgAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApZRpAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAdAa1RugAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA==' }
+[90mPOST /food/flyer/5b8c22d7819a5a32a58d657f/ticket/5b8c247c819a5a32a58d6580 [32m200 [90m2435ms - 410b[0m
+[90mGET /ticket/5b8c247c819a5a32a58d6580/flyer/5b8c22d7819a5a32a58d657f [32m200 [90m307ms - 258b[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m3ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m0ms[0m
+[90mGET /flyer [32m200 [90m4ms - 412b[0m
+[90mGET / [32m200 [90m4ms - 15.49kb[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m1ms[0m
+[90mGET /flyer [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m1ms[0m
+[90mGET /ticket/5b8c247c819a5a32a58d6580/flyer/5b8c22d7819a5a32a58d657f [32m200 [90m308ms - 258b[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m0ms[0m
+[90mGET /ticket/5b8c247c819a5a32a58d6580/flyer/5b8c22d7819a5a32a58d657f [36m304 [90m279ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m2ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [32m200 [90m3ms - 84.89kb[0m
+[90mGET / [32m200 [90m0ms - 15.49kb[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [32m200 [90m1ms - 84.89kb[0m
+[90mGET /index.hyperesources/bootstrap.min.css [32m200 [90m24ms - 141.48kb[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [32m200 [90m3ms - 13.67kb[0m
+[90mGET /index.hyperesources/renderjson.js [32m200 [90m2ms - 9.32kb[0m
+[90mGET /index.hyperesources/socket.io.min.js [32m200 [90m3ms - 95.4kb[0m
+[90mGET /index.hyperesources/logic.js [32m200 [90m2ms - 19.96kb[0m
+[90mGET /index.hyperesources/jsQR.js [32m200 [90m4ms - 245.17kb[0m
+[90mGET /index.hyperesources/stellerJS.js [32m200 [90m1ms - 5.11kb[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [32m200 [90m65ms - 459.2kb[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [32m200 [90m2ms - 55.55kb[0m
+[90mGET /index.hyperesources/Pasted.jpg [32m200 [90m2ms - 7.9kb[0m
+[90mGET /index.hyperesources/Pasted-4.jpg [32m200 [90m2ms - 7.77kb[0m
+[90mGET /index.hyperesources/Pasted-5.jpg [32m200 [90m2ms - 7kb[0m
+[90mGET /index.hyperesources/Pasted-1.jpg [32m200 [90m3ms - 56.37kb[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [32m200 [90m28ms - 110.65kb[0m
+[90mGET /index.hyperesources/Pasted-8.jpg [32m200 [90m1ms - 6.66kb[0m
+[90mGET /index.hyperesources/Pasted-7.jpg [32m200 [90m1ms - 5.51kb[0m
+[90mGET /index.hyperesources/Pasted-9.jpg [32m200 [90m1ms - 8.11kb[0m
+[90mGET /index.hyperesources/Pasted-10.jpg [32m200 [90m1ms - 8.62kb[0m
+[90mGET /index.hyperesources/Pasted-14.jpg [32m200 [90m2ms - 2.89kb[0m
+[90mGET /index.hyperesources/Pasted-15.jpg [32m200 [90m1ms - 3.77kb[0m
+[90mGET /index.hyperesources/Pasted-11.jpg [32m200 [90m2ms - 8.9kb[0m
+[90mGET /index.hyperesources/Pasted-16.jpg [32m200 [90m1ms - 5.62kb[0m
+[90mGET /index.hyperesources/Pasted-3.jpg [32m200 [90m3ms - 31.15kb[0m
+[90mGET /index.hyperesources/Pasted-6.jpg [32m200 [90m2ms - 12.35kb[0m
+[90mGET /index.hyperesources/Pasted-13.jpg [32m200 [90m2ms - 6.97kb[0m
+[90mGET /index.hyperesources/Pasted-12.jpg [32m200 [90m3ms - 17.18kb[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [32m200 [90m4ms - 103.12kb[0m
+[90mGET /index.hyperesources/Steller.png [32m200 [90m2ms - 1.7kb[0m
+[90mGET /index.hyperesources/Pasted-18.png [32m200 [90m2ms - 2.84kb[0m
+[90mGET /index.hyperesources/Pasted-20.png [32m200 [90m2ms - 2.45kb[0m
+[90mGET /index.hyperesources/Pasted-19.png [32m200 [90m1ms - 2.53kb[0m
+[90mGET /index.hyperesources/hyperledger.png [32m200 [90m1ms - 1.37kb[0m
+[90mGET /index.hyperesources/stellerDecen.png [32m200 [90m2ms - 18.61kb[0m
+[90mGET /index.hyperesources/hlWhite.png [32m200 [90m1ms - 1.64kb[0m
+[90mGET /index.hyperesources/Pasted-17.png [32m200 [90m1ms - 2.75kb[0m
+[90mGET /flyer [32m200 [90m2ms - 412b[0m
+[90mGET /ticket/5b8c247c819a5a32a58d6580/flyer/5b8c22d7819a5a32a58d657f [32m200 [90m344ms - 258b[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [32m200 [90m23ms - 141.48kb[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-4.jpg [32m200 [90m1ms - 7.77kb[0m
+[90mGET /index.hyperesources/Pasted-5.jpg [32m200 [90m2ms - 7kb[0m
+[90mGET /index.hyperesources/Pasted-1.jpg [32m200 [90m2ms - 56.37kb[0m
+[90mGET /index.hyperesources/Pasted.jpg [32m200 [90m2ms - 7.9kb[0m
+[90mGET /index.hyperesources/Pasted-7.jpg [32m200 [90m0ms - 5.51kb[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [32m200 [90m29ms - 110.65kb[0m
+[90mGET /index.hyperesources/Pasted-9.jpg [32m200 [90m1ms - 8.11kb[0m
+[90mGET /index.hyperesources/Pasted-8.jpg [32m200 [90m0ms - 6.66kb[0m
+[90mGET /index.hyperesources/Pasted-10.jpg [32m200 [90m0ms - 8.62kb[0m
+[90mGET /index.hyperesources/Pasted-11.jpg [32m200 [90m0ms - 8.9kb[0m
+[90mGET /index.hyperesources/Pasted-14.jpg [32m200 [90m0ms - 2.89kb[0m
+[90mGET /index.hyperesources/Pasted-15.jpg [32m200 [90m1ms - 3.77kb[0m
+[90mGET /index.hyperesources/Pasted-16.jpg [32m200 [90m0ms - 5.62kb[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [32m200 [90m0ms - 103.12kb[0m
+[90mGET /index.hyperesources/Pasted-6.jpg [32m200 [90m10ms - 12.35kb[0m
+[90mGET /index.hyperesources/Pasted-12.jpg [32m200 [90m9ms - 17.18kb[0m
+[90mGET /index.hyperesources/Pasted-3.jpg [32m200 [90m9ms - 31.15kb[0m
+[90mGET /index.hyperesources/Pasted-13.jpg [32m200 [90m1ms - 6.97kb[0m
+[90mGET /index.hyperesources/Steller.png [32m200 [90m1ms - 1.7kb[0m
+[90mGET /index.hyperesources/Pasted-18.png [32m200 [90m2ms - 2.84kb[0m
+[90mGET /index.hyperesources/Pasted-19.png [32m200 [90m1ms - 2.53kb[0m
+[90mGET /index.hyperesources/stellerDecen.png [32m200 [90m1ms - 18.61kb[0m
+[90mGET /index.hyperesources/Pasted-20.png [32m200 [90m1ms - 2.45kb[0m
+[90mGET /index.hyperesources/hyperledger.png [32m200 [90m2ms - 1.37kb[0m
+[90mGET /index.hyperesources/Pasted-17.png [32m200 [90m1ms - 2.75kb[0m
+[90mGET /index.hyperesources/hlWhite.png [32m200 [90m1ms - 1.64kb[0m
+[90mGET /flyer [32m200 [90m1ms - 412b[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [32m200 [90m1ms - 84.89kb[0m
+[90mGET /index.hyperesources/bootstrap.min.css [32m200 [90m1ms - 141.48kb[0m
+[90mGET /index.hyperesources/logic.js [32m200 [90m1ms - 19.96kb[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [32m200 [90m1ms - 13.67kb[0m
+[90mGET /index.hyperesources/socket.io.min.js [32m200 [90m0ms - 95.4kb[0m
+[90mGET /index.hyperesources/jsQR.js [32m200 [90m189ms - 245.17kb[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [32m200 [90m275ms - 459.2kb[0m
+[90mGET /index.hyperesources/renderjson.js [32m200 [90m1ms - 9.32kb[0m
+[90mGET /index.hyperesources/stellerJS.js [32m200 [90m1ms - 5.11kb[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [32m200 [90m2ms - 55.55kb[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [32m200 [90m2ms - 110.65kb[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [32m200 [90m2ms - 15.59kb[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [32m200 [90m2ms - 17.31kb[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [32m200 [90m2ms - 16.84kb[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [32m200 [90m3ms - 79.73kb[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [32m200 [90m1ms - 12.89kb[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [32m200 [90m1ms - 19.02kb[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [32m200 [90m2ms - 15.46kb[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [32m200 [90m2ms - 22.08kb[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [32m200 [90m1ms - 20.6kb[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [32m200 [90m1ms - 4.39kb[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [32m200 [90m1ms - 5.73kb[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [32m200 [90m1ms - 10.64kb[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [32m200 [90m1ms - 103.12kb[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [32m200 [90m3ms - 74.87kb[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [32m200 [90m1ms - 24.44kb[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [32m200 [90m2ms - 42.06kb[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [32m200 [90m1ms - 15.32kb[0m
+[90mGET /index.hyperesources/Steller_2x.png [32m200 [90m1ms - 4.05kb[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [32m200 [90m1ms - 6.54kb[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [32m200 [90m2ms - 4.66kb[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [32m200 [90m2ms - 51.62kb[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [32m200 [90m2ms - 5.33kb[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [32m200 [90m1ms - 3.95kb[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [32m200 [90m1ms - 4.62kb[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [32m200 [90m1ms - 7.25kb[0m
+[90mGET /flyer [32m200 [90m2ms - 412b[0m
+[90mGET /ticket/5b8c247c819a5a32a58d6580/flyer/5b8c22d7819a5a32a58d657f [32m200 [90m262ms - 258b[0m
+[90mGET /ticket/5b8c247c819a5a32a58d6580/flyer/5b8c22d7819a5a32a58d657f [36m304 [90m282ms[0m
+[90mGET / [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m1ms[0m
+[90mGET /flyer [36m304 [90m2ms[0m
+[90mGET / [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m1ms[0m
+[90mGET /flyer [36m304 [90m2ms[0m
+{ _links: 
+   { transaction: 
+      { href: 'https://horizon-testnet.stellar.org/transactions/d9a8580f4d269525e9154c5117485b5438ac06ab4c1f231964d8bea9e81af151' } },
+  hash: 'd9a8580f4d269525e9154c5117485b5438ac06ab4c1f231964d8bea9e81af151',
+  ledger: 10921993,
+  envelope_xdr: 'AAAAAOeaJ4A4TLn3zzsNuYs0ZwEOEzuHuVWDUeT7TNKJxd8cAAAAZACllBQAAAAEAAAAAAAAAAEAAAASVGlja2V0IFB1cmNoYXNlIFRYAAAAAAABAAAAAAAAAAEAAAAA7aokKmXtcWN/alugeCPDr5QcH6BkXV+Op0WLH+4i4LkAAAAAAAAAARsfP4AAAAAAAAAAAYnF3xwAAABAvDFWoPfR88GgtGNOuhIfml1nTGGwA5hRlUKrH/6fGRaGDIIUDsBfKKWTh/htshylNqsT7UdEplpPiI6jRtZICg==',
+  result_xdr: 'AAAAAAAAAGQAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAA=',
+  result_meta_xdr: 'AAAAAQAAAAIAAAADAKaoCQAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAVtiIS8ACllBQAAAADAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAKaoCQAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAVtiIS8ACllBQAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAMApqgJAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABW2IhLwAKWUFAAAAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApqgJAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABSbAtNwAKWUFAAAAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAMApZRpAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAdAa1RugAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApqgJAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAdE19FsgAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA==' }
+Purchased Ticket
+[90mPOST /ticket/5b8c22d7819a5a32a58d657f [32m200 [90m5559ms - 1.88kb[0m
+{ _links: 
+   { transaction: 
+      { href: 'https://horizon-testnet.stellar.org/transactions/d9a8580f4d269525e9154c5117485b5438ac06ab4c1f231964d8bea9e81af151' } },
+  hash: 'd9a8580f4d269525e9154c5117485b5438ac06ab4c1f231964d8bea9e81af151',
+  ledger: 10921993,
+  envelope_xdr: 'AAAAAOeaJ4A4TLn3zzsNuYs0ZwEOEzuHuVWDUeT7TNKJxd8cAAAAZACllBQAAAAEAAAAAAAAAAEAAAASVGlja2V0IFB1cmNoYXNlIFRYAAAAAAABAAAAAAAAAAEAAAAA7aokKmXtcWN/alugeCPDr5QcH6BkXV+Op0WLH+4i4LkAAAAAAAAAARsfP4AAAAAAAAAAAYnF3xwAAABAvDFWoPfR88GgtGNOuhIfml1nTGGwA5hRlUKrH/6fGRaGDIIUDsBfKKWTh/htshylNqsT7UdEplpPiI6jRtZICg==',
+  result_xdr: 'AAAAAAAAAGQAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAA=',
+  result_meta_xdr: 'AAAAAQAAAAIAAAADAKaoCQAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAVtiIS8ACllBQAAAADAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAKaoCQAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAVtiIS8ACllBQAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAMApqgJAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABW2IhLwAKWUFAAAAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApqgJAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABSbAtNwAKWUFAAAAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAMApZRpAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAdAa1RugAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApqgJAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAdE19FsgAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA==' }
+Purchased Ticket
+[90mPOST /ticket/5b8c22d7819a5a32a58d657f [32m200 [90m2969ms - 1.88kb[0m
+{ _links: 
+   { transaction: 
+      { href: 'https://horizon-testnet.stellar.org/transactions/c8adfb071452a1d8a38f95b6fdaeae2141232e0f0f86e70c787e904986bfc1ed' } },
+  hash: 'c8adfb071452a1d8a38f95b6fdaeae2141232e0f0f86e70c787e904986bfc1ed',
+  ledger: 10921995,
+  envelope_xdr: 'AAAAAOeaJ4A4TLn3zzsNuYs0ZwEOEzuHuVWDUeT7TNKJxd8cAAAAZACllBQAAAAFAAAAAAAAAAEAAAALRmxpZ2h0IEZvb2QAAAAAAQAAAAAAAAABAAAAAO2qJCpl7XFjf2pboHgjw6+UHB+gZF1fjqdFix/uIuC5AAAAAAAAAAA7msoAAAAAAAAAAAGJxd8cAAAAQDKzToX2JdkieSFUnsFHdKgEZ3g9a2GYuEc62YLvViphBFzajAC/eesbzYfTEaoifaK8MhY1YzSUE+T/7GQknAU=',
+  result_xdr: 'AAAAAAAAAGQAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAA=',
+  result_meta_xdr: 'AAAAAQAAAAIAAAADAKaoCwAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAUmwLTDACllBQAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAKaoCwAAAAAAAAAA55ongDhMuffPOw25izRnAQ4TO4e5VYNR5PtM0onF3xwAAAAUmwLTDACllBQAAAAFAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAMApqgLAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABSbAtMMAKWUFAAAAAUAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApqgLAAAAAAAAAADnmieAOEy59887DbmLNGcBDhM7h7lVg1Hk+0zSicXfHAAAABRfaAkMAKWUFAAAAAUAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAMApqgJAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAdE19FsgAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEApqgLAAAAAAAAAADtqiQqZe1xY39qW6B4I8OvlBwfoGRdX46nRYsf7iLguQAAAdFxjyUgAJ2/AwAAAAgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA==' }
+[90mPOST /food/flyer/5b8c22d7819a5a32a58d657f/ticket/5b8c247c819a5a32a58d6580 [32m200 [90m5753ms - 574b[0m
+[90mGET /ticket/5b8c247c819a5a32a58d6580/flyer/5b8c22d7819a5a32a58d657f [36m304 [90m284ms[0m
+[90mGET /ticket/5b91a7b2819a5a32a58d6582/flyer/5b8c22d7819a5a32a58d657f [32m200 [90m267ms - 216b[0m
+[90mGET /ticket/5b91a7b5819a5a32a58d6584/flyer/5b8c22d7819a5a32a58d657f [32m200 [90m286ms - 216b[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m0ms[0m
+[90mGET /flyer [32m200 [90m3ms - 576b[0m
+[90mGET /ticket/5b8c247c819a5a32a58d6580/flyer/5b8c22d7819a5a32a58d657f [36m304 [90m279ms[0m
+[90mGET /ticket/5b91a7b2819a5a32a58d6582/flyer/5b8c22d7819a5a32a58d657f [36m304 [90m260ms[0m
+[90mGET /ticket/5b91a7b5819a5a32a58d6584/flyer/5b8c22d7819a5a32a58d657f [36m304 [90m256ms[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
+[90mGET / [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery.qrcode.min.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/jquery-3.3.1.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/jsQR.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/socket.io.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/renderjson.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/stellerJS.js [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/logic.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/index_hype_generated_script.js?19875 [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/HYPE-596.thin.min.js [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-2.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-4_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-5_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-7_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-8_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-10_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-11_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-9_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-14_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-16_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-1-1.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-3_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-15_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-6_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-12_2x.jpg [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-13_2x.jpg [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Steller_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-18_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-20_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/Pasted-19_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/stellerDecen_2x.png [36m304 [90m1ms[0m
+[90mGET /index.hyperesources/hlWhite_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/hyperledger_2x.png [36m304 [90m0ms[0m
+[90mGET /index.hyperesources/Pasted-17_2x.png [36m304 [90m0ms[0m
+[90mGET /flyer [32m200 [90m2ms - 576b[0m
+[90mGET / [32m200 [90m1ms - 15.49kb[0m
