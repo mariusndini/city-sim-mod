@@ -47,7 +47,7 @@ namespace data
         {
             camera.m_targetSize = 250;
             camera.m_targetPosition = new Vector3(215.157f, 246.2631f, 285.6922f);
-            camera.m_targetAngle = new Vector3(45, 45);
+            camera.m_targetAngle = new Vector3(45, 45); 
 
             vehiclestats vehicle = new vehiclestats();
             DistrictStats districts = new DistrictStats();
