@@ -32,3 +32,10 @@ C:\Users\nait\source\mods\DataMod\obj\Debug\ModLib.csproj.CoreCompileInputs.cach
 C:\Users\nait\source\mods\DataMod\obj\Debug\ModLib.csproj.CopyComplete
 C:\Users\nait\source\mods\DataMod\obj\Debug\ModLib.dll
 C:\Users\nait\source\mods\DataMod\obj\Debug\ModLib.pdb
+C:\Users\nait\Documents\GitHub\city-sim-mod\mod\bin\Debug\ModLib.dll
+C:\Users\nait\Documents\GitHub\city-sim-mod\mod\bin\Debug\ModLib.pdb
+C:\Users\nait\Documents\GitHub\city-sim-mod\mod\obj\Debug\ModLib.csprojAssemblyReference.cache
+C:\Users\nait\Documents\GitHub\city-sim-mod\mod\obj\Debug\ModLib.csproj.CoreCompileInputs.cache
+C:\Users\nait\Documents\GitHub\city-sim-mod\mod\obj\Debug\ModLib.csproj.CopyComplete
+C:\Users\nait\Documents\GitHub\city-sim-mod\mod\obj\Debug\ModLib.dll
+C:\Users\nait\Documents\GitHub\city-sim-mod\mod\obj\Debug\ModLib.pdb

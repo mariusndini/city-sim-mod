@@ -10,14 +10,14 @@ const csv = require('csvtojson');
 var http = require('http');
 var app = express();
 var request = require('request');
-
+var path = 'C:/Users/nait/AppData/LocalLow/Colossal Order/Cities_ Skylines/';
 
 app.use(favicon());
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded());
 app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
+//app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
@@ -26,64 +26,58 @@ app.use(function(req, res, next) {
 });
 
 app.use('/', routes);
-
-
 //*********  read file and load here ******
-var timer = setInterval(getCityData, 1000);
+var timer = setInterval(getCityData, 5000);
 
 function getCityData() {  
-  var data = {};
+    var data = {};
+    data.generalData = {};
+    data.econData = {};    
 
-  //Get Cim data
-  csv()
-    .fromFile('/Users/i830729/Library/Application Support/unityColossalSkylines/cimdata.csv')
-    .then((cimData)=>{
-        data.citizens = cimData;
+    csv()
+    .fromFile(path + 'cimdata.csv') //get cims
+    .then((cimdata)=>{
+        data.citizens = cimdata;
+        return csv().fromFile(path + 'buildingdata.csv'); //get buildings
+    })
+    .then((buildingdata)=>{
+        data.buildings = buildingdata;
+        return csv().fromFile(path + 'inout.csv'); // get expense-income
+    })
+    .then((inoutdata)=>{
+        data.inout = inoutdata;
+        return csv().fromFile(path + 'genInfo.csv'); //get geninfo
+    })
+    .then((genInfo)=>{
+        data.genInfo = genInfo;
+        return csv().fromFile(path + 'vehicledata.csv'); //get geninfo
 
-        // Get Building Data
-        csv()
-          .fromFile('/Users/i830729/Library/Application Support/unityColossalSkylines/buildingdata.csv')
-          .then((buildingData)=>{
-            data.buildings = buildingData;
-
-              //get Gen info
-              csv()
-                .fromFile('/Users/i830729/Library/Application Support/unityColossalSkylines/genInfo.csv')
-                .then((info)=>{
-                  info.postTime = new Date();
-                  data.genInfo = info;
-
-                  csv()
-                  .fromFile('/Users/i830729/Library/Application Support/unityColossalSkylines/econdata.csv')
-                  .then((econ)=>{ 
-                    data.economy = econ;
-
-                      //Post Data to Server
-                      var options = {
-                        uri: 'http://blockchain.sapnait.com:45000/postCityData',
-                        method: 'POST',
-                        json: data
-                      };
-
-                      request.post(options, (err, httpResponse, body)=>{
-                        console.log(body);
-                      }); // end request
+    })
+    .then((vehicles)=>{
+        data.vehicles = vehicles;
+        return csv().fromFile(path + 'allcarsdata.csv'); //get geninfo
+    })
+    .then((allVehicles)=>{
+        data.allVehicles = allVehicles;
+        postData(data);
+    })
 
 
-                  })// end csv
 
 
-            })// end building CSV   
+    //Post Data to server
+    function postData(d){
+        var options = {
+            uri: 'http://blockchain.sapnait.com:45000/postCityData',
+            method: 'POST',
+            json: d
+        };
+        request.post(options, (err, httpResponse, body)=>{
+            console.log(body);
+        }); // end request
+    }//end post data
 
-              
-            
-        })// end building CSV
-
-  })//end CSV
-
-  
-
-}//end end get ata
+}//end end get data
 
 
 module.exports = app;

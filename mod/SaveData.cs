@@ -13,7 +13,7 @@ namespace data
 
         //for Mac need to provide full path - is issue with folder permissons 
         //static string path = "/Users/i830729/Library/Application Support/unityColossalSkylines/";
-        public static void WriteString(string cim, string bdr, string genInfo, string econInfo, string vehicleData, string districtData)
+        public static void WriteString(string cim, string bdr, string genInfo, string allCarsInfo, string vehicleData, string districtData)
         {
             string cimDataPath = path + "/cimdata.csv";
             System.IO.File.WriteAllText(cimDataPath, cim);
@@ -24,8 +24,8 @@ namespace data
             string genDataPath = path + "/genInfo.csv";
             System.IO.File.WriteAllText(genDataPath, genInfo);
 
-            //string econDataPath = path + "/econdata.csv";
-            //System.IO.File.WriteAllText(econDataPath, econInfo);
+            string allcarsDataPath = path + "/allcarsdata.csv";
+            System.IO.File.WriteAllText(allcarsDataPath, allCarsInfo);
 
             string vehiclePath = path + "/vehicledata.csv";
             System.IO.File.WriteAllText(vehiclePath, vehicleData);

@@ -71,7 +71,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BuildingData.cs" />
+    <Compile Include="CimData.cs" />
     <Compile Include="CityInformation.cs" />
+    <Compile Include="GenInfo.cs" />
     <Compile Include="incomeExpenseStats.cs" />
     <Compile Include="DistrictStats.cs" />
     <Compile Include="NetWorking.cs" />

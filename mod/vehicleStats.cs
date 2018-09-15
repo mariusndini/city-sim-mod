@@ -7,6 +7,8 @@ using System.Globalization;
 
 public class vehiclestats
 {
+    private int dataLimit = 1500;
+
     public double activevehicles = 0,
         garbagetrucksinuse = 0, firetrucksinuse = 0, hearseinuse = 0, policecarsinuse = 0, healthcarevehiclesinuse = 0,
         maintenancetrucksinuse = 0, snowtrucksinuse = 0,
@@ -73,6 +75,8 @@ public class vehiclestats
             Vehicle myv = vm.m_vehicles.m_buffer[i];
             if (!myv.m_flags.IsFlagSet(Vehicle.Flags.Created)) continue;
             if (myv.m_flags.IsFlagSet(Vehicle.Flags.Deleted)) continue;
+            if (myv.m_flags < 0) continue;
+            
 
             if (myv.Info.m_vehicleType == VehicleInfo.VehicleType.Car)
             {
@@ -202,8 +206,56 @@ public class vehiclestats
         }//end for loop
 
 
+       
+
     }//end vehicle stats
 
+    public string getAllVehicles()
+    {
+        VehicleManager vm = Singleton<VehicleManager>.instance;
+        BuildingManager bm = Singleton<BuildingManager>.instance;
 
-           
+        string allcars = "";
+        int count = 0;
+
+        allcars = allcars + "id,info,flags,type,path,source,destination,tourist,trailing,wait" + Environment.NewLine;
+
+        for (int i = 0; i < vm.m_vehicles.m_buffer.Length; i++)
+        {
+            Vehicle myv = vm.m_vehicles.m_buffer[i];
+            if (!myv.m_flags.IsFlagSet(Vehicle.Flags.Created)) continue;
+            if (myv.m_flags.IsFlagSet(Vehicle.Flags.DummyTraffic)) continue;
+            if (myv.m_flags.IsFlagSet(Vehicle.Flags.Deleted)) continue;
+            if (myv.m_flags < 0) continue;
+
+            if (!myv.Info.ToString().Contains("Ore Truck") &&
+                    !myv.Info.ToString().Contains("Forestry Trailer") &&
+                    !myv.Info.ToString().Contains("Oil Truck Trailer") &&
+                    !myv.Info.ToString().Contains("Train Passenger") &&
+                    !myv.Info.ToString().Contains("Tractor Trailer") &&
+                    !myv.Info.ToString().Contains("Train Cargo"))
+            {
+                allcars = allcars + i + ','
+                            + myv.Info.ToString() + ','
+                            + (myv.m_flags + "").Replace(",", "-") + ','
+                            + myv.GetType() + ','
+                            + myv.m_path + ','
+                            + myv.m_sourceBuilding + ','
+                            + myv.m_targetBuilding + ','
+                            + myv.m_touristCount + ','
+                            + myv.m_trailingVehicle + ','
+                            + myv.m_waitCounter + ','
+                            + Environment.NewLine;
+                count++;
+            }
+
+            if (count > dataLimit)
+            {
+                return allcars;
+            }
+        }//end for
+        return allcars;
+    }//end get all cars
+
+
 }//end namespace

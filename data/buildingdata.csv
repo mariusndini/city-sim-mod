@@ -1,437 +1,195 @@
 id, flags, type, happiness, health, youngs, teens, adults, seniors, p_electric, p_heating, p_water, p_worker, p_health, p_service, p_tax, x,y,z
-2,Created- Completed- Active,H3 1x1 Shop13 (BuildingInfo),76,86,0,0,2,0,0,0,0,0,0,0,0,-1140.779,55.11307,-449.0851
-7,Created- HighDensity- Completed- Active,H5 3x2 Tenement06 (BuildingInfo),95,89,9,1,4,14,0,0,0,0,0,0,0,-753.2941,46.40915,-636.4592
-9,Created- Completed- Active,H1 2x2 Sweatshop03 (BuildingInfo),99,89,0,0,0,0,0,0,0,0,0,0,0,-1178.81,44.69199,2282.204
-11,Created- Completed- Active,H2 2x2 Office08 (BuildingInfo),98,73,0,0,0,0,0,0,0,0,0,0,0,-2883.755,45.07237,-1812.284
-21,Created- HighDensity- Completed- Active,H2 2x2 tenement06 (BuildingInfo),82,64,0,0,13,0,0,0,0,0,0,0,0,-1344.741,63.5572,1572.874
-22,Created- HighDensity- Completed- Active,H4 1x1 Tenement06 (BuildingInfo),84,68,2,0,4,0,0,0,0,0,0,0,0,-1681.335,44.50295,-2670.086
-23,Created- HighDensity- Completed- Active- ZonesUpdated,H4 4x4 Tenement07b (BuildingInfo),87,74,16,16,26,17,0,0,0,0,0,0,0,-1994.678,49.24079,-2865.455
-27,Created- HighDensity- Completed- Active,H3 4x4 Shop07a (BuildingInfo),77,84,0,0,13,0,0,0,0,0,0,0,0,-1637.417,60.94624,954.8315
-33,Created- Completed- Active,H2 3x3 Sweatshop04 (BuildingInfo),98,81,0,0,0,0,0,0,0,0,0,0,0,-76.67932,48.58868,2591.872
-38,Created- Completed- Active,H1 4x4 Mediumfactory03 (BuildingInfo),96,88,0,0,0,0,0,0,0,0,0,0,0,863.4293,47.35036,2826.6
-45,Created- HighDensity- Completed- Active,H3 4x3 Shop03 (BuildingInfo),76,80,0,0,10,0,0,0,0,0,0,0,0,-886.8359,71.28345,1753.987
-47,Created- Completed- Active,L4 3x3 Villa05 (BuildingInfo),95,90,1,4,6,0,0,0,0,0,0,0,0,-2616.313,45.94221,-1218.589
-51,Created- Completed- Active,H2 3x3 Sweatshop04 (BuildingInfo),98,83,0,0,0,0,0,0,0,0,0,0,0,-2950.96,45.13581,-2007.919
-52,Created- Completed- Active- ZonesUpdated,Regular Plaza (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-2721.632,47.76299,-1983.227
-53,Created- HighDensity- Completed- Active,H4 3x2 tenement07 (BuildingInfo),91,82,8,4,1,15,0,0,0,0,0,0,0,-2869.306,43.25379,-1448.13
-56,Created- Completed- Active,H5 3x3 Tenement03 (BuildingInfo),93,85,16,5,20,14,0,0,0,0,0,0,0,-1502.64,66.8125,421.9119
-57,Created- HighDensity- Completed- Active- ZonesUpdated,H4 4x3 Tenement07 (BuildingInfo),93,89,16,7,22,27,0,0,0,0,0,0,0,-1112.233,48.41281,-960.0555
-58,Created- Completed- Active,H1 3x3 Sweatshop07 (BuildingInfo),99,93,0,0,0,0,0,0,0,0,0,0,0,591.3347,47.54338,1207.967
-60,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),78,85,0,0,10,0,0,0,0,0,0,0,0,-1689.971,59.13507,-720.8798
-64,Created- HighDensity- Completed- Active- ZonesUpdated,H3 3x4 Tenement08 (BuildingInfo),94,87,1,9,29,0,0,0,0,0,0,0,0,-2956.911,50.375,-3484.772
-65,Created- Completed- Active,L3 4x3 Detached01 (BuildingInfo),86,80,5,4,6,4,0,0,0,0,0,0,0,116.831,46.66637,1837.57
-69,Created- HighDensity- Completed- Active,H3 1x1 Tenement05 (BuildingInfo),74,47,0,2,3,0,0,0,0,0,0,0,0,-1372.28,40.84695,-2688.171
-70,Created- Completed- Active- ZonesUpdated,L2 3x2 Detached01 (BuildingInfo),91,86,0,2,2,0,0,0,0,0,0,0,0,-851.1132,68.34006,1964.937
-73,Created- HighDensity- Completed- Active- ZonesUpdated,H4 3x3 Tenement08 (BuildingInfo),91,88,13,0,4,18,0,0,0,0,0,0,0,-2568.965,45.57534,-612.7576
-75,Created- HighDensity- Completed- Active,H5 4x3 Tenement04 (BuildingInfo),95,93,16,2,15,32,0,0,0,0,0,0,0,-2153.404,54.13636,-972.5172
-77,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),93,86,2,1,3,10,0,0,0,0,0,0,0,-1904.301,51.89605,-1511.984
-84,Created- Completed- Active,H3 1x1 Facility05 (BuildingInfo),96,56,0,0,0,0,0,0,0,0,0,0,0,-1814.356,48.08214,-3426.286
-89,Created- Completed- Active,H2 4x4 Sweatshop04 (BuildingInfo),99,89,0,0,0,0,0,0,0,0,0,0,0,-1277.635,62.28309,1983.434
-91,Created- Completed- Active,L3 1x1 Shop07 (BuildingInfo),79,57,0,0,1,0,0,0,0,0,0,0,0,-2536.408,47.32675,-3415.041
-93,Created- Completed- Active,H2 4x3 Sweatshop01 (BuildingInfo),99,88,0,0,0,0,0,0,0,0,0,0,0,46.69711,47.42533,2585.373
-95,Created- HighDensity- Completed- Active,H2 1x1 Tenement01 (BuildingInfo),96,92,0,2,4,0,0,0,0,0,0,0,0,-2755.217,47.57043,-3315.799
-96,Created- Completed- Active,H2 2x2 Office04 (BuildingInfo),100,92,0,0,0,0,0,0,0,0,0,0,0,75.68436,45.74762,1342.117
-98,Created- Completed- Active,H2 2x2 Office08 (BuildingInfo),100,89,0,0,0,0,0,0,0,0,0,0,0,-2222.28,52.52383,-489.7102
-102,Created- HighDensity- Completed- Active,H5 4x3 Highrise04 (BuildingInfo),99,97,15,0,12,13,0,0,0,0,0,0,0,-2023.757,55.20484,-1096.331
-104,Created- Completed- Active,H5 3x2 Tenement02 (BuildingInfo),83,78,5,2,14,7,0,0,0,0,0,0,0,-652.2219,53.69098,127.8871
-105,Created- Completed- Active- ZonesUpdated,L3 1x1 Detached (BuildingInfo),87,73,0,1,2,0,0,0,0,0,0,0,0,-2567.339,48.34477,-2547.967
-107,Created- Completed- Active,H2 4x3 Office09a (BuildingInfo),99,86,0,0,0,0,0,0,0,0,0,0,0,-1939.358,63.53091,95.54319
-108,Created- HighDensity- Completed- Active- ZonesUpdated,H5 3x3 Tenement03 (BuildingInfo),99,97,14,15,23,12,0,0,0,0,0,0,0,-1610.563,53.4324,-1434.967
-109,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),80,91,0,0,5,0,0,0,0,0,0,0,0,-2442.75,48.66461,-1432.177
-115,Created- Completed- Active,H2 2x2 sweatshop01 (BuildingInfo),98,86,0,0,0,0,0,0,0,0,0,0,0,347.4012,42.95477,2870.751
-117,Created- Completed- Active,H5 4x4 Tenement01 (BuildingInfo),92,91,22,10,24,24,0,0,0,0,0,0,0,-1721.882,64.22008,215.8783
-127,Created- Completed- Active,H2 2x2 sweatshop01 (BuildingInfo),98,78,0,0,0,0,0,0,0,0,0,0,0,-3024.158,42.6175,-2283.937
-131,Created- Completed- Active- ZonesUpdated,High School (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-2712.762,46.5882,-3099.779
-133,Created- Completed- Active,H5 2x2 tenement03 (BuildingInfo),95,92,4,4,6,6,0,0,0,0,0,0,0,-978.2413,59.82406,-339.8842
-140,Created- HighDensity- Completed- Active,H4 3x4 Tenement07b (BuildingInfo),95,93,8,11,19,6,0,0,0,0,0,0,0,-2158.727,49.42841,208.446
-141,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),95,94,3,2,6,4,0,0,0,0,0,0,0,-1837.178,63.59192,75.18872
-145,Created- Completed- Active,L3 4x4 Shop07a (BuildingInfo),78,82,0,0,3,0,0,0,0,0,0,0,0,-2439.927,48.26853,-2144.803
-158,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),76,81,0,0,3,0,0,0,0,0,0,0,0,-3169.11,46.55877,-3869.259
-159,Created- HighDensity- Completed- Active,H4 1x1 Tenement06 (BuildingInfo),92,86,0,1,4,0,0,0,0,0,0,0,0,-1754.356,51.23824,1262.24
-171,Created- Completed- Active,H3 2x2 Shop01 (BuildingInfo),77,89,0,0,4,0,0,0,0,0,0,0,0,-1179.892,51.49341,-676.421
-175,Created- Completed- Active- ZonesUpdated,L3 2x2 Detached04 (BuildingInfo),90,79,0,3,2,0,0,0,0,0,0,0,0,-2120.572,52.26563,-2340.573
-181,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),97,93,6,5,6,4,0,0,0,0,0,0,0,-2358.245,50.69417,-793.101
-183,Created- Completed- Active,H1 4x4 Sweatshop02 (BuildingInfo),98,80,0,0,0,0,0,0,0,0,0,0,0,-266.9281,82.84197,3079.262
-187,Created- Completed- Active,L3 3x3 Shop06 (BuildingInfo),80,75,0,0,5,0,0,0,0,0,0,0,0,-1825.258,45.67451,-2502.716
-190,Created- Completed- Active,L3 2x2 Detached12 (BuildingInfo),96,91,1,1,2,0,0,0,0,0,0,0,0,-860.7304,80.47211,2186.212
-194,Created- HighDensity- Completed- Active,H4 3x2 tenement07 (BuildingInfo),76,58,15,10,12,24,0,0,0,0,0,0,0,-1416.817,42.13932,-2640.669
-196,Created- HighDensity- Completed- Active- ZonesUpdated,H4 2x2 Tenement09 (BuildingInfo),93,91,6,6,2,10,0,0,0,0,0,0,0,-2209.2,46.9535,103.6112
-197,Created- Completed- Active,H2 3x3 Office06 (BuildingInfo),99,78,0,0,0,0,0,0,0,0,0,0,0,-3101.683,42.35435,-2433.744
-199,Created- Completed- Active,L3 2x2 Shop11 (BuildingInfo),80,82,0,0,2,0,0,0,0,0,0,0,0,-2429.366,47.1566,-3456.754
-200,Created- HighDensity- Completed- Active,H3 4x3 Shop13 (BuildingInfo),51,81,0,0,10,0,0,0,0,0,0,0,0,-1341.434,68.96177,794.9789
-203,Created- Completed- Active,L3 2x2 Shop03 (BuildingInfo),77,70,0,0,1,0,0,0,0,0,0,0,0,-1808.076,45.62922,-2548.419
-206,Created- Completed- Active,H3 3x4 Office08 (BuildingInfo),98,83,0,0,0,0,0,0,0,0,0,0,0,-2164.227,53.41435,-502.5861
-207,Created- Completed- Active,H3 4x3 Office06 (BuildingInfo),98,87,0,0,0,0,0,0,0,0,0,0,0,-1025.766,72.10585,1341.714
-210,Created- HighDensity- Completed- Active,H3 3x3 Tenement04 (BuildingInfo),98,96,0,4,40,0,0,0,0,0,0,0,0,-2052.862,52.3427,-1561.076
-213,Created- HighDensity- Completed- Active,H5 4x3 Tenement04 (BuildingInfo),97,94,17,1,15,12,0,0,0,0,0,0,0,-2050.68,54.79396,-1079.036
-214,Created- Completed- Active,H2 3x3 Sweatshop04 (BuildingInfo),98,84,0,0,0,0,0,0,0,0,0,0,0,-1124.197,74.33024,2061.89
-216,Created- HighDensity- Completed- Active,H2 2x2 Shop01 (BuildingInfo),79,82,0,0,4,0,0,0,0,0,0,0,0,-991.8342,73.99303,1685.756
-219,Created- Completed- Active- ZonesUpdated,Elementary School (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-2753.681,43.72754,-723.093
-221,Created- HighDensity- Completed- Active,H3 2x3 Shop04 (BuildingInfo),73,86,0,0,7,0,0,0,0,0,0,0,0,-1973.589,55.32813,-544.6077
-222,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),82,64,1,7,11,1,0,0,0,0,0,0,0,-1912.636,47.80785,-2898.274
-225,Created- Completed- Active,L4 3x3 Villa05 (BuildingInfo),97,93,5,3,8,0,0,0,0,0,0,0,0,-880.8443,56.30597,-664.9792
-229,Created- Completed- Active,H3 1x1 Shop10 (BuildingInfo),80,83,0,0,1,0,0,0,0,0,0,0,0,-1644.594,61.60025,-329.8787
-231,Created- Completed- Active,L5 3x3 Villa01 (BuildingInfo),91,92,5,2,6,3,0,0,0,0,0,0,0,-144.8714,51.06791,383.4872
-232,Created- Completed- Active,H3 2x2 Shop01 (BuildingInfo),79,92,0,0,4,0,0,0,0,0,0,0,0,-1890.911,57.31135,-548.835
-239,Created- HighDensity- Completed- Active,H3 2x2 Tenement04 (BuildingInfo),87,74,2,2,10,0,0,0,0,0,0,0,0,-1750.194,45.4146,-3066.789
-240,Created- HighDensity- Completed- Active,H3 4x3 Shop05a (BuildingInfo),76,80,0,0,11,0,0,0,0,0,0,0,0,-3174.33,42.73093,-3409.726
-241,Created- Completed- Active,L3 1x1 Shop07 (BuildingInfo),78,78,0,0,1,0,0,0,0,0,0,0,0,-3092.161,42.06119,-2501.302
-244,Created- Completed- Active,H2 4x4 Bigfactory07 (BuildingInfo),98,88,0,0,0,0,0,0,0,0,0,0,0,79.54057,46.4881,2758.327
-251,Created- Completed- Active,H5 1x1 highrise_hiden_hightech01 (BuildingInfo),95,89,1,1,1,3,0,0,0,0,0,0,0,-483.4752,56.49655,275.9297
-253,Created- Completed- Active,H5 3x3 Tenement03 (BuildingInfo),96,93,13,2,17,17,0,0,0,0,0,0,0,-2282.583,51.52799,-983.9137
-254,Created- Completed- Active,H2 2x2 Office07 (BuildingInfo),100,91,0,0,0,0,0,0,0,0,0,0,0,-2695.314,46.96875,-2076.688
-257,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),96,91,3,6,8,6,0,0,0,0,0,0,0,-2487.687,51.71379,-1032.077
-258,Created- HighDensity- Completed- Active,H1 2x2 Tenement05 (BuildingInfo),83,66,0,0,4,0,0,0,0,0,0,0,0,-2175.727,52.49326,-2767.812
-261,Created- HighDensity- Completed- Active,H5 1x1 highrise_hiden_hightech01 (BuildingInfo),100,99,0,0,2,0,0,0,0,0,0,0,0,-1895.924,59.94545,-1145.388
-264,Created- HighDensity- Completed- Active,H3 3x3 Shop06 (BuildingInfo),78,86,0,0,11,0,0,0,0,0,0,0,0,-1628.451,60.31955,-576.83
-267,Created- Completed- Active,H2 2x2 sweatshop01 (BuildingInfo),94,85,0,0,0,0,0,0,0,0,0,0,0,-1116.369,73.19364,1925.967
-268,Created- Completed- Active,H3 2x2 Shop01 (BuildingInfo),75,84,0,0,8,0,0,0,0,0,0,0,0,-1649.792,64.71658,571.1306
-269,Created- Completed- Active,H2 2x2 Office08 (BuildingInfo),100,93,0,0,0,0,0,0,0,0,0,0,0,-2477.124,44.89682,-338.9301
-275,Created- HighDensity- Completed- Active,H4 1x1 Tenement06 (BuildingInfo),86,72,4,4,5,1,0,0,0,0,0,0,0,-3023.418,43.20095,-2840.75
-281,Created- Completed- Active- ZonesUpdated,L4 3x2 Villa02 (BuildingInfo),86,71,1,0,4,0,0,0,0,0,0,0,0,-2063.58,50.63427,-2539.232
-288,Created- Completed- Active,H2 3x2 Office08 (BuildingInfo),100,92,0,0,0,0,0,0,0,0,0,0,0,-2459.067,52.53128,-825.7036
-290,Created- Completed- Active,L4 2x3 Villa04 (BuildingInfo),74,53,0,0,2,1,0,0,0,0,0,0,0,-2718.834,45.21889,-1504.926
-294,Created- Completed- Active,H2 2x2 Office04 (BuildingInfo),99,82,0,0,0,0,0,0,0,0,0,0,0,-1654.585,60.75999,1129.039
-295,Created- Completed- Active- ZonesUpdated,Crematory (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-1787.874,48.86968,-3253.734
-296,Created- Completed- Active,H2 4x4 Office06 (BuildingInfo),99,85,0,0,0,0,0,0,0,0,0,0,0,-1490.476,46.31391,-1557.76
-297,Created- HighDensity- Completed- Active,H3 3x3 Shop06 (BuildingInfo),73,87,0,0,14,0,0,0,0,0,0,0,0,-1956.762,55.34375,-555.4178
-299,Created- Completed- Active,H2 2x2 sweatshop01 (BuildingInfo),98,83,0,0,0,0,0,0,0,0,0,0,0,-1159.911,72.80815,1867.931
-300,Created- HighDensity- Completed- Active,H3 3x3 Shop06 (BuildingInfo),76,81,0,0,6,0,0,0,0,0,0,0,0,-1281.85,67.82567,1480.31
-305,Created- Completed- Active,H2 3x3 Office06 (BuildingInfo),100,89,0,0,0,0,0,0,0,0,0,0,0,-1239.442,73.84098,903.4977
-309,Created- Completed- Active,H5 2x2 tenement03 (BuildingInfo),93,91,4,1,8,6,0,0,0,0,0,0,0,-2113.419,53.70193,-1043.485
-316,Created- HighDensity- Completed- Active,H5 4x4 Highrise07 (BuildingInfo),95,93,22,17,27,20,0,0,0,0,0,0,0,-2078.686,53.15625,-1446.745
-319,Created- HighDensity- Completed- Active,H5 2x3 Tenement06 (BuildingInfo),89,83,9,2,8,9,0,0,0,0,0,0,0,-1648.836,52.33157,1365.065
-322,Created- HighDensity- Completed- Active,H3 4x4 Shop04 (BuildingInfo),79,82,0,0,8,0,0,0,0,0,0,0,0,-939.4879,73.68007,1601.245
-324,Created- Completed- Active,H3 4x3 Bigfactory06 (BuildingInfo),98,79,0,0,0,0,0,0,0,0,0,0,0,-1859.694,49.51674,-3337.329
-325,Created- Completed- Active- ZonesUpdated,L2 2x2 Detached01 (BuildingInfo),89,77,0,0,2,0,0,0,0,0,0,0,0,-2876.848,43.52631,-2976.826
-327,Created- Completed- Active,H5 3x2 Tenement02 (BuildingInfo),98,95,8,21,22,14,0,0,0,0,0,0,0,-899.0173,58.06035,-401.4274
-330,Created- HighDensity- Completed- Active,H5 4x3 Highrise01 (BuildingInfo),87,90,13,5,24,23,0,0,0,0,0,0,0,-102.2359,47.03682,397.0417
-332,Created- Completed- Active,L5 2x2 Villa09 (BuildingInfo),94,91,2,0,2,2,0,0,0,0,0,0,0,-282.5107,53.14988,560.446
-333,Created- Completed- Active,H3 4x3 Shop05a (BuildingInfo),77,82,0,0,20,0,0,0,0,0,0,0,0,-3393.994,41.01563,-3799.375
-335,Created- Completed- Active,H1 2x2 Sweatshop05 (BuildingInfo),98,77,0,0,0,0,0,0,0,0,0,0,0,22.5575,67.82934,3360.471
-336,Created- HighDensity- Completed- Active,H3 1x1 Shop10 (BuildingInfo),86,86,0,0,4,0,0,0,0,0,0,0,0,-3126.041,40.69287,-2640.5
-337,Created- HighDensity- Completed- Active,H3 3x3 Shop06 (BuildingInfo),74,87,0,0,7,0,0,0,0,0,0,0,0,-2972.919,44.53733,-3832.403
-340,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),90,80,2,5,9,2,0,0,0,0,0,0,0,-2621.142,47.77936,-1985.574
-343,Created- Completed- Active,L4 4x4 Villa08a (BuildingInfo),84,68,3,8,11,0,0,0,0,0,0,0,0,-1673.368,44.85938,-2957.324
-350,Created- Completed- Active,L3 2x2 Shop19 (BuildingInfo),77,76,0,0,1,0,0,0,0,0,0,0,0,-1698.781,44.07819,-2612.679
-351,Created- Completed- Active,H2 3x4 Office05a (BuildingInfo),95,81,0,0,0,0,0,0,0,0,0,0,0,-2386.719,46.98521,-383.015
-356,Created- Completed- Active,L4 2x2 Villa07 (BuildingInfo),88,75,2,2,0,4,0,0,0,0,0,0,0,-2401.776,52.38443,-3360.033
-357,Created- Completed- Active,L3 3x3 Semi-detachedhouse02 (BuildingInfo),71,42,1,2,2,0,0,0,0,0,0,0,0,-1460.293,42.73565,-2820.522
-358,Created- HighDensity- Completed- Active,H4 3x3 Tenement08 (BuildingInfo),94,92,13,9,26,11,0,0,0,0,0,0,0,-2115.313,51.66931,284.7093
-366,Created- Completed- Active,L4 3x2 Villa02b (BuildingInfo),95,89,2,2,2,6,0,0,0,0,0,0,0,-1991.12,50.82424,-1803.003
-369,Created- HighDensity- Completed- Active,H4 2x3 tenement04 (BuildingInfo),84,73,13,5,17,5,0,0,0,0,0,0,0,-1400.704,60.13266,1603.926
-371,Created- Completed- Active,L4 3x4 Villa01 (BuildingInfo),85,69,2,2,1,7,0,0,0,0,0,0,0,-2574.907,46.43008,-2278.951
-376,Created- Completed- Active,L3 1x1 Shop07 (BuildingInfo),80,78,0,0,1,0,0,0,0,0,0,0,0,-2377.408,50.94061,-2403.518
-380,Created- Completed- Active,H5 3x2 Highrise06 (BuildingInfo),95,91,3,4,5,11,0,0,0,0,0,0,0,-318.6956,51.65159,636.2693
-384,Created- Completed- Active,H5 4x3 Highrise03 (BuildingInfo),86,73,17,6,26,28,0,0,0,0,0,0,0,-540.2595,63.01267,444.3885
-387,Created- HighDensity- Completed- Active,H3 3x3 Shop06 (BuildingInfo),74,88,0,0,13,0,0,0,0,0,0,0,0,-1334.464,55.45328,-610.3754
-388,Created- Completed- Active,L4 4x3 Villa01 (BuildingInfo),93,85,5,0,0,8,0,0,0,0,0,0,0,-2634.33,46.67118,-1134.52
-391,Created- Completed- Active,L3 4x3 Shop10 (BuildingInfo),80,81,0,0,5,0,0,0,0,0,0,0,0,-479.5962,49.65625,2080.759
-392,Created- Completed- Active,L4 3x2 Villa04 (BuildingInfo),85,70,2,0,2,4,0,0,0,0,0,0,0,-1861.22,46.75256,-2820.876
-396,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),77,82,0,0,6,0,0,0,0,0,0,0,0,-3072.197,44.25,-3123.062
-399,Created- Completed- Active,H1 2x2 Sweatshop05 (BuildingInfo),98,85,0,0,0,0,0,0,0,0,0,0,0,20.92662,67.79688,3418.136
-405,Created- Completed- Active,L3 3x2 Detached06 (BuildingInfo),85,69,0,0,0,3,0,0,0,0,0,0,0,-1970.792,49.43633,-2340.026
-407,Created- Completed- Active,H1 2x2 Sweatshop06 (BuildingInfo),98,82,0,0,0,0,0,0,0,0,0,0,0,-41.15744,65.711,3258.783
-416,Created- Completed- Active,H3 3x2 Shop04 (BuildingInfo),76,90,0,0,8,0,0,0,0,0,0,0,0,-2300.301,49.27332,-531.8312
-418,Created- Completed- Active,L3 3x2 Detached06 (BuildingInfo),86,71,0,1,2,0,0,0,0,0,0,0,0,-1594.819,43.49979,-2965.676
-420,Created- HighDensity- Completed- Active,H3 1x1 Shop13 (BuildingInfo),80,94,0,0,1,0,0,0,0,0,0,0,0,-2027.58,59.90499,-127.4366
-421,Created- Completed- Active,H4 3x4 Tenement07b (BuildingInfo),89,78,11,1,20,7,0,0,0,0,0,0,0,-3026.909,49.51856,-3499.866
-431,Created- Completed- Active- ZonesUpdated,L4 3x2 Villa02b (BuildingInfo),91,83,1,1,2,2,0,0,0,0,0,0,0,-1693.757,46.58749,-1928.62
-435,Created- HighDensity- Completed- Active,H4 2x3 tenement04 (BuildingInfo),83,66,2,16,24,1,0,0,0,0,0,0,0,-1674.466,44.52549,-2393.512
-438,Created- Completed- Active,H2 2x2 sweatshop01 (BuildingInfo),98,87,0,0,0,0,0,0,0,0,0,0,0,-993.2829,73.09095,2385.77
-441,Created- Completed- Active,H2 4x4 Bigfactory02 (BuildingInfo),98,83,0,0,0,0,0,0,0,0,0,0,0,-1202.163,72.18639,1812.26
-449,Created- HighDensity- Completed- Active,H4 3x2 tenement07 (BuildingInfo),92,88,5,8,22,5,0,0,0,0,0,0,0,-2290.875,44.47577,99.53201
-459,Created- HighDensity- Completed- Active,H2 1x1 Tenement01 (BuildingInfo),96,92,0,0,2,0,0,0,0,0,0,0,0,-690.4419,44.59895,-643.5025
-462,Created- HighDensity- Completed- Active- ZonesUpdated,H2 4x4 Tenement09 (BuildingInfo),87,73,0,14,26,0,0,0,0,0,0,0,0,-2577.577,47.38916,-2673.57
-463,Created- Completed- Active,H1 2x2 Sweatshop06 (BuildingInfo),98,84,0,0,0,0,0,0,0,0,0,0,0,636.598,49.24243,2697.095
-471,Created- Completed- Active,H3 4x4 Shop11 (BuildingInfo),75,85,0,0,11,0,0,0,0,0,0,0,0,-1526.103,66.3558,843.0074
-474,Created- Completed- Active,H5 4x3 Highrise03 (BuildingInfo),94,92,19,9,22,29,0,0,0,0,0,0,0,-738.9705,57.36305,10.24355
-479,Created- Completed- Active- ZonesUpdated,Combustion Plant (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,844.3333,45.60109,1460.704
-487,Created- Completed- Active,H5 4x4 Highrise07 (BuildingInfo),95,92,27,8,16,30,0,0,0,0,0,0,0,-2332.51,51.3655,-1073.699
-489,Created- Completed- Active,L3 2x2 Detached05 (BuildingInfo),97,98,1,0,0,0,0,0,0,0,0,0,0,-796.6854,80.473,2325.326
-502,Created- Completed- Active,L3 2x2 Shop03 (BuildingInfo),79,79,0,0,1,0,0,0,0,0,0,0,0,-1916.605,47.44526,-2512.879
-503,Created- HighDensity- Completed- Active,H4 3x3 Tenement08 (BuildingInfo),82,70,10,2,11,14,0,0,0,0,0,0,0,-1619.024,42.72924,-3300.162
-505,Created- HighDensity- Completed- Active,H3 2x3 Shop04 (BuildingInfo),79,80,0,0,6,0,0,0,0,0,0,0,0,-1947.419,48.9319,-3096.525
-507,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),77,77,9,0,1,17,0,0,0,0,0,0,0,-1145.927,69.10675,1650.979
-508,Created- Completed- Active,L4 3x2 Villa02b (BuildingInfo),91,82,1,3,6,2,0,0,0,0,0,0,0,-2804.898,45.03125,-1641.81
-509,Created- Completed- Active,H2 1x1 Office01 (BuildingInfo),99,77,0,0,0,0,0,0,0,0,0,0,0,-123.3553,46.25651,1651.748
-510,Created- Completed- Active,L4 2x2 Villa02 (BuildingInfo),99,97,1,2,2,0,0,0,0,0,0,0,0,-1824.668,50.659,-1659.229
-522,Created- HighDensity- Completed- Active,H5 3x4 Tenement09 (BuildingInfo),95,90,14,2,11,26,0,0,0,0,0,0,0,-2340.827,50.22443,-780.4274
-524,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),76,84,0,0,5,0,0,0,0,0,0,0,0,-1630.681,60.79865,-617.952
-527,Created- Completed- Active,H2 4x3 Office09a (BuildingInfo),100,89,0,0,0,0,0,0,0,0,0,0,0,-2234.852,52.765,-434.5565
-529,Created- Completed- Active,H1 3x3 Sweatshop07 (BuildingInfo),98,87,0,0,0,0,0,0,0,0,0,0,0,-145.3104,49.34415,3017.221
-530,Created- HighDensity- Completed- Active,H4 3x3 Tenement08 (BuildingInfo),36,6,0,7,37,0,0,0,0,0,47,0,0,-1878.568,48.81384,-3202.681
-531,Created- Completed- Active,H2 4x4 Bigfactory07 (BuildingInfo),96,82,0,0,0,0,0,0,0,0,0,0,0,337.0561,43.23438,2470.885
-537,Created- Completed- Active- ZonesUpdated,Crematory (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-2929.226,43.98625,-2744.412
-545,Created- HighDensity- Completed- Active,H3 1x1 Shop10 (BuildingInfo),80,81,0,0,2,0,0,0,0,0,0,0,0,-3183.923,44.87521,-3917.251
-551,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),78,85,0,0,3,0,0,0,0,0,0,0,0,-1875.167,50.16306,911.2792
-552,Created- Completed- Active,H2 1x1 Office01 (BuildingInfo),99,83,0,0,0,0,0,0,0,0,0,0,0,-2776.864,48.22359,-3366.341
-559,Created- HighDensity- Completed- Active,H2 3x2 Shop01 (BuildingInfo),74,86,0,0,8,0,0,0,0,0,0,0,0,406.0923,42.51099,1457.53
-562,Created- Completed- Active,H2 2x2 Office08 (BuildingInfo),98,74,0,0,0,0,0,0,0,0,0,0,0,-2176.332,54.85989,-416.6302
-568,Created- Completed- Active,H5 3x4 Highrise05 (BuildingInfo),94,89,11,2,17,12,0,0,0,0,0,0,0,-583.6844,52.10823,78.81592
-569,Created- Completed- Active,L3 4x4 Semi-detachedhouse03a (BuildingInfo),76,69,3,0,2,4,0,0,0,0,0,0,0,371.1617,44.06312,2021.462
-570,Created- Completed- Active,L5 3x3 Villa01 (BuildingInfo),97,95,0,8,5,3,0,0,0,0,0,0,0,-647.8882,53.71657,-310.3226
-573,Created- HighDensity- Completed- Active,H1 1x1 Tenement (BuildingInfo),90,79,0,0,2,0,0,0,0,0,0,0,0,-2133.388,51.55856,-3021.762
-575,Created- Completed- Active,H5 2x2 tenement03 (BuildingInfo),93,85,3,5,10,1,0,0,0,0,0,0,0,-1940.403,51.86565,-1527.628
-580,Created- Completed- Active,L3 3x3 Semi-detachedhouse02 (BuildingInfo),82,63,2,7,6,0,0,0,0,0,0,0,0,-2306.264,50.82264,-1893.293
-581,Created- Completed- Active- ZonesUpdated,Regular Park (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-1999.516,47.1932,-3474.385
-590,Created- Completed- Active,L3 1x1 Detached14 (BuildingInfo),74,47,0,1,2,0,0,0,0,0,0,0,0,-1497.816,43.13582,-2804.522
-591,Created- Completed- Active,H1 4x3 Bigfactory05 (BuildingInfo),91,86,0,0,0,0,0,0,0,0,0,0,0,-113.8844,75.3568,3436.521
-593,Created- Completed- Active- ZonesUpdated,Fountain of LifeDeath (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-1766.885,62.25206,-1065.675
-596,Created- Completed- Active,L2 3x4 Detached02 (BuildingInfo),93,86,0,9,6,0,0,0,0,0,0,0,0,-2309.151,50.88166,-1853.395
-601,Created- Completed- Active,L3 3x3 Semi-detachedhouse02 (BuildingInfo),97,94,0,5,8,0,0,0,0,0,0,0,0,-2061.439,51.90334,-1689.599
-604,Created- HighDensity- Completed- Active,H5 1x1 highrise_hiden_hightech01 (BuildingInfo),95,90,0,1,3,1,0,0,0,0,0,0,0,-2119.01,53.76052,-902.5599
-614,Created- Completed- Active,H1 4x4 Sweatshop02 (BuildingInfo),98,84,0,0,0,0,0,0,0,0,0,0,0,-84.27878,74.5945,3370.767
-615,Created- Completed- Active,H3 2x2 Shop01 (BuildingInfo),78,80,0,0,4,0,0,0,0,0,0,0,0,-1269.597,65.93077,1543.516
-617,Created- Completed- Active- ZonesUpdated,Medical Clinic (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-1729.654,60.04594,-1343.81
-618,Created- HighDensity- Completed- Active,H3 2x3 Shop04 (BuildingInfo),79,75,0,0,8,0,0,0,0,0,0,0,0,-2020.124,49.97358,-2719.904
-620,Created- HighDensity- Completed- Active,H3 3x2 Tenement04a (BuildingInfo),87,94,4,8,15,0,0,0,0,0,0,0,0,235.9855,42.95446,1394.245
-623,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),95,89,3,5,10,2,0,0,0,0,0,0,0,-2702.693,45.49013,-3583.252
-629,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),85,70,2,6,12,0,0,0,0,0,0,0,0,-1586.093,42.92827,-2304.462
-631,Created- Completed- Active,H4 4x3 tenement08a (BuildingInfo),95,93,20,22,19,24,0,0,0,0,0,0,0,-2065.782,60.94266,14.70628
-633,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),90,81,4,3,3,8,0,0,0,0,0,0,0,-2842.386,42.96815,-1367.886
-635,Created- Completed- Active- ZonesUpdated,SeaAndSky Scraper (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-2402.981,47.39025,-438.9394
-639,Created- Completed- Active,H3 3x3 Office10 (BuildingInfo),99,93,0,0,0,0,0,0,0,0,0,0,0,-2123.653,55.11069,-505.2533
-643,Created- Completed- Active,H2 4x3 Office09a (BuildingInfo),99,84,0,0,0,0,0,0,0,0,0,0,0,-2465.468,47.45247,-1576.683
-644,Created- Completed- Active,L3 1x1 Detached (BuildingInfo),91,82,1,0,0,2,0,0,0,0,0,0,0,-2645.519,46.89437,-1716.22
-648,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),97,93,5,1,10,0,0,0,0,0,0,0,0,-2343.411,50.64085,-802.9081
-655,Created- HighDensity- Completed- Active,H3 3x3 Tenement04 (BuildingInfo),97,95,2,6,21,0,0,0,0,0,0,0,0,-2012.7,63.89685,99.13202
-657,Created- HighDensity- Completed- Active,H5 3x2 Highrise06 (BuildingInfo),87,89,15,7,15,16,0,0,0,0,0,0,0,-267.3877,50.09277,94.26459
-661,Created- Completed- Active,L4 2x2 Villa02 (BuildingInfo),91,81,0,0,2,0,0,0,0,0,0,0,0,-2915.331,45.39049,-3135.604
-662,Created- Completed- Active,H2 3x3 Office06 (BuildingInfo),99,85,0,0,0,0,0,0,0,0,0,0,0,-2062.632,47.68618,-3362.224
-670,Created- HighDensity- Completed- Active,H3 1x1 Shop10 (BuildingInfo),77,79,0,0,1,0,0,0,0,0,0,0,0,-3129.859,41.81495,-4053.159
-672,Created- HighDensity- Completed- Active,H3 3x2 Shop04 (BuildingInfo),77,82,0,0,7,0,0,0,0,0,0,0,0,-2145.934,52.26563,-2054.127
-673,Created- Completed- Active,L4 4x4 Villa08a (BuildingInfo),86,71,6,5,10,0,0,0,0,0,0,0,0,-2361.776,52.1099,-2475.376
-677,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),78,77,0,0,4,0,0,0,0,0,0,0,0,-2645.33,40.59876,-3780.908
-680,Created- Completed- Active,H4 3x3 Tenement08 (BuildingInfo),91,84,11,5,5,29,0,0,0,0,0,0,0,-2358.401,48.96564,-3495.792
-696,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),78,78,0,0,4,0,0,0,0,0,0,0,0,-2995.557,48.59071,-3283.975
-698,Created- HighDensity- Completed- Active,H4 3x4 Tenement11 (BuildingInfo),84,70,9,17,30,1,0,0,0,0,0,0,0,-1575.18,42.56768,-2323.034
-700,Created- Completed- Active,H2 2x2 sweatshop01 (BuildingInfo),98,80,0,0,0,0,0,0,0,0,0,0,0,-1243.484,73.17638,1836.684
-708,Created- Completed- Active,L3 2x3 Detached11 (BuildingInfo),85,69,0,6,4,0,0,0,0,0,0,0,0,-2715.979,46.62968,-2501.183
-712,Created- Completed- Active,H2 2x2 Office08 (BuildingInfo),100,87,0,0,0,0,0,0,0,0,0,0,0,-1622.672,49.30007,-1482.313
-717,Created- Completed- Active,L4 4x4 Villa06a (BuildingInfo),93,89,4,5,9,2,0,0,0,0,0,0,0,1.273965,48.1532,2187.904
-718,Created- Completed- Active,H2 3x2 Office08 (BuildingInfo),99,84,0,0,0,0,0,0,0,0,0,0,0,-2818.46,47.67188,-2091.762
-721,Created- Completed- Active,L3 2x2 Shop11 (BuildingInfo),79,76,0,0,2,0,0,0,0,0,0,0,0,-2273.361,52.55651,-3220.893
-724,Created- Completed- Active,L3 4x3 Detached09 (BuildingInfo),96,91,0,11,9,0,0,0,0,0,0,0,0,286.7045,45.44561,2119.293
-725,Created- Completed- Active,H2 3x4 Office05a (BuildingInfo),100,89,0,0,0,0,0,0,0,0,0,0,0,-2818.534,47.40837,-2035.389
-726,Created- Completed- Active,H3 3x3 Shop06 (BuildingInfo),78,82,0,0,8,0,0,0,0,0,0,0,0,-1468.395,65.80947,862.926
-729,Created- Completed- Active,H2 4x3 Office06 (BuildingInfo),99,87,0,0,0,0,0,0,0,0,0,0,0,-1359.251,56.09308,-1115.148
-738,Created- Completed- Active,H2 2x2 Office07 (BuildingInfo),100,89,0,0,0,0,0,0,0,0,0,0,0,-2274.028,48.20734,-166.2075
-740,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),77,86,0,0,3,0,0,0,0,0,0,0,0,-1566.357,63.57849,860.3887
-742,Created- HighDensity- Completed- Active,H1 1x1 Tenement (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-2126.01,53.40417,-918.3941
-744,Created- Completed- Active,L4 2x2 Villa07 (BuildingInfo),93,86,0,3,2,2,0,0,0,0,0,0,0,-2853.648,46.97973,-3113.481
-749,Created- HighDensity- Completed- Active,H3 1x1 Shop10 (BuildingInfo),78,85,0,0,1,0,0,0,0,0,0,0,0,-2238.237,51.94656,-1979.805
-751,Created- Completed- Active,H3 3x4 Hotel (BuildingInfo),79,87,0,0,15,0,0,0,0,0,0,0,0,-287.0307,56.33635,900.9429
-752,Created- HighDensity- Completed- Active,H3 4x3 Tenement08 (BuildingInfo),42,12,15,4,36,0,0,0,0,0,91,0,0,-1647.264,45.36007,-3321.417
-753,Created- Completed- Active,L2 3x4 Detached02 (BuildingInfo),85,70,0,4,6,0,0,0,0,0,0,0,0,-1745.798,45.3696,-2771.617
-758,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),76,81,0,0,4,0,0,0,0,0,0,0,0,-2984.938,48.66781,-3272.007
-761,Created- HighDensity- Completed- Active,H4 1x1 Tenement06 (BuildingInfo),88,85,2,1,2,2,0,0,0,0,0,0,0,-2366.846,43.37193,91.53021
-763,Created- Completed- Active,L4 2x2 Villa02 (BuildingInfo),93,85,1,2,0,2,0,0,0,0,0,0,0,-2803.443,45.2913,-3032.513
-764,Created- Completed- Active,H1 3x3 Sweatshop04 (BuildingInfo),98,85,0,0,0,0,0,0,0,0,0,0,0,-281.8802,80.03158,2980.064
-769,Created- HighDensity- Completed- Active,H5 2x3 Tenement06 (BuildingInfo),89,85,13,5,6,18,0,0,0,0,0,0,0,-1077.367,50.53991,-1135.792
-771,Created- HighDensity- Completed- Active,H4 2x3 tenement04 (BuildingInfo),73,71,12,1,4,20,0,0,0,0,0,0,0,-1123.282,71.11832,1709.879
-775,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),78,79,0,0,4,0,0,0,0,0,0,0,0,-1991.221,48.96158,-2701.53
-776,Created- Completed- Active,H2 2x2 sweatshop01 (BuildingInfo),92,94,0,0,0,0,0,0,0,0,0,0,0,-3048.21,41.00966,-2093.68
-782,Created- HighDensity- Completed- Active,H3 3x2 Shop04 (BuildingInfo),73,88,0,0,10,0,0,0,0,0,0,0,0,-2079.688,53.08313,-1279.15
-783,Created- Completed- Active,H3 2x2 Office11 (BuildingInfo),99,87,0,0,0,0,0,0,0,0,0,0,0,-1158.184,72.57755,1404.1
-792,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),77,75,0,0,5,0,0,0,0,0,0,0,0,-2228.595,52.57177,-2777.025
-800,Created- Completed- Active,H2 2x2 Office04 (BuildingInfo),100,92,0,0,0,0,0,0,0,0,0,0,0,-2414.144,46.37688,-238.7609
-806,Created- Completed- Active,H2 3x4 Office05a (BuildingInfo),99,77,0,0,0,0,0,0,0,0,0,0,0,-2041.464,48.96927,-3319.144
-809,Created- Completed- Active,L5 1x1 DetachedEF (BuildingInfo),82,88,1,0,0,1,0,0,0,0,0,0,0,-274.0291,45.45887,-68.27402
-810,Created- Completed- Active,H2 2x2 Shop01 (BuildingInfo),78,82,0,0,3,0,0,0,0,0,0,0,0,453.2083,42.75,1725.35
-821,Created- Completed- Active,L3 2x2 Shop03 (BuildingInfo),79,68,0,0,1,0,0,0,0,0,0,0,0,-2360.253,52.56824,-2625.186
-823,Created- Completed- Active,L3 1x1 Shop07 (BuildingInfo),76,75,0,0,1,0,0,0,0,0,0,0,0,-2246.395,52.20313,-3065.116
-824,Created- Completed- Active,H2 2x2 sweatshop01 (BuildingInfo),98,89,0,0,0,0,0,0,0,0,0,0,0,513.8967,41.92441,2810.425
-828,Created- Completed- Active,H2 3x2 Office08 (BuildingInfo),99,88,0,0,0,0,0,0,0,0,0,0,0,21.45623,45.11937,1520.576
-832,Created- Completed- Active,H5 2x3 Tenement06 (BuildingInfo),95,90,0,13,11,11,0,0,0,0,0,0,0,-486.1132,55.90012,234.8318
-835,Created- Completed- Active- ZonesUpdated,Expensive Plaza (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-541.6782,57.19827,332.8451
-840,Created- Completed- Active,L3 3x2 Shop12 (BuildingInfo),77,78,0,0,3,0,0,0,0,0,0,0,0,-2787.639,44.43333,-1546.725
-843,Created- HighDensity- Completed- Active,H4 1x1 Tenement06 (BuildingInfo),50,0,1,1,4,0,0,0,0,0,18,0,0,-2880.37,42.954,-1345.441
-844,Created- Completed- Active,H2 4x3 Office09 (BuildingInfo),99,85,0,0,0,0,0,0,0,0,0,0,0,-908.6956,64.76971,1447.089
-845,Created- Completed- Active,L3 2x2 Detached12 (BuildingInfo),96,91,0,3,2,0,0,0,0,0,0,0,0,-2812.015,48.96255,-3180.374
-846,Created- HighDensity- Completed- Active- ZonesUpdated,H3 2x2 Tenement04 (BuildingInfo),49,6,3,4,8,1,0,0,0,0,0,0,0,-2935.802,41.75279,-1333.559
-851,Created- Completed- Active,H5 2x2 tenement03 (BuildingInfo),89,77,3,1,1,10,0,0,0,0,0,0,0,-1081.954,76.41023,1083.497
-852,Created- Completed- Active,H5 2x2 tenement03 (BuildingInfo),90,90,2,3,2,9,0,0,0,0,0,0,0,-1803.678,62.46498,264.2438
-853,Created- HighDensity- Completed- Active- ZonesUpdated,H4 4x3 tenement08a (BuildingInfo),85,73,23,19,21,28,0,0,0,0,0,0,0,-1528.186,41.93314,-2164.486
-860,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),96,92,4,1,8,4,0,0,0,0,0,0,0,-1965.342,57.2993,-1138.613
-863,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),90,80,8,0,0,12,0,0,0,0,0,0,0,-1278.901,72.42813,1342.022
-865,Created- Completed- Active,L4 4x4 Villa06a (BuildingInfo),93,90,5,7,7,4,0,0,0,0,0,0,0,34.92469,48.8842,1887.644
-868,Created- HighDensity- Completed- Active,H5 4x3 Highrise07a (BuildingInfo),92,83,33,11,11,35,0,0,0,0,0,0,0,-2477.738,49.07811,-1839.603
-870,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),76,73,0,0,3,0,0,0,0,0,0,0,0,-1966.278,48.93191,-3127.19
-876,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),78,83,0,0,6,0,0,0,0,0,0,0,0,-2282.197,51.09609,-2023.18
-880,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),90,85,12,3,10,11,0,0,0,0,0,0,0,-2086.865,53.59394,-1349.635
-885,Created- HighDensity- Completed- Active,H4 3x4 Tenement07b (BuildingInfo),96,91,8,12,30,3,0,0,0,0,0,0,0,-438.7309,48.7498,1906.179
-888,Created- HighDensity- Completed- Active,H3 3x3 Shop06 (BuildingInfo),79,85,0,0,11,0,0,0,0,0,0,0,0,-2062.858,47.96094,495.0014
-891,Created- HighDensity- Completed- Active,H3 2x3 Shop04 (BuildingInfo),80,79,0,0,9,0,0,0,0,0,0,0,0,-1756.932,44.99142,-2403.224
-898,Created- HighDensity- Completed- Active,H5 2x3 Tenement06 (BuildingInfo),93,87,9,15,21,2,0,0,0,0,0,0,0,-1204.285,44.16747,-1320.034
-909,Created- HighDensity- Completed- Active- ZonesUpdated,H5 2x2 tenement03 (BuildingInfo),94,89,4,0,9,3,0,0,0,0,0,0,0,-1573.426,48.27245,-1728.378
-912,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),86,89,4,5,5,10,0,0,0,0,0,0,0,-72.33645,48.45571,326.3323
-925,Created- HighDensity- Completed- Active,H3 1x1 Shop10 (BuildingInfo),80,81,0,0,2,0,0,0,0,0,0,0,0,-2333.61,51.65089,-3078.975
-926,Created- Completed- Active,L4 3x3 Villa05 (BuildingInfo),83,67,3,0,2,3,0,0,0,0,0,0,0,-1899.302,47.36475,-2568.362
-927,Created- HighDensity- Completed- Active,H5 3x3 Tenement03 (BuildingInfo),91,89,11,4,9,20,0,0,0,0,0,0,0,-828.5905,56.80531,-658.6813
-929,Created- Completed- Active,L4 3x3 Villa05 (BuildingInfo),86,71,7,4,8,0,0,0,0,0,0,0,0,-2661.994,46.75507,-2513.066
-931,Created- HighDensity- Completed- Active,H5 2x3 Tenement06 (BuildingInfo),95,90,16,0,2,18,0,0,0,0,0,0,0,103.2061,42.58957,1046.013
-936,Created- Completed- Active,L3 3x2 Detached06 (BuildingInfo),95,93,7,4,8,0,0,0,0,0,0,0,0,200.2721,45.38796,1889.701
-937,Created- Completed- Active,H2 2x3 Office07 (BuildingInfo),99,77,0,0,0,0,0,0,0,0,0,0,0,-3068.405,49.73787,-3733.359
-938,Created- Completed- Active,cargoyard (BuildingInfo),96,89,0,0,0,0,0,0,0,0,0,0,0,334.928,45.7276,3343.928
-940,Created- Completed- Active,L4 4x4 Villa06a (BuildingInfo),86,89,1,5,7,3,0,0,0,0,0,0,0,-852.751,76.67554,2088.969
-941,Created- HighDensity- Completed- Active,H2 2x2 tenement06 (BuildingInfo),99,97,0,1,5,0,0,0,0,0,0,0,0,-1744.3,51.49081,-1499.471
-945,Created- HighDensity- Completed- Active- ZonesUpdated,H4 3x4 tenement05a (BuildingInfo),91,83,4,17,33,2,0,0,0,0,0,0,0,-1595.212,63.11184,1260.778
-949,Created- HighDensity- Completed- Active,H5 4x4 Tenement01 (BuildingInfo),86,89,5,13,33,20,0,0,0,0,0,0,0,-192.5439,49.16543,135.5047
-950,Created- Completed- Active,H3 2x2 Shop01 (BuildingInfo),78,82,0,0,6,0,0,0,0,0,0,0,0,-1155.723,53.2489,-626.8715
-956,Created- Completed- Active,H3 3x2 Shop04 (BuildingInfo),74,87,0,0,12,0,0,0,0,0,0,0,0,-2070.547,55.72675,-180.7453
-958,Created- Completed- Active,H2 4x3 Sweatshop01 (BuildingInfo),96,83,0,0,0,0,0,0,0,0,0,0,0,-1020.854,76.97443,2197.622
-959,Created- Completed- Active,H1 4x4 Sweatshop02 (BuildingInfo),98,83,0,0,0,0,0,0,0,0,0,0,0,-211.1491,50.98438,2912.144
-963,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),80,61,4,6,12,0,0,0,0,0,0,0,0,-1483.605,40.57921,-3192.596
-965,Created- HighDensity- Completed- Active,H4 1x1 Tenement06 (BuildingInfo),90,80,0,0,0,2,0,0,0,0,0,0,0,-2601.189,42.3921,-3677.742
-968,Created- Completed- Active,H3 2x2 Office11 (BuildingInfo),99,87,0,0,0,0,0,0,0,0,0,0,0,-2170.868,52.39464,-528.178
-969,Created- Completed- Active,H3 3x2 Shop04 (BuildingInfo),78,90,0,0,5,0,0,0,0,0,0,0,0,-1212.804,51.24752,-726.5885
-974,Created- Completed- Active,H5 3x4 Highrise05 (BuildingInfo),94,87,22,4,20,17,0,0,0,0,0,0,0,-1807.012,60.57813,-1294.096
-983,Created- Completed- Active,H3 3x2 Shop04 (BuildingInfo),75,88,0,0,4,0,0,0,0,0,0,0,0,-1564.325,65.18225,819.7899
-984,Created- Completed- Active,L3 3x2 Detached06 (BuildingInfo),79,63,0,3,6,0,0,0,0,0,0,0,0,-1595.585,43.72912,-2922.416
-987,Created- HighDensity- Completed- Active,H4 1x1 Tenement06 (BuildingInfo),84,88,6,1,3,6,0,0,0,0,0,0,0,-312.1283,45.8236,-29.43528
-989,Created- HighDensity- Completed- Active,H3 3x4 Hotel (BuildingInfo),75,82,0,0,9,0,0,0,0,0,0,0,0,-3326.872,41.14301,-3515.002
-992,Created- HighDensity- Completed- Active,H2 2x2 tenement06 (BuildingInfo),91,92,0,0,8,0,0,0,0,0,0,0,0,273.1036,40.59113,1278.906
-994,Created- Completed- Active,L4 3x2 Villa02 (BuildingInfo),92,83,3,1,4,0,0,0,0,0,0,0,0,-2640.318,45.69765,-2952.532
-997,Created- HighDensity- Completed- Active- ZonesUpdated,H5 1x1 highrise_hiden_hightech01 (BuildingInfo),86,77,2,0,1,1,0,0,0,0,0,0,0,-2073.602,53.73188,-1343.972
-1000,Created- HighDensity- Completed- Active,H5 4x4 Highrise07 (BuildingInfo),93,92,18,10,21,26,0,0,0,0,0,0,0,-1784.146,64.0425,116.9623
-1004,Created- HighDensity- Completed- Active,H3 2x2 Tenement04 (BuildingInfo),80,89,7,1,3,5,0,0,0,0,0,0,0,329.312,41.32346,1376.074
-1005,Created- HighDensity- Completed- Active,H3 3x2 Tenement04a (BuildingInfo),89,83,8,14,27,3,0,0,0,0,0,0,0,201.5733,42.68899,1246.995
-1008,Created- Completed- Active,H2 1x1 Office01 (BuildingInfo),100,90,0,0,0,0,0,0,0,0,0,0,0,-1878.891,60.74747,222.3384
-1013,Created- Completed- Active,L3 4x3 Shop13a (BuildingInfo),79,83,0,0,7,0,0,0,0,0,0,0,0,-408.7613,48.81715,1962.869
-1014,Created- HighDensity- Completed- Active- ZonesUpdated,H3 4x4 Tenement08b (BuildingInfo),87,74,9,2,32,0,0,0,0,0,0,0,0,-2656.09,44.87966,-2707.081
-1017,Created- HighDensity- Completed- Active,H3 3x2 Shop04 (BuildingInfo),75,81,0,0,6,0,0,0,0,0,0,0,0,-3174.623,43.28803,-3960.333
-1020,Created- Completed- Active,H2 3x3 Sweatshop04 (BuildingInfo),96,89,0,0,0,0,0,0,0,0,0,0,0,345.6425,43.09375,2802.773
-1026,Created- HighDensity- Completed- Active,H4 3x4 Tenement11 (BuildingInfo),85,71,8,16,22,2,0,0,0,0,0,0,0,-1627.574,43.50205,-3052.481
-1030,Created- Completed- Active,H3 3x3 Shop06 (BuildingInfo),75,88,0,0,11,0,0,0,0,0,0,0,0,-1557.957,66.70995,664.5888
-1032,Created- Completed- Active,L4 2x2 Villa02 (BuildingInfo),88,76,2,0,0,2,0,0,0,0,0,0,0,-1828.448,47.55219,-2099.111
-1037,Created- HighDensity- Completed- Active- ZonesUpdated,H4 2x2 Tenement09 (BuildingInfo),89,77,1,6,5,6,0,0,0,0,0,0,0,-2814.748,42.78187,-2880.037
-1044,Created- Completed- Active,H2 4x3 Sweatshop01 (BuildingInfo),99,89,0,0,0,0,0,0,0,0,0,0,0,-1060.306,76.94226,2146.597
-1047,Created- HighDensity- Completed- Active,H5 3x4 Tenement09 (BuildingInfo),96,92,4,9,23,8,0,0,0,0,0,0,0,-1937.09,58.20308,-865.2209
-1048,Created- Completed- Active,L3 4x3 Detached04a (BuildingInfo),84,68,3,8,10,0,0,0,0,0,0,0,0,-1743.917,45.16259,-2879.55
-1052,Created- Completed- Active,L4 4x4 Villa08a (BuildingInfo),91,82,0,4,8,2,0,0,0,0,0,0,0,-2738.536,45.98735,-1764.685
-1055,Created- HighDensity- Completed- Active- ZonesUpdated,H5 4x4 Highrise07 (BuildingInfo),95,92,28,15,28,14,0,0,0,0,0,0,0,-2113.19,54.8847,44.51352
-1065,Created- Completed- Active,H2 1x1 Office01 (BuildingInfo),100,93,0,0,0,0,0,0,0,0,0,0,0,31.77988,44.53039,1488.843
-1069,Created- Completed- Active,L3 4x3 Detached04a (BuildingInfo),86,87,0,3,8,0,0,0,0,0,0,0,0,82.91178,47.73002,1966.137
-1078,Created- Completed- Active,H2 3x2 Office08 (BuildingInfo),100,89,0,0,0,0,0,0,0,0,0,0,0,-2009.797,60.00839,-294.5398
-1080,Created- HighDensity- Completed- Active,H3 4x3 Shop05a (BuildingInfo),75,80,0,0,11,0,0,0,0,0,0,0,0,-1726.262,45.78125,-2268.987
-1084,Created- HighDensity- Completed- Active,H4 1x1 Tenement06 (BuildingInfo),85,79,0,0,1,1,0,0,0,0,0,0,0,-1708.584,51.29718,1264.642
-1086,Created- Completed- Active,H2 2x2 Office08 (BuildingInfo),98,70,0,0,0,0,0,0,0,0,0,0,0,-3037.29,43.94407,-2954.276
-1092,Created- Completed- Active,H2 1x1 Office01 (BuildingInfo),99,80,0,0,0,0,0,0,0,0,0,0,0,-2183.865,41.17115,-3609.738
-1094,Created- Completed- Active,H2 1x1 Office01 (BuildingInfo),99,76,0,0,0,0,0,0,0,0,0,0,0,-2828.143,45.23216,-1806.224
-1096,Created- Completed- Active,H2 1x1 Office01 (BuildingInfo),99,79,0,0,0,0,0,0,0,0,0,0,0,-2940.188,44.80981,-2963.438
-1098,Created- HighDensity- Completed- Active,H3 4x3 Shop05a (BuildingInfo),77,86,0,0,13,0,0,0,0,0,0,0,0,-2476.074,47.97158,-1474.784
-1109,Created- Completed- Active,H2 4x3 Office06 (BuildingInfo),100,89,0,0,0,0,0,0,0,0,0,0,0,-1106.032,50.70955,-802.3926
-1118,Created- Completed- Active,H3 2x2 Bigfactory06 (BuildingInfo),98,83,0,0,0,0,0,0,0,0,0,0,0,-2935.12,41.58951,-1236.451
-1119,Created- Completed- Active,L5 1x1 DetachedEF (BuildingInfo),77,86,0,1,0,2,0,0,0,0,0,0,0,-277.84,45.33661,-75.30803
-1123,Created- Completed- Active,H5 3x3 Tenement05 (BuildingInfo),83,69,17,2,12,26,0,0,0,0,0,0,0,-478.8947,63.14214,545.2168
-1125,Created- Completed- Active,H5 2x2 tenement03 (BuildingInfo),97,94,2,5,4,7,0,0,0,0,0,0,0,-1006.664,58.4741,-381.5919
-1130,Created- Completed- Active,L3 3x2 Shop12 (BuildingInfo),77,89,0,0,1,0,0,0,0,0,0,0,0,-66.51915,48.91338,1898.091
-1133,Created- Completed- Active,H2 1x1 Office01 (BuildingInfo),99,76,0,0,0,0,0,0,0,0,0,0,0,-2946.802,45.0604,-2969.459
-1140,Created- HighDensity- Completed- Active,H5 3x3 Tenement03 (BuildingInfo),88,76,8,16,24,10,0,0,0,0,0,0,0,-1230.543,70.30221,1379.52
-1141,Created- Completed- Active,L3 2x2 Detached05 (BuildingInfo),86,72,0,5,6,0,0,0,0,0,0,0,0,-1890.017,47.34426,-2781.47
-1142,Created- Completed- Active,H5 2x2 tenement03 (BuildingInfo),98,95,5,0,3,5,0,0,0,0,0,0,0,-1729.562,63.00617,-1240.087
-1146,Created- HighDensity- Completed- Active,H4 2x3 tenement04 (BuildingInfo),96,92,6,7,9,13,0,0,0,0,0,0,0,150.383,42.48502,1117.923
-1151,Created- Completed- Active,H4 3x4 tenement05a (BuildingInfo),91,86,14,6,24,13,0,0,0,0,0,0,0,-76.33728,44.74566,1502.535
-1155,Created- Completed- Active,H2 2x2 Office07 (BuildingInfo),100,94,0,0,0,0,0,0,0,0,0,0,0,-2244.058,51.68827,-374.049
-1161,Created- Completed- Active,H2 3x3 Sweatshop04 (BuildingInfo),98,80,0,0,0,0,0,0,0,0,0,0,0,3.746399,48.85123,2848.301
-1163,Created- Completed- Active,H2 2x2 Office04 (BuildingInfo),100,90,0,0,0,0,0,0,0,0,0,0,0,57.49154,44.93308,1536.51
-1164,Created- Completed- Active,H5 4x3 Highrise04 (BuildingInfo),97,93,12,1,26,22,0,0,0,0,0,0,0,-874.233,57.49889,-458.4463
-1166,Created- Completed- Active,L5 2x2 Villa07 (BuildingInfo),98,96,2,4,4,3,0,0,0,0,0,0,0,-842.1609,55.41341,-438.7283
-1171,Created- Completed- Active- ZonesUpdated,Advanced Wind Turbine (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-1438.524,36.46875,-3332.27
-1173,Created- HighDensity- Completed- Active- ZonesUpdated,H5 3x3 Tenement03 (BuildingInfo),95,92,14,2,7,26,0,0,0,0,0,0,0,-2143.194,52.87767,-1428.452
-1176,Created- Completed- Active,L3 4x3 Detached04a (BuildingInfo),93,93,4,5,8,0,0,0,0,0,0,0,0,199.3331,45.62101,1941.846
-1179,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),84,68,3,10,21,3,0,0,0,0,0,0,0,-2137.242,51.63587,-2792.823
-1185,Created- Completed- Active- ZonesUpdated,Elementary School (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-1956.263,50.59053,-1757.972
-1188,Created- HighDensity- Completed- Active,H3 3x2 Shop04 (BuildingInfo),78,84,0,0,11,0,0,0,0,0,0,0,0,-2968.09,40.77088,-3972.793
-1189,Created- Completed- Active,L5 1x1 DetachedEF (BuildingInfo),89,78,0,2,2,0,0,0,0,0,0,0,0,-1964.294,54.84275,-700.3513
-1195,Created- Completed- Active,H3 2x2 Bigfactory06 (BuildingInfo),99,87,0,0,0,0,0,0,0,0,0,0,0,-1732.222,48.61209,-3344.255
-1196,Created- HighDensity- Completed- Active- ZonesUpdated,H2 2x2 tenement06 (BuildingInfo),98,95,2,3,6,0,0,0,0,0,0,0,0,-1558.204,47.84398,-1735.116
-1202,Created- Completed- Active,L3 3x2 Shop11 (BuildingInfo),78,83,0,0,3,0,0,0,0,0,0,0,0,-2430.82,50.48824,-3409.873
-1206,Created- Completed- Active,L4 3x4 Villa01 (BuildingInfo),91,81,2,0,0,6,0,0,0,0,0,0,0,-2138.996,52.14063,-1810.588
-1211,Created- HighDensity- Completed- Active,H5 3x4 Highrise05 (BuildingInfo),96,92,8,2,19,15,0,0,0,0,0,0,0,-2280.826,50.43678,-1470.646
-1213,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),95,92,6,3,7,5,0,0,0,0,0,0,0,-989.2428,53.80966,-753.8092
-1217,Created- Completed- Active,H2 4x3 Sweatshop01 (BuildingInfo),98,83,0,0,0,0,0,0,0,0,0,0,0,284.4571,42.96875,2912.393
-1218,Created- HighDensity- Completed- Active,H5 3x2 Highrise06 (BuildingInfo),97,96,5,5,2,11,0,0,0,0,0,0,0,-2082.944,54.67115,-966.447
-1219,Created- HighDensity- Completed- Active,H4 3x3 Tenement08 (BuildingInfo),98,97,11,4,29,10,0,0,0,0,0,0,0,-2063.241,55.03772,-950.5787
-1220,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),86,72,6,0,3,10,0,0,0,0,0,0,0,-2684.743,47.3764,-1909.275
-1224,Created- Completed- Active,L2 3x4 Detached04a (BuildingInfo),89,78,0,1,6,0,0,0,0,0,0,0,0,224.7867,46.25876,2198.205
-1228,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),96,96,1,8,7,7,0,0,0,0,0,0,0,-2152.738,53.07246,-1075.086
-1229,Created- HighDensity- Completed- Active,H4 2x3 tenement04 (BuildingInfo),85,73,7,3,1,19,0,0,0,0,0,0,0,-2829.407,45.35623,-2708.289
-1230,Created- Completed- Active,H1 1x1 Facility02 (BuildingInfo),98,86,0,0,0,0,0,0,0,0,0,0,0,631.1314,51.83635,2828.982
-1231,Created- Completed- Active,H3 3x3 Mediumfactory08 (BuildingInfo),99,87,0,0,0,0,0,0,0,0,0,0,0,-2873.025,42.96233,-1162.008
-1233,Created- Completed- Active,H5 4x4 Tenement01 (BuildingInfo),97,94,36,6,21,25,0,0,0,0,0,0,0,-1022.529,57.98519,-361.8864
-1236,Created- HighDensity- Completed- Active,H3 1x1 Shop13 (BuildingInfo),80,79,0,0,1,0,0,0,0,0,0,0,0,-3147.602,48.38937,-3786.9
-1237,Created- Completed- Active,H2 2x2 Office07 (BuildingInfo),99,85,0,0,0,0,0,0,0,0,0,0,0,-2506.778,43.30139,-350.4392
-1243,Created- Completed- Active,L3 2x2 Shop03 (BuildingInfo),80,77,0,0,2,0,0,0,0,0,0,0,0,-2545.144,48.31779,-3381.759
-1249,Created- HighDensity- Completed- Active,H3 1x1 Shop13 (BuildingInfo),78,81,0,0,3,0,0,0,0,0,0,0,0,-3171.66,40.81926,-3150.304
-1257,Created- HighDensity- Completed- Active,H5 4x3 Highrise01 (BuildingInfo),96,92,3,27,34,8,0,0,0,0,0,0,0,-2674.034,47.82228,-952.7144
-1258,Created- Completed- Active,H5 2x2 tenement03 (BuildingInfo),92,89,8,1,5,5,0,0,0,0,0,0,0,-164.7877,44.94312,1549.869
-1259,Created- Completed- Active- ZonesUpdated,Cemetery (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-1442.186,67.37406,1249.06
-1263,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),72,50,3,2,4,8,0,0,0,0,0,0,0,-1519.051,40.8897,-3290.299
-1270,Created- HighDensity- Completed- Active,H3 3x4 Hotel (BuildingInfo),80,87,0,0,11,0,0,0,0,0,0,0,0,-2056.287,52.17208,415.2717
-1272,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),78,85,0,0,3,0,0,0,0,0,0,0,0,-475.5373,48.61235,1777.51
-1274,Created- Completed- Active,H3 2x2 Shop01 (BuildingInfo),75,85,0,0,6,0,0,0,0,0,0,0,0,-1857.251,61.88502,608.6679
-1275,Created- Completed- Active,H5 2x2 tenement03 (BuildingInfo),97,93,11,0,12,9,0,0,0,0,0,0,0,-217.568,46.76319,861.0563
-1281,Created- Completed- Active,H2 4x4 Office06 (BuildingInfo),99,80,0,0,0,0,0,0,0,0,0,0,0,-3072.271,49.9865,-3700.844
-1285,Created- HighDensity- Completed- Active,H5 3x2 Tenement06 (BuildingInfo),81,80,10,1,3,21,0,0,0,0,0,0,0,-895.0862,67.52972,1395.739
-1292,Created- Completed- Active,L4 4x3 Villa01 (BuildingInfo),85,86,5,3,2,9,0,0,0,0,0,0,0,-5.253712,53.93557,2005.972
-1293,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),100,99,7,5,10,2,0,0,0,0,0,0,0,-1791.708,52.90323,-1469.663
-1302,Created- Completed- Active,L2 2x2 Detached05 (BuildingInfo),90,80,1,4,4,0,0,0,0,0,0,0,0,-2232.473,52.20313,-3220.532
-1308,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),81,84,0,0,6,0,0,0,0,0,0,0,0,-1694.187,45.02107,-2238.981
-1312,Created- Completed- Active,H5 2x2 tenement03 (BuildingInfo),91,81,11,6,5,18,0,0,0,0,0,0,0,-1092.464,76.08847,1137.352
-1314,Created- Completed- Active- ZonesUpdated,L3 2x2 Shop03 (BuildingInfo),80,74,0,0,2,0,0,0,0,0,0,0,0,-1746.508,46.08522,-2015.84
-1315,Created- Completed- Active,H5 3x2 Highrise06 (BuildingInfo),96,94,17,9,19,11,0,0,0,0,0,0,0,-788.7119,58.99685,-14.53119
-1316,Created- Completed- Active,L3 1x1 Detached (BuildingInfo),86,71,0,1,0,2,0,0,0,0,0,0,0,-2150.981,52.26563,-2356.674
-1323,Created- HighDensity- Completed- Active,H3 4x4 Shop11 (BuildingInfo),75,86,0,0,13,0,0,0,0,0,0,0,0,-2171.841,52.65181,-574.8156
-1331,Created- HighDensity- Completed- Active,H4 4x3 Tenement10 (BuildingInfo),82,68,22,7,15,33,0,0,0,0,0,0,0,-1516.471,42.55539,-2458.578
-1332,Created- Completed- Active,H3 3x3 Shop06 (BuildingInfo),76,81,0,0,9,0,0,0,0,0,0,0,0,-3306.83,41.125,-3429.314
-1333,Created- HighDensity- Completed- Active,H5 3x2 Tenement02 (BuildingInfo),86,83,9,6,2,17,0,0,0,0,0,0,0,-1786.231,63.06259,362.7099
-1340,Created- Completed- ZonesUpdated,Metro Entrance (BuildingInfo),0,0,0,0,0,0,255,0,0,0,0,0,0,-693.2916,56.63678,3041.427
-1342,Created- Completed- Active,H2 4x4 Bigfactory02 (BuildingInfo),96,84,0,0,0,0,0,0,0,0,0,0,0,-911.586,81.20808,2272.432
-1345,Created- HighDensity- Completed- Active,H3 2x2 Shop01 (BuildingInfo),76,78,0,0,4,0,0,0,0,0,0,0,0,-2912.432,41.58017,-3949.981
-1350,Created- HighDensity- Completed- Active- ZonesUpdated,H4 2x2 Tenement09 (BuildingInfo),87,75,5,3,17,1,0,0,0,0,0,0,0,-3080.211,46.87815,-3395.97
-1351,Created- Completed- Active,H3 4x4 Shop04 (BuildingInfo),74,86,0,0,13,0,0,0,0,0,0,0,0,-1370.891,51.84021,-952.97
-1355,Created- Completed- Active,H3 1x1 Facility06 (BuildingInfo),98,75,0,0,0,0,0,0,0,0,0,0,0,-1865.76,48.8125,-3249.722
-1360,Created- HighDensity- Completed- Active,H5 4x4 Highrise02 (BuildingInfo),91,81,27,12,20,23,0,0,0,0,0,0,0,-1281.337,74.35396,1242.151
-1361,Created- Completed- Active,H4 4x3 Tenement07 (BuildingInfo),66,83,8,1,13,14,0,0,0,0,0,0,0,-2638.144,45.94047,-760.3612
-1363,Created- Completed- Active,H2 4x4 Bigfactory07 (BuildingInfo),98,81,0,0,0,0,0,0,0,0,0,0,0,177.8813,44.78637,2734.472
-1366,Created- HighDensity- Completed- Active,H4 4x4 Tenement09a (BuildingInfo),87,74,18,13,39,2,0,0,0,0,0,0,0,-2790.898,43.5,-2760.627
-1368,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),94,87,3,0,3,7,0,0,0,0,0,0,0,-2082.816,55.33876,-838.6856
-1370,Created- HighDensity- Completed- Active- ZonesUpdated,H5 2x2 tenement03 (BuildingInfo),96,92,9,4,11,2,0,0,0,0,0,0,0,-2158.084,49.05832,63.29004
-1372,Created- Completed- Active- ZonesUpdated,L5 3x3 Villa08 (BuildingInfo),91,92,1,3,5,2,0,0,0,0,0,0,0,-99.84012,47.47733,452.5598
-1379,Created- Completed- Active,H3 3x2 Shop04 (BuildingInfo),77,86,0,0,11,0,0,0,0,0,0,0,0,-2202.511,48.486,-59.97503
-1380,Created- Completed- Active,L4 2x2 Villa02 (BuildingInfo),91,86,1,1,1,1,0,0,0,0,0,0,0,119.5426,46.82018,2164.092
-1382,Created- Completed- Active,L3 3x3 Semi-detachedhouse02 (BuildingInfo),93,85,0,6,6,0,0,0,0,0,0,0,0,-2603.719,45.89112,-3020.556
-1383,Created- Completed- Active,H2 1x1 Office01 (BuildingInfo),100,97,0,0,0,0,0,0,0,0,0,0,0,-2990.594,45.46157,-2988.122
-1385,Created- Completed- Active,H2 3x3 Sweatshop04 (BuildingInfo),98,85,0,0,0,0,0,0,0,0,0,0,0,-95.58054,49.45225,2750.045
-1399,Created- HighDensity- Completed- Active,H3 4x3 Shop03 (BuildingInfo),76,85,0,0,14,0,0,0,0,0,0,0,0,-2240.695,50.51387,-623.3909
-1404,Created- HighDensity- Completed- Active,H5 3x3 Tenement03 (BuildingInfo),96,93,7,6,18,17,0,0,0,0,0,0,0,-2198.133,51.47943,-886.7305
-1406,Created- HighDensity- Completed- Active,H3 3x4 Hotel (BuildingInfo),74,87,0,0,12,0,0,0,0,0,0,0,0,-1956.419,58.2864,348.7116
-1407,Created- HighDensity- Completed- Active,H4 3x4 Tenement11 (BuildingInfo),85,70,16,18,33,0,0,0,0,0,0,0,0,-1471.18,40.84111,-2288.459
-1412,Created- Completed- Active,H3 2x2 Shop01 (BuildingInfo),77,90,0,0,5,0,0,0,0,0,0,0,0,-1139.326,55.01092,-410.4503
-1413,Created- HighDensity- Completed- Active,H4 4x3 Tenement07 (BuildingInfo),77,75,9,8,34,8,0,0,0,0,0,0,0,-975.9462,73.53862,1602.213
-1418,Created- Completed- Active,H5 2x3 Tenement06 (BuildingInfo),95,91,17,5,11,11,0,0,0,0,0,0,0,-263.7089,48.56196,833.6517
-1422,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),97,94,7,6,11,13,0,0,0,0,0,0,0,-1582.544,57.88728,-1275.585
-1433,Created- Completed- Active,H3 3x3 Shop06 (BuildingInfo),55,83,0,0,11,0,0,0,0,0,0,5,0,-944.0518,71.62669,1782.941
-1434,Created- Completed- Active,H2 3x2 Office08 (BuildingInfo),100,88,0,0,0,0,0,0,0,0,0,0,0,-2355.198,45.97775,-77.37254
-1438,Created- Completed- Active,H2 2x2 Office04 (BuildingInfo),100,90,0,0,0,0,0,0,0,0,0,0,0,-1079.977,67.71017,1440.827
-1442,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),74,68,5,2,9,2,0,0,0,0,0,0,0,-939.7957,74.07831,1647.892
-1443,Created- HighDensity- Completed- Active- ZonesUpdated,H4 4x3 tenement08a (BuildingInfo),85,73,23,21,19,29,0,0,0,0,0,0,0,-1555.171,42.49318,-2147.286
-1444,Created- HighDensity- Completed- Active,H3 1x1 Shop13 (BuildingInfo),68,89,0,0,2,0,0,0,0,0,0,0,0,-1871.751,62.19318,303.0424
-1449,Created- Completed- Active,H2 3x3 Sweatshop04 (BuildingInfo),93,86,0,0,0,0,0,0,0,0,0,0,0,-1284.69,67.56322,1931.915
-1454,Created- Completed- Active,H3 1x1 Facility05 (BuildingInfo),98,79,0,0,0,0,0,0,0,0,0,0,0,-1740.861,48.74054,-3378.532
-1459,Created- Completed- Active,H2 2x2 Office07 (BuildingInfo),99,83,0,0,0,0,0,0,0,0,0,0,0,-1474.611,45.54767,-1577.466
-1460,Created- Completed- Active,L4 4x3 Villa01 (BuildingInfo),90,84,2,0,0,7,0,0,0,0,0,0,0,-295.9818,48.0983,2085.323
-1461,Created- HighDensity- Completed- Active,H5 2x2 tenement03 (BuildingInfo),94,88,3,1,5,7,0,0,0,0,0,0,0,-2501.928,52.43373,-1021.629
-1462,Created- Completed- Active,L4 3x2 Villa02 (BuildingInfo),89,78,2,0,0,4,0,0,0,0,0,0,0,-2857.657,43.76991,-1587.418
-1464,Created- Completed- Active,H2 3x3 Sweatshop04 (BuildingInfo),98,80,0,0,0,0,0,0,0,0,0,0,0,275.4569,43.10938,2564.509
-1467,Created- HighDensity- Completed- Active,H3 4x4 Shop04 (BuildingInfo),74,83,0,0,15,0,0,0,0,0,0,0,0,-2991.433,43.69976,-3943.292
-1474,Created- Completed- Active- ZonesUpdated,L4 3x3 Villa05 (BuildingInfo),87,74,2,0,0,6,0,0,0,0,0,0,0,-2351.372,51.35478,-3076.854
-1475,Created- Completed- Active,L3 2x2 Detached05 (BuildingInfo),93,90,3,2,2,4,0,0,0,0,0,0,0,-286.1288,48.03722,2177.837
-1478,Created- HighDensity- Completed- Active,H4 3x2 tenement07 (BuildingInfo),90,85,15,4,14,13,0,0,0,0,0,0,0,-2523.869,45.27565,-556.0624
-1488,Created- Completed- Active,L4 2x2 Villa02 (BuildingInfo),85,85,1,0,0,2,0,0,0,0,0,0,0,-142.298,48.28148,2320.402
-1493,Created- Completed- Active,H2 1x1 Office01 (BuildingInfo),98,72,0,0,0,0,0,0,0,0,0,0,0,-2826.209,45.24957,-1850.274
-1494,Created- HighDensity- Completed- Active,H3 4x3 Tenement08 (BuildingInfo),82,94,25,5,37,3,0,0,0,0,0,0,0,313.6334,41.88264,1395.928
-1495,Created- HighDensity- Completed- Active,H4 2x2 Tenement09 (BuildingInfo),85,71,0,7,11,1,0,0,0,0,0,0,0,-1396.477,42.72762,-2457.228
-1498,Created- Completed- Active,H3 2x2 Office11 (BuildingInfo),99,88,0,0,0,0,0,0,0,0,0,0,0,-2063.114,46.23959,-3451.516
+102,Created- Completed- Active,L1_3x2_Shop_10 (BuildingInfo),86,47,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5469,127.2743
+930,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),84,39,0,0,1,0,0,0,0,0,0,0,0,130.6565,222.8125,259.2744
+994,Created- Completed- Active,H1 4x4 Mediumfactory02 (BuildingInfo),70,44,0,0,0,0,0,0,0,0,0,0,0,170.6565,221.625,675.2744
+1311,Created- Completed- Active,L1 3x2 Shop03b (BuildingInfo),59,43,0,0,2,0,0,0,0,0,0,0,0,10.6565,221.5469,311.2744
+1473,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse01 (BuildingInfo),30,46,0,1,13,0,0,0,0,0,0,0,0,-29.3435,221.5469,191.2744
+1497,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),66,44,0,0,2,0,0,0,0,0,0,0,0,10.6565,221.5284,507.2744
+1736,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),31,49,0,0,12,0,0,0,0,0,0,0,0,110.6565,222.1874,-12.72565
+2042,Created- Completed- Active,4x3_Factory_EU08 (BuildingInfo),58,42,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.0028,523.2744
+2046,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),15,37,0,0,15,0,0,0,0,0,0,0,0,10.6565,221.6563,-12.72565
+2243,Created- Completed- Active,H1 4x4 Sweatshop02 (BuildingInfo),83,42,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.2528,459.2744
+2450,Created- Completed- Abandoned,H1_officebuilding02EU_4x4 (BuildingInfo),0,0,0,0,0,0,0,0,0,230,0,0,0,170.6565,221.5625,755.2744
+2867,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),28,46,0,3,16,0,0,0,0,0,0,0,0,-29.3435,221.5313,731.2744
+3050,Created- Completed- Active,L1 3x2 Shop05 (BuildingInfo),66,41,0,0,3,0,0,0,0,0,0,0,0,110.6565,222.1874,35.27435
+3070,Created- HighDensity- Completed- Abandoned,H1_4x4_CommercialBlockhouse (BuildingInfo),4,46,0,0,1,0,0,0,0,228,0,0,0,122.6565,222.1591,483.2744
+3484,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,232,0,0,0,66.65651,221.5313,855.6854
+3606,Created- Completed- Active,3x3_Factory_EU06 (BuildingInfo),49,40,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.8438,191.2744
+3607,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),28,46,0,1,11,0,0,0,0,0,0,0,0,-29.3435,221.5313,543.2744
+3871,Created- Completed- Abandoned,H1_officebuilding04EU_4x4 (BuildingInfo),0,0,0,0,0,0,0,0,0,226,0,0,0,52.63969,221.5279,747.1465
+3964,Created- Completed- Abandoned,H1_2x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,216,0,0,0,122.6565,221.5313,811.2744
+4248,Created- HighDensity- Completed- Abandoned,H1_2x3_CommercialBlockhouse (BuildingInfo),4,46,0,0,1,0,0,0,0,228,0,0,0,122.6565,222.4718,395.2304
+4726,Created- Completed- Active,L1 4x3 Shop02a (BuildingInfo),51,44,0,0,3,0,0,0,0,0,0,0,0,60.67015,221.5313,339.2197
+5045,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),88,47,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5469,211.2744
+5256,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,227,0,0,0,170.6565,221.5313,855.2744
+5333,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,212,0,0,0,42.9512,221.5313,851.1311
+5395,Created- Completed- Abandoned,L1 2x2 Shop03 (BuildingInfo),40,47,0,0,1,0,0,0,0,0,0,0,0,130.6565,222.4972,27.27435
+5427,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,223,0,0,0,55.41385,221.5313,599.1718
+5554,Created- Completed- Active,L1 3x2 Shop01 (BuildingInfo),85,39,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.5313,831.2744
+6113,Created- Completed- Active,L1 3x2 Shop05 (BuildingInfo),72,47,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.5313,647.2744
+6126,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,230,0,0,0,170.6565,221.5341,783.2744
+6474,Created- Completed- Active,Advanced Wind Turbine (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-711.8746,183.8594,412.8642
+6810,Created- HighDensity- Completed- Abandoned,H1_2x2_CommercialBlockhouse (BuildingInfo),0,0,0,0,1,0,0,0,0,228,0,0,0,69.83823,221.7175,291.2304
+6884,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),45,0,0,0,1,0,0,0,0,11,0,0,0,10.6565,221.5313,355.2744
+7520,Created- Completed- Active,L1 3x2 Shop01 (BuildingInfo),73,46,0,0,1,0,0,0,0,0,0,0,0,10.65649,221.5313,735.2744
+7589,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),76,44,0,0,2,0,0,0,0,0,0,0,0,122.6565,222.6065,59.27435
+7860,Created- Completed- Active,L1 3x2 Shop05 (BuildingInfo),84,42,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.5313,335.2744
+8090,Created- Completed- Active,Advanced Wind Turbine (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-168.223,183.6094,-758.3022
+8244,Created- Completed- Active,H1 4x4 Mediumfactory02 (BuildingInfo),83,39,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.3622,427.2744
+8498,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),8,32,0,5,5,0,0,0,0,0,0,0,0,-29.3435,221.5313,519.2744
+8561,Created- Completed- Active,L1 3x2 Shop03b (BuildingInfo),82,38,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.5313,695.2744
+8567,Created- HighDensity- Completed- Abandoned,H1_3x2_CommercialBlockhouse (BuildingInfo),3,42,0,0,1,0,0,0,0,240,0,0,0,89.83823,221.9434,299.2304
+9030,Created- Completed- Abandoned,H1_4x3_officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,229,0,0,0,90.65651,221.5313,847.6854
+9077,Created- Completed- Active,L1 2x3 Shop11 (BuildingInfo),75,46,0,0,4,0,0,0,0,0,0,0,0,60.67015,221.5313,363.2197
+9242,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,205,0,0,0,55.41385,221.5313,675.1718
+9264,Created- FixedHeight- Completed- Active,Water Intake (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-686.5557,189.3863,460.2924
+9797,Created- Completed- Active,L1 3x3 Shop16 (BuildingInfo),40,44,0,0,4,0,0,0,0,0,0,0,0,122.6565,222.669,79.27435
+10246,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),28,46,0,0,14,0,0,0,0,0,0,0,0,-29.3435,221.5625,107.2744
+10349,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),75,45,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.6563,35.27435
+10456,Created- Completed- Active,3x3_Factory_EU09 (BuildingInfo),81,43,0,0,0,0,0,0,0,0,0,0,0,170.6565,221.8906,575.1824
+10491,Created- Completed- Active,L1 4x3 Shop03b 1a (BuildingInfo),41,43,0,0,4,0,0,0,0,0,0,0,0,63.1523,221.5313,227.2424
+10821,Created- HighDensity- Completed- Abandoned,H1_3x2_CommercialBlockhouse01 (BuildingInfo),4,46,0,0,1,0,0,0,0,225,0,0,0,122.6565,221.9872,527.2744
+10822,Created- Completed- Abandoned,H1_officebuilding02EU_4x4 (BuildingInfo),0,0,0,0,0,0,0,0,0,230,0,0,0,52.6397,221.5313,779.1465
+10900,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,221,0,0,0,55.41385,221.5313,655.1718
+11086,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),21,45,0,2,10,0,0,0,0,0,0,0,0,-29.3435,221.5156,399.2744
+11488,Created- Completed- Active,3x3_Factory_EU06 (BuildingInfo),74,41,0,0,0,0,0,0,0,0,0,0,0,170.6565,221.7532,623.1824
+11658,Created- Completed- Active,L1_3x2_Shop_10 (BuildingInfo),86,44,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5469,255.2744
+12196,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),85,48,0,0,1,0,0,0,0,0,0,0,0,109.8382,222.2859,259.2304
+12241,Created- HighDensity- Completed- Abandoned,H1_4x3_CommercialBlockhouse (BuildingInfo),0,0,0,0,1,0,0,0,0,224,0,0,0,57.896,221.5313,459.1944
+12993,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,224,0,0,0,170.6565,221.5938,703.2744
+13276,Created- Completed- Active,4x4_Factory_EU02 (BuildingInfo),53,41,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.5186,383.2304
+13407,Created- Completed- Active,L1 3x2 Shop01 (BuildingInfo),85,44,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5469,151.2744
+13795,Created- Completed- Active,H1 4x3 BigFactory06 (BuildingInfo),78,42,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.6094,355.2304
+14420,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,232,0,0,0,114.6565,221.5313,855.7205
+14809,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,217,0,0,0,130.6565,221.8782,579.1824
+14979,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,222,0,0,0,170.6565,221.5313,807.2744
+15300,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),13,33,0,10,17,0,0,0,0,0,0,0,0,-29.3435,221.5313,699.2744
+15680,Created- HighDensity- Completed- Abandoned,H1_4x3_CommercialBlockhouse (BuildingInfo),2,32,0,0,1,0,0,0,0,222,0,0,0,57.896,221.5313,491.1944
+15798,Created- Completed- Abandoned,H1_4x3_officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,226,0,0,0,88.58192,221.5491,587.1824
+16245,Created- Completed- Abandoned,H1_4x3_officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,218,0,0,0,55.41385,221.5313,627.1718
+16426,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,209,0,0,0,112.5819,221.7077,579.1824
+17008,Created- HighDensity- Completed- Abandoned,H1_2x2_CommercialBlockhouse (BuildingInfo),4,47,0,0,1,0,0,0,0,241,0,0,0,109.8382,222.2859,291.2304
+17233,Created- Completed- Active,H1 4x4 Bigfactory01 (BuildingInfo),50,43,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.1406,491.2744
+17628,Created- Completed- Active,4x3_Factory_EU08 (BuildingInfo),80,41,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.75,131.2744
+18039,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),24,48,0,0,12,0,0,0,0,0,0,0,0,-29.3435,221.6563,23.27435
+18160,Created- HighDensity- Completed- Abandoned,H1_3x4_CommercialBlockhouse (BuildingInfo),3,44,0,0,1,0,0,0,0,225,0,0,0,122.6565,222.3153,439.2744
+18226,Created- HighDensity- Completed- Abandoned,H1_2x4_CommercialBlockhouse (BuildingInfo),4,45,0,0,1,0,0,0,0,224,0,0,0,122.6565,222.2528,459.2744
+18750,Created- Completed- Abandoned,H1_officebuilding02EU_4x4 (BuildingInfo),0,0,0,0,0,0,0,0,0,232,0,0,0,90.65651,221.5313,895.6854
+18894,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,219,0,0,0,122.6565,221.6751,655.1824
+18980,Created- Completed- Active,L1 3x3 Shop07 (BuildingInfo),57,41,0,0,2,0,0,0,0,0,0,0,0,14.6565,221.5313,487.2744
+19128,Created- HighDensity- Completed- Abandoned,H1_3x4_CommercialBlockhouse (BuildingInfo),4,46,0,0,1,0,0,0,0,218,0,0,0,57.89599,221.5313,519.1944
+19533,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),14,35,0,0,17,0,0,0,0,0,0,0,0,-29.3435,221.5313,635.2744
+20287,Created- HighDensity- Completed- Abandoned,H1_3x2_CommercialBlockhouse01 (BuildingInfo),0,0,0,0,1,0,0,0,0,217,0,0,0,92.58192,221.5648,539.1824
+20366,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),15,37,0,3,12,0,0,0,0,0,0,0,0,66.6565,221.8124,-12.72565
+20458,Created- FixedHeight- Completed- Active,Water Outlet (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-112.169,190.5541,-758.5193
+20505,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),13,33,0,11,18,0,0,0,0,0,0,0,0,-29.3435,221.5469,307.2744
+20964,Created- Completed- Active,cargoyard (BuildingInfo),80,41,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.5753,51.27435
+21091,Created- Completed- Abandoned,H1 4x4 Sweatshop02 (BuildingInfo),29,45,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.7969,163.2744
+21430,Created- Completed- Active,L1 4x3 Shop13 (BuildingInfo),74,45,0,0,3,0,0,0,0,0,0,0,0,63.1523,221.5445,171.2424
+21662,Created- Completed- Abandoned,H1_officebuilding02EU_4x4 (BuildingInfo),0,0,0,0,0,0,0,0,0,223,0,0,0,122.6565,221.8125,603.1824
+22111,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),9,35,0,0,4,0,0,0,0,0,0,0,0,-29.3435,221.5313,371.2744
+22115,Created- HighDensity- Completed- Abandoned,H1_2x2_CommercialBlockhouse (BuildingInfo),0,0,0,0,1,0,0,0,0,231,0,0,0,130.6565,222.7969,291.2304
+22592,Created- Completed- Active,L1 3x2 Shop01 (BuildingInfo),68,43,0,0,2,0,0,0,0,0,0,0,0,122.6565,222.7472,127.2744
+22769,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,211,0,0,0,122.6565,221.7376,631.1824
+22986,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,219,0,0,0,47.41385,221.5313,579.1718
+23754,Created- Completed- Active,L1 3x2 Shop05 (BuildingInfo),71,38,0,0,2,0,0,0,0,0,0,0,0,26.6565,221.6278,47.27435
+24344,Created- Completed- Active,L1 4x3 Shop06a (BuildingInfo),70,40,0,0,5,0,0,0,0,0,0,0,0,122.6565,222.8409,187.2744
+24752,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),28,46,0,0,16,0,0,0,0,0,0,0,0,-29.3435,221.5313,667.2744
+24836,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,225,0,0,0,122.6565,221.5313,791.2744
+25133,Created- Completed- Active,L1 4x3 Shop02a (BuildingInfo),74,44,0,0,5,0,0,0,0,0,0,0,0,64.9044,221.5781,75.25836
+25897,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),85,48,0,0,2,0,0,0,0,0,0,0,0,52.67015,221.5313,291.2197
+25920,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),14,45,0,0,2,0,0,0,0,0,0,0,0,-29.3435,221.5469,219.2744
+25969,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),68,47,0,0,2,0,0,0,0,0,0,0,0,10.6565,221.5313,627.2744
+26050,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,222,0,0,0,170.6565,221.5781,727.2744
+26364,Created- Completed- Active,L1 3x2 Shop05 (BuildingInfo),61,46,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.5313,759.2744
+26418,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),77,36,0,0,3,0,0,0,0,0,0,0,0,93.83823,221.9903,251.2304
+26438,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),87,45,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5313,523.2744
+27093,Created- HighDensity- Completed- Abandoned,H1_3x2_CommercialBlockhouse (BuildingInfo),4,47,0,0,1,0,0,0,0,233,0,0,0,122.6565,222.5499,375.2304
+27161,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),15,37,0,0,14,0,0,0,0,0,0,0,0,-29.3435,221.5469,275.2744
+27448,Created- Completed- Active,4x4_Factory_EU02 (BuildingInfo),79,45,0,0,0,0,0,0,0,0,0,0,0,170.6565,221.8935,551.2744
+27610,Created- Completed- Active,L1 3x2 Shop01 (BuildingInfo),87,44,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.5625,103.2744
+28291,Created- Completed- Active,L1 3x2 Shop01 (BuildingInfo),68,36,0,0,4,0,0,0,0,0,0,0,0,60.67015,221.5313,383.2197
+28302,Created- HighDensity- Completed- Active,H1_2x3_Blockhouse (BuildingInfo),24,49,0,0,8,0,0,0,0,0,0,0,0,90.6565,222.0676,-12.72565
+28960,Created- Completed- Active- ZonesUpdated,Solar Power Plant (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,202.6565,222.7999,287.2304
+29428,Created- Completed- Active,H1 4x4 Mediumfactory03 (BuildingInfo),50,41,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.8438,219.2744
+29808,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse01 (BuildingInfo),8,29,0,6,8,0,0,0,0,0,0,0,0,-29.3435,221.5313,823.2744
+30834,Created- HighDensity- Completed- Abandoned,H1_2x2_CommercialBlockhouse (BuildingInfo),4,46,0,0,1,0,0,0,0,221,0,0,0,112.5819,221.7077,547.1824
+31623,Created- Completed- Active,L1_3x2_Shop_10 (BuildingInfo),70,33,0,0,2,0,0,0,0,0,0,0,0,10.6565,221.5156,399.2744
+31758,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),34,46,0,1,17,0,0,0,0,0,0,0,0,-29.3435,221.5313,491.2744
+32199,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),15,47,0,0,4,0,0,0,0,0,0,0,0,-29.3435,221.5185,459.2744
+32258,Created- Completed- Active,H1 3x3 Sweatshop04 (BuildingInfo),71,44,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.4844,23.27435
+32300,Created- HighDensity- Completed- Abandoned,H1_2x2_CommercialBlockhouse (BuildingInfo),0,0,0,0,1,0,0,0,0,223,0,0,0,72.58192,221.5469,543.1824
+32524,Created- HighDensity- Completed- Abandoned,H1_3x4_CommercialBlockhouse (BuildingInfo),3,43,0,0,1,0,0,0,0,229,0,0,0,122.6565,222.4091,415.2744
+33197,Created- Completed- Active,L1 4x3 Shop03b 1a (BuildingInfo),68,43,0,0,3,0,0,0,0,0,0,0,0,64.9044,221.5341,107.2584
+33719,Created- Completed- Active,L1 2x2 Shop02 (BuildingInfo),84,42,0,0,2,0,0,0,0,0,0,0,0,77.83823,221.8028,255.2304
+34301,Created- HighDensity- Completed- Abandoned,H1_3x2_CommercialBlockhouse (BuildingInfo),0,0,0,0,1,0,0,0,0,220,0,0,0,59.6481,221.5282,407.2104
+34499,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,236,0,0,0,50.9512,221.5313,835.1311
+34678,Created- Completed- Active,L1 3x2 Shop03b (BuildingInfo),70,43,0,0,1,0,0,0,0,0,0,0,0,54.24907,221.5313,255.5661
+34815,Created- Completed- Abandoned,H1_2x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,226,0,0,0,138.6565,221.5313,895.7205
+34860,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),84,43,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5313,539.2744
+34879,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse01 (BuildingInfo),30,48,0,0,10,0,0,0,0,0,0,0,0,38.6565,221.6719,-12.72565
+34949,Created- Completed- Active,H1 3x3 Sweatshop07 (BuildingInfo),49,38,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.669,79.27435
+35898,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),27,45,0,0,18,0,0,0,0,0,0,0,0,-29.3435,221.5313,603.2744
+35904,Created- Completed- Active,L1 3x2 Shop05 (BuildingInfo),60,43,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.5313,807.2744
+35960,Created- Completed- Abandoned,H1_officebuilding04EU_4x4 (BuildingInfo),0,0,0,0,0,0,0,0,0,230,0,0,0,122.6565,221.5653,739.2744
+36207,Created- Completed- Abandoned,H1_4x3_officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,236,0,0,0,58.65651,221.5313,895.6854
+36791,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),14,46,0,0,8,0,0,0,0,0,0,0,0,-29.3435,221.5469,135.2744
+37185,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),13,33,0,9,20,0,0,0,0,0,0,0,0,-29.34349,221.5313,763.2744
+37226,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),88,44,0,0,2,0,0,0,0,0,0,0,0,26.6565,221.6719,27.27435
+37584,Created- HighDensity- Completed- Abandoned,H1_2x2_CommercialBlockhouse (BuildingInfo),0,0,0,0,1,0,0,0,0,226,0,0,0,130.6565,221.9091,547.2744
+37646,Created- Completed- Active,L1_3x2_Shop_10 (BuildingInfo),32,43,0,0,5,0,0,0,0,0,0,0,0,60.67015,221.5313,311.2197
+37689,Created- Completed- Active,L1 3x2 Shop05 (BuildingInfo),27,42,0,0,1,0,0,0,0,0,0,0,0,10.65649,221.5313,375.2744
+38039,Created- HighDensity- Completed- Abandoned,H1_4x3_CommercialBlockhouse (BuildingInfo),0,0,0,0,1,0,0,0,0,239,0,0,0,122.6565,222.6905,315.2304
+38330,Created- Completed- Active,L1_3x2_Shop_10 (BuildingInfo),85,40,0,0,2,0,0,0,0,0,0,0,0,86.6565,222.0364,27.27435
+38545,Created- Completed- Active,L1 3x3 Shop15 (BuildingInfo),25,42,0,0,3,0,0,0,0,0,0,0,0,122.6565,222.8281,239.2744
+38745,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,221,0,0,0,122.6565,221.5313,831.2744
+39032,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),29,46,0,0,12,0,0,0,0,0,0,0,0,-29.3435,221.5781,75.27435
+39267,Created- Completed- Active,L1 2x2 Shop02 (BuildingInfo),86,45,0,0,2,0,0,0,0,0,0,0,0,62.6565,221.6719,27.27435
+39447,Created- Completed- Active,L1 3x2 Shop03b (BuildingInfo),81,45,0,0,2,0,0,0,0,0,0,0,0,10.6565,221.5469,191.2744
+39899,Created- Completed- Abandoned,H1_4x3_officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,235,0,0,0,52.63969,221.5313,811.1465
+40142,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),27,45,0,0,11,0,0,0,0,0,0,0,0,-29.3435,221.5469,163.2744
+40296,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse01 (BuildingInfo),30,48,0,0,11,0,0,0,0,0,0,0,0,134.6565,222.4739,-12.72565
+40299,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,230,0,0,0,118.6565,221.5313,895.7205
+40441,Created- Completed- Active,L1 3x2 Shop05 (BuildingInfo),83,44,0,0,2,0,0,0,0,0,0,0,0,10.6565,221.5313,783.2744
+40455,Created- HighDensity- Completed- Abandoned,H1_3x2_CommercialBlockhouse01 (BuildingInfo),0,0,0,0,1,0,0,0,0,228,0,0,0,59.6481,221.5282,431.2104
+40505,Created- Completed- Active,L1 3x3 Shop07 (BuildingInfo),72,43,0,0,5,0,0,0,0,0,0,0,0,66.65649,221.6278,47.27435
+40689,Created- Completed- Active,4x4_Factory_EU02 (BuildingInfo),72,46,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.7188,103.2744
+40728,Created- Completed- Active,L1 4x3 Shop02a (BuildingInfo),69,42,0,0,3,0,0,0,0,0,0,0,0,64.9044,221.5313,139.2584
+40858,Created- Completed- Active,L1 4x3 Shop02a (BuildingInfo),72,41,0,0,5,0,0,0,0,0,0,0,0,122.6565,222.794,155.2744
+41297,Created- Completed- Active,L1 3x4 Shop05 (BuildingInfo),67,40,0,0,2,0,0,0,0,0,0,0,0,122.6565,222.8438,215.2744
+41350,Created- Completed- Active,4x4_Factory_EU02 (BuildingInfo),50,45,0,0,0,0,0,0,0,0,0,0,0,170.6565,221.6907,647.1824
+41361,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),84,39,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5469,291.2744
+41530,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,225,0,0,0,130.6565,221.5313,851.2744
+42023,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),22,46,0,0,12,0,0,0,0,0,0,0,0,-29.3435,221.625,47.27435
+42103,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),60,37,0,0,2,0,0,0,0,0,0,0,0,10.6565,221.5469,171.2744
+42141,Created- Completed- Active,L1 3x2 Shop01 (BuildingInfo),85,41,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.5313,607.2744
+42317,Created- HighDensity- Completed- Abandoned,H1_2x4_CommercialBlockhouse (BuildingInfo),0,0,0,0,1,0,0,0,0,222,0,0,0,122.6565,222.0682,507.2744
+42767,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,232,0,0,0,170.6565,221.5313,831.2744
+43098,Created- Completed- Active,L1 4x3 Shop06a (BuildingInfo),69,44,0,0,4,0,0,0,0,0,0,0,0,14.6565,221.5185,459.2744
+43366,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,226,0,0,0,122.6565,221.5938,711.2744
+43446,Created- Completed- Active,L1_3x2_Shop_10 (BuildingInfo),47,40,0,0,2,0,0,0,0,0,0,0,0,122.6565,222.7188,103.2744
+43447,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),86,41,0,0,2,0,0,0,0,0,0,0,0,10.6565,221.5781,83.27435
+43475,Created- Completed- Active,L1 3x2 Shop03b (BuildingInfo),59,42,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.5313,583.2744
+43674,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),42,47,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5284,435.2744
+43679,Created- Completed- Active,L1 3x2 Shop01 (BuildingInfo),72,42,0,0,2,0,0,0,0,0,0,0,0,10.6565,221.5966,63.27435
+43857,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),82,31,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5185,419.2744
+43882,Created- Completed- Active,3x3_Factory_EU09 (BuildingInfo),81,44,0,0,0,0,0,0,0,0,0,0,0,170.6565,221.8157,599.1824
+44405,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),21,46,0,0,15,0,0,0,0,0,0,0,0,-29.3435,221.5313,571.2744
+45423,Created- Completed- Active,H1 2x2 Sweatshop05 (BuildingInfo),88,40,0,0,0,0,0,0,0,0,0,0,0,170.6565,222.456,403.2744
+46087,Created- Completed- Abandoned,H1_officebuilding02EU_4x4 (BuildingInfo),0,0,0,0,0,0,0,0,0,226,0,0,0,122.6565,221.6094,683.1824
+46098,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),87,36,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5313,851.2744
+46210,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,225,0,0,0,122.6565,221.5469,767.2744
+46466,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),18,42,0,0,15,0,0,0,0,0,0,0,0,-29.3435,221.5185,427.2744
+46520,Created- Completed- Active,L1 3x2 Shop01 (BuildingInfo),86,41,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5313,671.2744
+47025,Created- Completed- Active,L1 3x2 Shop05 (BuildingInfo),45,40,0,0,3,0,0,0,0,0,0,0,0,63.1523,221.5469,199.2424
+47075,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),22,46,0,0,15,0,0,0,0,0,0,0,0,-29.3435,221.5313,795.2744
+47149,Created- Completed- Active,L1 3x2 Shop05 (BuildingInfo),71,40,0,0,3,0,0,0,0,0,0,0,0,10.6565,221.5313,559.2744
+47229,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),87,46,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5469,275.2744
+47382,Created- Completed- Active,L1 3x2 Shop01 (BuildingInfo),71,38,0,0,2,0,0,0,0,0,0,0,0,10.6565,221.5469,231.2744
+47796,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse01 (BuildingInfo),28,47,0,0,10,0,0,0,0,0,0,0,0,-29.3435,221.5313,847.2744
+47947,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),15,36,0,0,15,0,0,0,0,0,0,0,0,-29.34349,221.5313,339.2744
+47952,Created- HighDensity- Completed- Abandoned,H1_4x4_CommercialBlockhouse (BuildingInfo),2,35,0,0,1,0,0,0,0,236,0,0,0,122.6565,222.625,347.2304
+48192,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),87,46,0,0,1,0,0,0,0,0,0,0,0,10.6565,221.5313,715.2744
+48433,Created- Completed- Active,L1 2x2 Shop03 (BuildingInfo),40,44,0,0,2,0,0,0,0,0,0,0,0,130.6565,222.544,43.27436
+48750,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,221,0,0,0,64.58192,221.5313,579.1824
+48756,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),28,46,0,0,12,0,0,0,0,0,0,0,0,-29.3435,221.5469,247.2744
