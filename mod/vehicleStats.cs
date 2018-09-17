@@ -69,7 +69,7 @@ public class vehiclestats
 
         VehicleManager vm = Singleton<VehicleManager>.instance;
         BuildingManager bm = Singleton<BuildingManager>.instance;
-
+   
         for (int i = 0; i < vm.m_vehicles.m_buffer.Length; i++)
         {
             Vehicle myv = vm.m_vehicles.m_buffer[i];

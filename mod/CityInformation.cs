@@ -17,15 +17,16 @@ namespace data
         static ExceptionPanel panel;
         Thread bgThread;
 
-        CameraController camera = GameObject.FindObjectOfType<CameraController>();
-
         // called when level is loaded
         public CityInformation()
         {
+            userUI ui = new userUI();//load User Interactive UI
+
+           
+
             panel = UIView.library.ShowModal<ExceptionPanel>("ExceptionPanel");
-            panel.SetMessage("City Citizen", "" + "City Loaded - " + Application.persistentDataPath , false);
-
-
+            //panel.SetMessage("City Citizen", "" + "City Loaded - " + Application.persistentDataPath , false);
+            Bulldoze bz = new Bulldoze(panel);
 
 
             //threads runs in BG to save data to file service
@@ -45,9 +46,6 @@ namespace data
 
         public void getData(object stateInfo)
         {
-            camera.m_targetSize = 250;
-            camera.m_targetPosition = new Vector3(215.157f, 246.2631f, 285.6922f);
-            camera.m_targetAngle = new Vector3(45, 45); 
 
             vehiclestats vehicle = new vehiclestats();
             DistrictStats districts = new DistrictStats();
