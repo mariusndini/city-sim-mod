@@ -4,8 +4,8 @@ using System.Linq;
 using CityWebServer.Extensibility;
 using CityWebServer.Models;
 using ColossalFramework;
-using ICities;  
- 
+using ICities;
+
 namespace CityWebServer.Retrievers
 {
     public class ChirpRetriever : ILogAppender

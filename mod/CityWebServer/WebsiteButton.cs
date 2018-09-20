@@ -10,7 +10,7 @@ namespace CityWebServer
     /// <summary>
     /// Adds a button to the UI for quick access to the website.
     /// </summary>
-    /// <remarks> 
+    /// <remarks>
     /// Most/All of this code was sourced from here:
     /// https://github.com/AlexanderDzhoganov/Skylines-FPSCamera/blob/master/FPSCamera/Mod.cs
     /// </remarks>

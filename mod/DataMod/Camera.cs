@@ -8,7 +8,7 @@ using ColossalFramework.UI;
 namespace data
 {
     class Camera
-    { 
+    {
         static CameraController camera = GameObject.FindObjectOfType<CameraController>();
 
         public static void MoveCamera(float target, float x, float y, float z, float angleX, float angleY)

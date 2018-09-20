@@ -87,7 +87,13 @@
     <Compile Include="TrafficInfo.cs" />
     <Compile Include="userUI.cs" />
     <Compile Include="vehicleStats.cs" />
-    <Compile Include="Web.cs" />
+    <Compile Include="web\webBuildings.cs" />
+    <Compile Include="web\webCimData.cs" />
+    <Compile Include="web\webGenInfo.cs" />
+    <Compile Include="web\webIncome.cs" />
+    <Compile Include="web\webVehicleStats.cs" />
+    <Compile Include="web\webCamera.cs" />
+    <Compile Include="web\webTrafficData.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CityWebServer.Extensibility\CityWebServer.Extensibility.csproj">

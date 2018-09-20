@@ -1,15 +1,11 @@
-// Makes UnityEngine and Cities: Skylines API classes available for use
-using ICities;
-using UnityEngine;
-using ColossalFramework.UI;
 using ColossalFramework;
 using System;
 
 
 // the namespace makes the names of your classes unique. 
 // Naming: You can just use the name of your mod, it doesn't really matter. Spaces are not allowed.
-namespace data 
-{   
+namespace data
+{
     public class GeneralInformation
     {
         private string headers = "";
@@ -18,7 +14,6 @@ namespace data
         {
 
         }//nd get general info
-
 
         public string getData()
         {

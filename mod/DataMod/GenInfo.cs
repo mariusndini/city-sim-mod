@@ -7,7 +7,7 @@ using System;
 namespace data
 {
     class GenInfo
-    {  
+    {
         public string getStats()
         {
             Bindings dataBinding = new Bindings();

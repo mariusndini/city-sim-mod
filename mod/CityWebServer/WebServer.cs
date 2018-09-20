@@ -8,11 +8,11 @@ namespace CityWebServer
     {
         private readonly HttpListener _listener = new HttpListener();
         private readonly Action<HttpListenerRequest, HttpListenerResponse> _responderMethod;
-          
+         
         public WebServer(String[] prefixes, Action<HttpListenerRequest, HttpListenerResponse> method)
-        {  
+        {
             if (!HttpListener.IsSupported) { throw new NotSupportedException("This wouldn't happen if you upgraded your operating system more than once a decade."); }
-              
+
             // URI prefixes are required, for example:
             // "http://localhost:8080/index/".
             if (prefixes == null || prefixes.Length == 0) { throw new ArgumentException("prefixes"); }

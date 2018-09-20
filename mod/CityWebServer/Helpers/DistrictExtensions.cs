@@ -1,6 +1,6 @@
 ﻿using System;
 using CityWebServer.Models;
-  
+
 namespace CityWebServer.Helpers
 {
     public static class DistrictExtensions

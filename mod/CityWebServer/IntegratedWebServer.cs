@@ -8,16 +8,16 @@ using ApacheMimeTypes;
 using CityWebServer.Extensibility;
 using CityWebServer.Extensibility.Responses;
 using CityWebServer.Helpers;
-using ColossalFramework;   
+using ColossalFramework;
 using ColossalFramework.Plugins;
-using ICities; 
-using JetBrains.Annotations; 
+using ICities;
+using JetBrains.Annotations;
 
 namespace CityWebServer
 {
     [UsedImplicitly]
     public class IntegratedWebServer : ThreadingExtensionBase, IWebServer
-    { 
+    {
         // Allows an arbitrary number of bindings by appending a number to the end.
         private const String WebServerHostKey = "webServerHost{0}";
 

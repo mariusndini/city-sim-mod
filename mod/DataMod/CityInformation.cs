@@ -27,6 +27,7 @@ namespace data
             //Bulldoze bz = new Bulldoze(panel);
 
             //threads runs in BG to save data to file service
+            /*
             bgThread = new Thread(() =>
             {
                 var autoEvent = new AutoResetEvent(true);
@@ -39,7 +40,12 @@ namespace data
             });
             bgThread.IsBackground = true;
             bgThread.Start();
+            */
         }//end on level loaded 
+
+
+
+
 
         public void getData(object stateInfo)
         {
