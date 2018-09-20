@@ -29,6 +29,78 @@ app.use('/', routes);
 //*********  read file and load here ******
 var timer = setInterval(getCityData, 5000);
 
+
+var webGet = function(link) {
+    return new Promise((resolve, reject) => {
+        var options = {
+            uri: 'http://localhost:8080/'+link,
+            method: 'POST',
+
+        };
+        request.post(options,
+            (err, httpResponse, body) => {
+                resolve(body);
+            }); // end request
+
+    });
+}
+
+
+function getCityData() {
+    var data = {};
+
+    return webGet('webBuildings').then((body) => {
+        data.buildings = body;
+        return webGet('webCimData');
+
+        }).then((body) => {
+            data.cim = body;
+            return webGet('webGenInfo');
+
+        }).then((body) => {
+            data.cim = body;
+            return webGet('webIncome');
+
+        }).then((body) => {
+            data.cim = body;
+            return webGet('webVehicleStats');
+
+        }).then((body) => {
+            data.cim = body;
+            return webGet('webTrafficData');
+
+        }).then((body) => {
+            data.cim = body;
+            return webGet('Messages');
+
+        }).then((body) => {
+            data.cim = body;
+            console.log(data);
+
+    })
+
+
+
+
+
+}
+
+
+
+function postData(link) {
+    var options = {
+        uri: 'http:localhost:8080/' + link,
+        method: 'POST',
+
+    };
+    request.post(options, (err, httpResponse, body) => {
+        return body;
+    }); // end request
+}//end post data
+
+
+
+/*
 function getCityData() {  
     var data = {};
     data.generalData = {};
@@ -78,7 +150,7 @@ function getCityData() {
     }//end post data
 
 }//end end get data
-
+*/
 
 module.exports = app;
 
