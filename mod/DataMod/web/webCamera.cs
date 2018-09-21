@@ -16,7 +16,7 @@ namespace data
             float zoom = 200f;
             float x;
             float y;
-            float z;
+            float z; 
 
             float.TryParse(request.QueryString["x"], out x);
             float.TryParse(request.QueryString["y"], out y);

@@ -1,4 +1,4 @@
-﻿using ICities;
+﻿/*using ICities;
 using UnityEngine;
 using ColossalFramework;
 using System;
@@ -78,6 +78,7 @@ namespace data
         }//end get stats method
 
     }//end class
-
+     
 
 }
+*/

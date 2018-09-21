@@ -16,7 +16,7 @@ namespace data
     {
         static ExceptionPanel panel;
         Thread bgThread;
-
+         
         // called when level is loaded
         public CityInformation()
         {

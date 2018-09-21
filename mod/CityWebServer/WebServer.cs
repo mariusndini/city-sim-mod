@@ -24,7 +24,7 @@ namespace CityWebServer
             {
                 _listener.Prefixes.Add(s);
             }
-
+             
             _responderMethod = method;
             _listener.Start();
         }

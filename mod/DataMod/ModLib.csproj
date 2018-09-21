@@ -87,6 +87,7 @@
     <Compile Include="TrafficInfo.cs" />
     <Compile Include="userUI.cs" />
     <Compile Include="vehicleStats.cs" />
+    <Compile Include="web\webDistricts.cs" />
     <Compile Include="web\webBuildings.cs" />
     <Compile Include="web\webCimData.cs" />
     <Compile Include="web\webGenInfo.cs" />
