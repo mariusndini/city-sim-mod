@@ -17,7 +17,7 @@ namespace data
 
         public string getData()
         {
-            string data = "NodeID,Road1,Road2,Road3,Road4,Road5,Road6,Road7,x,y,z<br>" + Environment.NewLine;
+            string data = "NodeID,Road1,Road2,Road3,Road4,Road5,Road6,Road7,x,y,z" + Environment.NewLine;
 
             for (int i = 0; i < networks.m_nodes.m_buffer.Length; i++) {
                 NetNode thisNode = networks.m_nodes.m_buffer[i];
@@ -41,10 +41,10 @@ namespace data
                     Byte trafficDensity6 = networks.m_segments.m_buffer[segment6].m_trafficDensity;
                     Byte trafficDensity7 = networks.m_segments.m_buffer[segment7].m_trafficDensity;
 
-                    data = data + i + "</i>" + "," + trafficDensity0 + "," + trafficDensity1 + "," + trafficDensity2 + "," +
+                    data = data + i + "," + trafficDensity0 + "," + trafficDensity1 + "," + trafficDensity2 + "," +
                            trafficDensity3 + "," + trafficDensity4 + "," + trafficDensity5 + "," +
                            trafficDensity6 + "," + trafficDensity7 + "," + thisNode.m_position.x + "," + thisNode.m_position.y
-                           + "," + thisNode.m_position.z + "<br>" +Environment.NewLine;
+                           + "," + thisNode.m_position.z +Environment.NewLine;
 
                 }
 

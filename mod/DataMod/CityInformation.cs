@@ -7,7 +7,6 @@ using System;
 using System.IO;
 using System.Threading;
 
-
 // the namespace makes the names of your classes unique. 
 // Naming: You can just use the name of your mod, it doesn't really matter. Spaces are not allowed.
 namespace data
@@ -16,7 +15,36 @@ namespace data
     {
         static ExceptionPanel panel;
         Thread bgThread;
-         
+
+        
+
+        public void getData(object stateInfo)
+        {
+            var startTimeSpan = TimeSpan.Zero;
+            var periodTimeSpan = TimeSpan.FromMinutes(1);
+             
+            //SaveData.WriteString(cimdata.getStats(), buildings.getStats(), geninfo.getStats(), vehicle.getAllVehicles(), vehicle.getStats(), inoutSats.doPoll(), traffic.getData(), districts.getData());
+
+            int counter = 0;
+            var timer = new System.Threading.Timer((e) =>
+            {
+                counter = counter + 1;
+                vehiclestats vehicle = new vehiclestats();
+                DistrictStats districts = new DistrictStats();
+                incomeExpenseStats inoutSats = new incomeExpenseStats();
+                GenInfo geninfo = new GenInfo();
+                CimData cimdata = new CimData();
+                BuildingData buildings = new BuildingData();
+                TrafficInfo traffic = new TrafficInfo();
+
+                SaveData.WriteString(counter, cimdata.getStats(), buildings.getStats(), geninfo.getStats(), vehicle.getAllVehicles(), vehicle.getStats(), inoutSats.doPoll(), traffic.getData(), districts.getData());
+
+            }, null, startTimeSpan, periodTimeSpan);
+
+
+        }//end get Data
+
+
         // called when level is loaded
         public CityInformation()
         {
@@ -45,21 +73,9 @@ namespace data
 
 
 
+         
 
-
-        public void getData(object stateInfo)
-        {
-
-            vehiclestats vehicle = new vehiclestats();
-            DistrictStats districts = new DistrictStats();
-            incomeExpenseStats inoutSats = new incomeExpenseStats();
-            GenInfo geninfo = new GenInfo();
-            CimData cimdata = new CimData();
-            BuildingData buildings = new BuildingData();
-            TrafficInfo traffic = new TrafficInfo();
-
-            SaveData.WriteString(cimdata.getStats(), buildings.getStats(), geninfo.getStats(), vehicle.getAllVehicles(), vehicle.getStats(), inoutSats.doPoll(), traffic.getData() );
-        }//end get Data
+      
 
          
         // When level created? or load created? 

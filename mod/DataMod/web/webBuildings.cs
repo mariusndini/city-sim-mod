@@ -9,8 +9,8 @@ namespace data
     class webBuildings : RequestHandlerBase
     {
         public webBuildings(IWebServer server)
-            : base(server, new Guid("7a255904-bf72-406e-b5e2-c5a43fdd9bba"), "webBuildings", "Marius", 100, "/webBuildings")
-        {  
+            : base(server, new Guid("03897cb0-d53f-4189-a613-e7d22705dc2q"), "webBuilding", "Marius", 100, "/webBuilding")
+        {
         } 
 
         public override IResponseFormatter Handle(HttpListenerRequest request)
@@ -20,7 +20,7 @@ namespace data
             //return HtmlResponse(buildings.getStats());
             var buildingManager = Singleton<BuildingManager>.instance;
 
-            if (request.Url.AbsolutePath.StartsWith("/Building/List"))
+            if (request.Url.AbsolutePath.StartsWith("/Building/List")) 
             {
                 List<ushort> buildingIDs = new List<ushort>();
 

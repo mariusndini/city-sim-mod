@@ -19,8 +19,6 @@ namespace data
         public userUI()
         {
             init();
-
-
         }
 
  

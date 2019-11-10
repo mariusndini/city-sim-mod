@@ -1,0 +1,1502 @@
+ID,flags,home,work,visiting,health,agegroup,education,wellbeing,gender,subculture,happiness,family,class,name,taxRate
+0,8388737,44172,0,0,ExcellentHealth,Adult,Uneducated,87,Male,Generic,Suberb,212,Low Residential - Level1 (ItemClass),,9
+0,8388737,14938,0,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,166,Low Residential - Level1 (ItemClass),,9
+0,8388609,15504,0,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,31,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,9205,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,205,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,42659,0,0,VeryHealthy,Child,Uneducated,69,Male,Generic,Suberb,76,Low Residential - Level1 (ItemClass),,9
+0,8388609,38492,0,0,VeryHealthy,Adult,Uneducated,63,Male,Generic,Suberb,197,Low Residential - Level1 (ItemClass),,9
+0,10485761,12618,0,0,ExcellentHealth,Young,Uneducated,47,Male,Generic,Excellent,233,Low Residential - Level1 (ItemClass),,9
+0,Created,34317,35234,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,203,Low Residential - Level1 (ItemClass),,9
+59218,7864321,14017,0,0,VeryHealthy,Adult,Uneducated,78,Female,Generic,Suberb,115,Low Residential - Level1 (ItemClass),Rosemary White,9
+0,524289,23647,28554,0,ExcellentHealth,Adult,Uneducated,77,Male,Generic,Suberb,240,Low Residential - Level1 (ItemClass),,9
+13083,18366465,17494,0,0,VerySick,Teen,Uneducated,11,Male,Generic,Bad,22,Low Residential - Level1 (ItemClass),William Roberts,9
+0,1081345,12329,0,19064,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,5824,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,19,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45735,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,6,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,11158,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,111,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,20027,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,212,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,8269,0,0,ExcellentHealth,Child,Uneducated,57,Male,Generic,Suberb,249,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14017,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Excellent,136,Low Residential - Level1 (ItemClass),,9
+0,524289,37958,32775,0,ExcellentHealth,Adult,Uneducated,98,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,5633,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,48,Low Residential - Level1 (ItemClass),,9
+0,8404993,2264,0,0,ExcellentHealth,Adult,Uneducated,86,Male,Generic,Suberb,139,Low Residential - Level1 (ItemClass),,9
+0,8388609,45128,0,0,ExcellentHealth,Adult,Uneducated,34,Male,Generic,Excellent,147,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22687,0,0,VeryHealthy,Child,Uneducated,57,Male,Generic,Excellent,87,Low Residential - Level1 (ItemClass),,9
+12794,Created- Location,43709,27789,0,ExcellentHealth,Adult,Uneducated,91,Female,Generic,Suberb,56,Low Residential - Level1 (ItemClass),Annabel Morgan,9
+0,17825797,9238,23415,28554,VerySick,Young,Uneducated,0,Male,Generic,Bad,84,Low Residential - Level1 (ItemClass),,9
+0,17825797,38492,0,32197,VerySick,Young,Uneducated,24,Male,Generic,Bad,139,Low Residential - Level1 (ItemClass),,9
+6958,Created- Location,39145,6232,0,VeryHealthy,Adult,Uneducated,93,Female,Generic,Suberb,226,Low Residential - Level1 (ItemClass),Katie Blackwell,9
+0,10502145,42659,0,0,ExcellentHealth,Adult,Uneducated,94,Male,Generic,Suberb,14,Low Residential - Level1 (ItemClass),,9
+0,60817409,41201,0,0,VerySick,Adult,Uneducated,29,Male,Generic,Bad,24,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,39471,0,0,ExcellentHealth,Teen,Uneducated,62,Male,Generic,Suberb,226,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44172,0,0,VeryHealthy,Child,Uneducated,60,Male,Generic,Excellent,158,Low Residential - Level1 (ItemClass),,9
+0,8404993,11659,0,0,ExcellentHealth,Adult,Uneducated,99,Male,Generic,Suberb,150,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,19975,0,0,VeryHealthy,Adult,Uneducated,46,Male,Generic,Excellent,64,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,34317,0,0,ExcellentHealth,Child,Uneducated,45,Male,Generic,Excellent,203,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13044,0,0,VeryHealthy,Child,Uneducated,77,Male,Generic,Suberb,86,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,29485,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,83,Low Residential - Level1 (ItemClass),,9
+0,8388609,13023,0,0,VeryHealthy,Adult,Uneducated,86,Male,Generic,Suberb,21,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14198,0,0,VeryHealthy,Child,Uneducated,81,Male,Generic,Suberb,156,Low Residential - Level1 (ItemClass),,9
+0,524289,19178,47214,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,66,Low Residential - Level1 (ItemClass),,9
+0,1081345,31117,0,19064,ExcellentHealth,Teen,Uneducated,74,Male,Generic,Suberb,165,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,32306,0,0,VeryHealthy,Child,Uneducated,57,Male,Generic,Excellent,148,Low Residential - Level1 (ItemClass),,9
+0,Created,12618,0,0,ExcellentHealth,Teen,Uneducated,48,Male,Generic,Excellent,148,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40853,0,0,ExcellentHealth,Teen,Uneducated,52,Male,Generic,Excellent,157,Low Residential - Level1 (ItemClass),,9
+0,50872321,46105,26589,0,VerySick,Adult,Uneducated,25,Male,Generic,Bad,32,Low Residential - Level1 (ItemClass),,9
+0,6291457,36120,0,0,ExcellentHealth,Adult,Uneducated,44,Male,Generic,Excellent,46,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,45128,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,103,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,37958,0,0,ExcellentHealth,Adult,Uneducated,88,Male,Generic,Suberb,60,Low Residential - Level1 (ItemClass),,9
+0,6291457,25106,0,0,ExcellentHealth,Young,Uneducated,74,Male,Generic,Suberb,134,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40287,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,203,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25044,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,98,Low Residential - Level1 (ItemClass),,9
+17788,1705985,48228,45862,0,ExcellentHealth,Adult,OneSchool,100,Female,Generic,Suberb,144,Low Residential - Level1 (ItemClass),Annabel White,9
+0,524289,14938,16855,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,164,Low Residential - Level1 (ItemClass),,9
+0,1081345,41775,0,3977,ExcellentHealth,Teen,Uneducated,63,Male,Generic,Suberb,90,Low Residential - Level1 (ItemClass),,9
+49477,58212353,32412,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,45,Low Residential - Level1 (ItemClass),Tyler Chapman,9
+0,Created- Original,15504,0,0,ExcellentHealth,Teen,Uneducated,46,Male,Generic,Excellent,198,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45128,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,147,Low Residential - Level1 (ItemClass),,9
+0,6291457,2852,0,0,ExcellentHealth,Adult,Uneducated,35,Male,Generic,Excellent,98,Low Residential - Level1 (ItemClass),,9
+23173,7864321,39145,0,0,VeryHealthy,Adult,Uneducated,90,Female,Generic,Suberb,153,Low Residential - Level1 (ItemClass),Katie Peters,9
+0,6291457,25905,0,0,ExcellentHealth,Adult,Uneducated,59,Male,Generic,Suberb,84,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,44172,0,0,ExcellentHealth,Young,Uneducated,69,Male,Generic,Suberb,184,Low Residential - Level1 (ItemClass),,9
+0,524289,45292,38136,0,VeryHealthy,Adult,Uneducated,49,Male,Generic,Excellent,32,Low Residential - Level1 (ItemClass),,9
+0,8388609,45128,0,0,ExcellentHealth,Adult,Uneducated,34,Male,Generic,Excellent,208,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13313,0,0,VeryHealthy,Teen,Uneducated,47,Male,Generic,Excellent,164,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36120,0,0,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,155,Low Residential - Level1 (ItemClass),,9
+0,Created- Location,31117,15285,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,132,Low Residential - Level1 (ItemClass),,9
+0,60309509,40634,0,0,VerySick,Adult,Uneducated,26,Male,Generic,Bad,180,Low Residential - Level1 (ItemClass),,9
+0,51412997,25106,0,32197,VerySick,Teen,Uneducated,20,Male,Generic,Bad,154,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14237,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,68,Low Residential - Level1 (ItemClass),,9
+0,Created,42659,0,0,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,154,Low Residential - Level1 (ItemClass),,9
+0,8404993,44171,0,0,ExcellentHealth,Adult,Uneducated,66,Male,Generic,Suberb,183,Low Residential - Level1 (ItemClass),,9
+0,12582913,1499,0,0,ExcellentHealth,Adult,Uneducated,42,Male,Generic,Excellent,117,Low Residential - Level1 (ItemClass),,9
+0,Created,25298,0,0,ExcellentHealth,Teen,Uneducated,41,Male,Generic,Excellent,25,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,13044,0,0,VeryHealthy,Child,Uneducated,77,Male,Generic,Suberb,15,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,34317,0,0,ExcellentHealth,Child,Uneducated,45,Male,Generic,Excellent,203,Low Residential - Level1 (ItemClass),,9
+0,6291457,12618,0,0,ExcellentHealth,Adult,Uneducated,51,Male,Generic,Excellent,148,Low Residential - Level1 (ItemClass),,9
+0,6291457,15672,0,0,ExcellentHealth,Adult,Uneducated,81,Male,Generic,Suberb,140,Low Residential - Level1 (ItemClass),,9
+0,Created- BadHealth,35589,0,0,VerySick,Child,Uneducated,1,Male,Generic,Bad,144,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19975,0,0,ExcellentHealth,Teen,Uneducated,61,Male,Generic,Suberb,239,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14198,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,156,Low Residential - Level1 (ItemClass),,9
+0,58720257,41201,0,0,VerySick,Adult,Uneducated,31,Male,Generic,Poor,175,Low Residential - Level1 (ItemClass),,9
+0,57671685,45119,0,28554,VerySick,Young,Uneducated,27,Male,Generic,Bad,154,Low Residential - Level1 (ItemClass),,9
+0,6324225,12329,0,0,ExcellentHealth,Young,Uneducated,45,Male,Generic,Excellent,85,Low Residential - Level1 (ItemClass),,9
+62107,58195969,38272,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,174,Low Residential - Level1 (ItemClass),Stephen Smith,9
+0,6291457,38135,0,0,ExcellentHealth,Adult,Uneducated,35,Male,Generic,Excellent,36,Low Residential - Level1 (ItemClass),,9
+0,6291457,4820,0,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,250,Low Residential - Level1 (ItemClass),,9
+0,9437185,4820,0,23381,ExcellentHealth,Adult,Uneducated,99,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14166,0,0,ExcellentHealth,Teen,Uneducated,86,Male,Generic,Suberb,42,Low Residential - Level1 (ItemClass),,9
+20203,Created- Location- BadHealth,35589,0,0,VerySick,Teen,Uneducated,13,Male,Generic,Bad,131,Low Residential - Level1 (ItemClass),Raymond Hunter,9
+0,8388609,1992,0,0,ExcellentHealth,Adult,Uneducated,80,Male,Generic,Suberb,213,Low Residential - Level1 (ItemClass),,9
+0,Created,39145,0,0,VeryHealthy,Senior,Uneducated,66,Male,Generic,Excellent,171,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14237,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+0,679477249,8171,0,0,Healthy,Young,Uneducated,66,Male,Generic,Excellent,53,Low Residential - Level1 (ItemClass),,9
+54686,39321601,38272,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,18,Low Residential - Level1 (ItemClass),Edward Walker,9
+0,Created- Original,25106,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,53,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,4820,0,0,ExcellentHealth,Adult,Uneducated,93,Male,Generic,Suberb,86,Low Residential - Level1 (ItemClass),,9
+0,51412997,1144,0,32197,VerySick,Teen,Uneducated,29,Male,Generic,Bad,134,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40287,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,107,Low Residential - Level1 (ItemClass),,9
+0,15728641,38135,0,35234,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,208,Low Residential - Level1 (ItemClass),,9
+0,1081473,36211,0,37196,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,65,Low Residential - Level1 (ItemClass),,9
+0,6291457,31117,0,0,ExcellentHealth,Adult,Uneducated,87,Male,Generic,Suberb,11,Low Residential - Level1 (ItemClass),,9
+0,6307841,15672,0,0,ExcellentHealth,Adult,Uneducated,81,Male,Generic,Suberb,85,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,109,Low Residential - Level1 (ItemClass),,9
+0,4194305,15672,0,0,ExcellentHealth,Young,Uneducated,71,Male,Generic,Suberb,99,Low Residential - Level1 (ItemClass),,9
+0,8404993,40853,0,0,VeryHealthy,Adult,Uneducated,40,Male,Generic,Excellent,31,Low Residential - Level1 (ItemClass),,9
+0,15745409,37958,0,45823,ExcellentHealth,Adult,Uneducated,88,Male,Generic,Suberb,139,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36120,0,0,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,17,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,5824,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,43,Low Residential - Level1 (ItemClass),,9
+1198,58195969,23553,0,0,VerySick,Adult,Uneducated,0,Female,Generic,Bad,31,Low Residential - Level1 (ItemClass),Stephanie Wright,9
+0,6291457,11659,0,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,150,Low Residential - Level1 (ItemClass),,9
+0,8388609,41775,0,0,ExcellentHealth,Adult,Uneducated,73,Male,Generic,Suberb,63,Low Residential - Level1 (ItemClass),,9
+0,8388609,17207,0,0,Healthy,Adult,Uneducated,73,Male,Generic,Excellent,89,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,38135,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,193,Low Residential - Level1 (ItemClass),,9
+0,6307841,2146,0,0,ExcellentHealth,Adult,Uneducated,54,Male,Generic,Suberb,9,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,29485,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,110,Low Residential - Level1 (ItemClass),,9
+44572,7864321,25298,0,0,ExcellentHealth,Adult,Uneducated,41,Female,Generic,Excellent,199,Low Residential - Level1 (ItemClass),Siobhan Clarke,9
+0,9437569,14413,0,45823,ExcellentHealth,Adult,Uneducated,74,Male,Generic,Suberb,61,Low Residential - Level1 (ItemClass),,9
+0,Created,25298,580,0,ExcellentHealth,Adult,Uneducated,44,Male,Generic,Excellent,82,Low Residential - Level1 (ItemClass),,9
+0,1081345,14938,0,10273,VeryHealthy,Child,Uneducated,46,Male,Generic,Excellent,97,Low Residential - Level1 (ItemClass),,9
+48143,Created- Location,11659,44616,0,ExcellentHealth,Young,Uneducated,88,Male,Generic,Suberb,130,Low Residential - Level1 (ItemClass),Tyler Smithson,9
+0,Created- NeedGoods- Unemployed,5824,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,228,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13023,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,148,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11801,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Suberb,100,Low Residential - Level1 (ItemClass),,9
+12670,58212353,10798,0,0,VerySick,Adult,Uneducated,35,Female,Generic,Poor,210,Low Residential - Level1 (ItemClass),Faith Dixon,9
+0,1081345,42659,0,37196,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,39,Low Residential - Level1 (ItemClass),,9
+0,Created,18634,19636,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,54,Low Residential - Level1 (ItemClass),,9
+0,8388609,1992,0,0,ExcellentHealth,Adult,Uneducated,80,Male,Generic,Suberb,3,Low Residential - Level1 (ItemClass),,9
+7089,Created- Location,39471,15039,0,ExcellentHealth,Adult,Uneducated,82,Male,Generic,Suberb,24,Low Residential - Level1 (ItemClass),Todd Jackson,9
+0,Created,12692,28554,0,VeryHealthy,Adult,Uneducated,51,Male,Generic,Excellent,124,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,14938,0,0,ExcellentHealth,Adult,Uneducated,39,Male,Generic,Excellent,81,Low Residential - Level1 (ItemClass),,9
+0,Created,33841,3047,0,VeryHealthy,Adult,Uneducated,90,Male,Generic,Suberb,98,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,20027,0,0,ExcellentHealth,Child,Uneducated,57,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),,9
+0,131073,48228,0,0,ExcellentHealth,Teen,Uneducated,91,Male,Generic,Suberb,99,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,41775,0,0,ExcellentHealth,Teen,Uneducated,63,Male,Generic,Suberb,212,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19254,0,0,VeryHealthy,Child,Uneducated,81,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),,9
+2095,3670017,39145,0,0,VeryHealthy,Adult,Uneducated,93,Female,Generic,Suberb,162,Low Residential - Level1 (ItemClass),Amanda Cooper,9
+0,Created,14413,16862,0,ExcellentHealth,Adult,Uneducated,78,Male,Generic,Suberb,208,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22623,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,141,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,14,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,15672,0,0,ExcellentHealth,Teen,Uneducated,70,Male,Generic,Suberb,249,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12329,0,0,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,233,Low Residential - Level1 (ItemClass),,9
+0,1048577,25905,25710,19064,ExcellentHealth,Adult,Uneducated,62,Male,Generic,Suberb,244,Low Residential - Level1 (ItemClass),,9
+316,9961473,39145,0,0,VeryHealthy,Adult,Uneducated,89,Female,Generic,Suberb,153,Low Residential - Level1 (ItemClass),Siobhan Peters,9
+0,Created,44171,35234,0,ExcellentHealth,Adult,Uneducated,70,Male,Generic,Suberb,79,Low Residential - Level1 (ItemClass),,9
+54484,672661505,1144,15039,0,Healthy,Adult,Uneducated,67,Male,Generic,Excellent,138,Low Residential - Level1 (ItemClass),William Greenaway,9
+0,Created- Original,4820,0,0,VeryHealthy,Child,Uneducated,72,Male,Generic,Suberb,250,Low Residential - Level1 (ItemClass),,9
+0,51429381,38272,0,32197,VerySick,Teen,Uneducated,0,Male,Generic,Bad,57,Low Residential - Level1 (ItemClass),,9
+0,Created,14413,16855,0,ExcellentHealth,Adult,Uneducated,78,Male,Generic,Suberb,75,Low Residential - Level1 (ItemClass),,9
+0,Created,14017,15039,0,VeryHealthy,Adult,Uneducated,81,Male,Generic,Suberb,77,Low Residential - Level1 (ItemClass),,9
+4064,Created- Location,36211,3475,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,173,Low Residential - Level1 (ItemClass),Winston White,9
+0,Created,36120,27866,0,ExcellentHealth,Young,Uneducated,46,Male,Generic,Excellent,5,Low Residential - Level1 (ItemClass),,9
+9418,Created- Location,14017,15039,0,VeryHealthy,Adult,Uneducated,81,Male,Generic,Suberb,191,Low Residential - Level1 (ItemClass),Robert Cooper,9
+0,Created- Original,20027,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),,9
+0,Created,25106,15285,0,ExcellentHealth,Adult,Uneducated,97,Male,Generic,Suberb,15,Low Residential - Level1 (ItemClass),,9
+3438,Created- Location,43773,43523,0,ExcellentHealth,Adult,Uneducated,53,Female,Generic,Excellent,110,Low Residential - Level1 (ItemClass),Holly Blake,9
+0,524289,25044,15039,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,143,Low Residential - Level1 (ItemClass),,9
+0,524289,35832,35234,0,VeryHealthy,Adult,Uneducated,99,Male,Generic,Suberb,21,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,100,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44171,0,0,ExcellentHealth,Teen,Uneducated,55,Male,Generic,Suberb,79,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,42659,0,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,250,Low Residential - Level1 (ItemClass),,9
+0,Created,4393,37196,0,VeryHealthy,Adult,Uneducated,100,Male,Generic,Suberb,60,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,3149,0,0,ExcellentHealth,Teen,Uneducated,65,Male,Generic,Suberb,62,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,25905,0,0,ExcellentHealth,Teen,Uneducated,62,Male,Generic,Suberb,244,Low Residential - Level1 (ItemClass),,9
+0,Created,31117,12975,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,233,Low Residential - Level1 (ItemClass),,9
+0,Created,19178,14968,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,32,Low Residential - Level1 (ItemClass),,9
+0,540673,4820,12785,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,88,Low Residential - Level1 (ItemClass),,9
+13273,Created- Location,25298,15039,0,ExcellentHealth,Adult,Uneducated,44,Female,Generic,Excellent,82,Low Residential - Level1 (ItemClass),Faith Jackson,9
+14253,58195969,46105,0,0,VerySick,Adult,Uneducated,22,Female,Generic,Bad,181,Low Residential - Level1 (ItemClass),Piper Dixon,9
+0,557057,25298,15039,0,ExcellentHealth,Young,Uneducated,42,Male,Generic,Excellent,69,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,2852,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,41,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,25298,0,0,ExcellentHealth,Adult,Uneducated,34,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+0,Created,5824,15039,0,VeryHealthy,Adult,Uneducated,51,Male,Generic,Excellent,45,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45735,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,222,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,9939,0,0,ExcellentHealth,Teen,Uneducated,82,Male,Generic,Suberb,193,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25905,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,116,Low Residential - Level1 (ItemClass),,9
+0,524289,9238,15039,0,ExcellentHealth,Adult,Uneducated,50,Male,Generic,Excellent,212,Low Residential - Level1 (ItemClass),,9
+24613,39321601,41201,0,0,VerySick,Adult,Uneducated,34,Male,Generic,Poor,90,Low Residential - Level1 (ItemClass),Howard Ward,9
+0,Created- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,9,Low Residential - Level1 (ItemClass),,9
+0,Created,31117,16855,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,189,Low Residential - Level1 (ItemClass),,9
+0,524289,13313,26589,0,VeryHealthy,Adult,Uneducated,44,Male,Generic,Excellent,98,Low Residential - Level1 (ItemClass),,9
+0,524289,48205,15039,0,PoorHealth,Adult,Uneducated,14,Male,Generic,Poor,244,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45128,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,201,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,36120,15039,0,ExcellentHealth,Adult,Uneducated,47,Male,Generic,Excellent,30,Low Residential - Level1 (ItemClass),,9
+57521,7880705,14017,0,0,VeryHealthy,Adult,Uneducated,78,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),Tyler Reed,9
+0,Created- Original,2146,0,0,ExcellentHealth,Teen,Uneducated,49,Male,Generic,Suberb,180,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,2852,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,41,Low Residential - Level1 (ItemClass),,9
+8362,524289,14938,19636,0,ExcellentHealth,Adult,Uneducated,49,Female,Generic,Excellent,62,Low Residential - Level1 (ItemClass),Taylor Phillips,9
+0,Created- NeedGoods,38492,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,197,Low Residential - Level1 (ItemClass),,9
+31168,678969345,1144,0,0,PoorHealth,Adult,Uneducated,60,Female,Generic,Excellent,73,Low Residential - Level1 (ItemClass),Sabrina Hunter,9
+0,Created- Original,36211,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,65,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,11659,0,0,ExcellentHealth,Teen,Uneducated,83,Male,Generic,Suberb,77,Low Residential - Level1 (ItemClass),,9
+0,35127297,17494,0,0,VerySick,Child,Uneducated,13,Male,Generic,Bad,111,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,9205,0,0,VeryHealthy,Adult,Uneducated,42,Male,Generic,Excellent,61,Low Residential - Level1 (ItemClass),,9
+0,Created,25044,16862,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,4,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13313,0,0,Healthy,Child,Uneducated,44,Male,Generic,Excellent,70,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,173,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14166,0,0,ExcellentHealth,Teen,Uneducated,86,Male,Generic,Suberb,186,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,13718,0,0,ExcellentHealth,Young,Uneducated,39,Male,Generic,Excellent,87,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,1992,0,0,ExcellentHealth,Adult,Uneducated,74,Male,Generic,Suberb,175,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9939,0,0,ExcellentHealth,Teen,Uneducated,82,Male,Generic,Suberb,75,Low Residential - Level1 (ItemClass),,9
+0,34603013,47095,43523,28554,VerySick,Adult,Uneducated,33,Male,Generic,Poor,12,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,9,Low Residential - Level1 (ItemClass),,9
+0,9437185,12692,0,19064,VeryHealthy,Adult,Uneducated,47,Male,Generic,Excellent,43,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44172,0,0,VeryHealthy,Child,Uneducated,60,Male,Generic,Excellent,29,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,5482,0,0,ExcellentHealth,Adult,Uneducated,94,Male,Generic,Suberb,224,Low Residential - Level1 (ItemClass),,9
+0,540673,2146,15039,0,ExcellentHealth,Adult,Uneducated,57,Male,Generic,Suberb,197,Low Residential - Level1 (ItemClass),,9
+0,1065345,25298,0,45823,ExcellentHealth,Teen,Uneducated,41,Male,Generic,Excellent,82,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,45735,0,0,VeryHealthy,Adult,Uneducated,40,Male,Generic,Excellent,131,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45128,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,8269,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,122,Low Residential - Level1 (ItemClass),,9
+0,Created,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,7,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,38135,15039,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,142,Low Residential - Level1 (ItemClass),,9
+0,671105025,4820,15039,0,PoorHealth,Adult,Uneducated,78,Male,Generic,Excellent,159,Low Residential - Level1 (ItemClass),,9
+0,Created,13718,0,0,ExcellentHealth,Child,Uneducated,45,Male,Generic,Excellent,177,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Unemployed,14413,0,0,ExcellentHealth,Adult,Uneducated,68,Male,Generic,Suberb,130,Low Residential - Level1 (ItemClass),,9
+0,Created,12735,15039,0,VeryHealthy,Adult,Uneducated,81,Male,Generic,Suberb,244,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40287,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,168,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22623,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,15,Low Residential - Level1 (ItemClass),,9
+0,66060293,14166,0,28554,VerySick,Adult,Uneducated,13,Male,Generic,Bad,42,Low Residential - Level1 (ItemClass),,9
+0,10518529,25298,0,0,ExcellentHealth,Young,Uneducated,40,Male,Generic,Excellent,69,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40853,0,0,ExcellentHealth,Teen,Uneducated,52,Male,Generic,Excellent,31,Low Residential - Level1 (ItemClass),,9
+0,Created,25905,15039,0,ExcellentHealth,Adult,Uneducated,62,Male,Generic,Suberb,41,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Unemployed,38492,0,0,VeryHealthy,Adult,Uneducated,57,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+0,540673,48091,3047,0,ExcellentHealth,Adult,Uneducated,91,Male,Generic,Suberb,46,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,5824,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,43,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19254,0,0,VeryHealthy,Child,Uneducated,81,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),,9
+16502,58195969,18928,0,0,VerySick,Adult,Uneducated,35,Male,Generic,Poor,213,Low Residential - Level1 (ItemClass),Cedric Holmes,9
+0,Created- Original,18634,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,160,Low Residential - Level1 (ItemClass),,9
+0,Created,25298,580,0,ExcellentHealth,Adult,Uneducated,44,Male,Generic,Excellent,7,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,44172,0,0,VeryHealthy,Adult,Uneducated,76,Male,Generic,Suberb,163,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,38135,0,0,VeryHealthy,Child,Uneducated,29,Male,Generic,Excellent,225,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,32306,0,0,ExcellentHealth,Adult,Uneducated,70,Male,Generic,Suberb,148,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Original,36044,0,0,VeryHealthy,Child,Uneducated,77,Male,Generic,Suberb,195,Low Residential - Level1 (ItemClass),,9
+7890,Created- Location- Unemployed,14938,0,0,ExcellentHealth,Adult,Uneducated,39,Female,Generic,Excellent,164,Low Residential - Level1 (ItemClass),Ashleigh Wilson,9
+0,Created- Original,1499,0,0,VeryHealthy,Child,Uneducated,48,Male,Generic,Excellent,117,Low Residential - Level1 (ItemClass),,9
+0,524289,25106,16855,0,ExcellentHealth,Adult,Uneducated,97,Male,Generic,Suberb,53,Low Residential - Level1 (ItemClass),,9
+46107,Created- Location,36538,43523,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,83,Low Residential - Level1 (ItemClass),Pierce Green,9
+0,Created,38135,44616,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,100,Low Residential - Level1 (ItemClass),,9
+0,50855937,42081,16855,0,VerySick,Adult,Uneducated,9,Male,Generic,Bad,8,Low Residential - Level1 (ItemClass),,9
+20607,Created- Original,17081,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,193,Low Residential - Level1 (ItemClass),Earl Wilson,9
+0,524289,11937,14968,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,251,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45128,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,201,Low Residential - Level1 (ItemClass),,9
+0,Created,12329,0,0,VeryHealthy,Child,Uneducated,45,Male,Generic,Excellent,178,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,35832,0,0,VeryHealthy,Child,Uneducated,77,Male,Generic,Suberb,119,Low Residential - Level1 (ItemClass),,9
+0,524289,1499,10320,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,116,Low Residential - Level1 (ItemClass),,9
+5348,Created- NeedGoods- Location,3149,16855,0,ExcellentHealth,Adult,Uneducated,73,Male,Generic,Suberb,234,Low Residential - Level1 (ItemClass),Cedric Reed,9
+0,10485761,2264,0,0,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,10,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,1499,0,0,VeryHealthy,Child,Uneducated,48,Male,Generic,Excellent,93,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33831,0,0,VeryHealthy,Child,Uneducated,58,Male,Generic,Excellent,85,Low Residential - Level1 (ItemClass),,9
+0,15728641,28939,0,10273,VeryHealthy,Adult,Uneducated,39,Male,Generic,Excellent,2,Low Residential - Level1 (ItemClass),,9
+0,524289,13313,37196,0,Healthy,Adult,Uneducated,39,Male,Generic,Excellent,27,Low Residential - Level1 (ItemClass),,9
+0,657409,48228,45862,0,ExcellentHealth,Adult,OneSchool,100,Male,Generic,Suberb,162,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,47095,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,12,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,19975,0,0,VeryHealthy,Adult,Uneducated,46,Male,Generic,Excellent,52,Low Residential - Level1 (ItemClass),,9
+0,1048577,22687,44856,37196,ExcellentHealth,Adult,Uneducated,80,Male,Generic,Suberb,113,Low Residential - Level1 (ItemClass),,9
+0,33554433,14683,0,0,VerySick,Child,Uneducated,13,Male,Generic,Bad,253,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14413,0,0,VeryHealthy,Child,Uneducated,55,Male,Generic,Excellent,130,Low Residential - Level1 (ItemClass),,9
+62327,60293121,44102,0,0,VerySick,Adult,Uneducated,21,Female,Generic,Bad,207,Low Residential - Level1 (ItemClass),Nancy Murray,9
+0,Created- Original,33841,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Suberb,81,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12204,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,7,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40853,0,0,VeryHealthy,Child,Uneducated,48,Male,Generic,Excellent,232,Low Residential - Level1 (ItemClass),,9
+0,524289,18634,27789,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,169,Low Residential - Level1 (ItemClass),,9
+52319,Created- Location,25044,45823,0,ExcellentHealth,Adult,Uneducated,38,Female,Generic,Excellent,98,Low Residential - Level1 (ItemClass),Annabel Hancock,9
+0,10485761,39877,0,0,Sick,Adult,Uneducated,27,Male,Generic,Poor,122,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14017,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Excellent,73,Low Residential - Level1 (ItemClass),,9
+0,Created,25298,0,0,ExcellentHealth,Teen,Uneducated,41,Male,Generic,Excellent,205,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,28939,0,0,VeryHealthy,Adult,Uneducated,39,Male,Generic,Excellent,136,Low Residential - Level1 (ItemClass),,9
+0,1048577,8269,23415,35234,ExcellentHealth,Adult,Uneducated,59,Male,Generic,Suberb,31,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,28939,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,70,Low Residential - Level1 (ItemClass),,9
+0,524289,40287,45862,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,107,Low Residential - Level1 (ItemClass),,9
+3170,Created- Location,17081,16855,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,193,Low Residential - Level1 (ItemClass),Albert Wilson,9
+0,Created- Original,15672,0,0,VeryHealthy,Child,Uneducated,58,Male,Generic,Excellent,230,Low Residential - Level1 (ItemClass),,9
+0,1048961,25106,45823,45823,ExcellentHealth,Adult,Uneducated,97,Male,Generic,Suberb,211,Low Residential - Level1 (ItemClass),,9
+0,524289,31117,10146,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,233,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44171,0,0,ExcellentHealth,Child,Uneducated,58,Male,Generic,Suberb,148,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,38492,0,0,VeryHealthy,Adult,Uneducated,57,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+50310,Created- Location,41286,45992,0,ExcellentHealth,Adult,Uneducated,80,Female,Generic,Suberb,171,Low Residential - Level1 (ItemClass),Carol Crowley,9
+0,35127297,17494,0,0,VerySick,Child,Uneducated,13,Male,Generic,Bad,111,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,14166,0,0,VeryHealthy,Adult,Uneducated,84,Male,Generic,Suberb,230,Low Residential - Level1 (ItemClass),,9
+0,1048577,40853,35192,5742,VeryHealthy,Adult,Uneducated,44,Male,Generic,Excellent,31,Low Residential - Level1 (ItemClass),,9
+39988,60293121,44102,0,0,VerySick,Adult,Uneducated,21,Male,Generic,Bad,169,Low Residential - Level1 (ItemClass),Aspen Harvey,9
+0,Created- Original,2852,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,98,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,1992,0,0,ExcellentHealth,Teen,Uneducated,70,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,25298,0,0,ExcellentHealth,Teen,Uneducated,41,Male,Generic,Excellent,199,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33841,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Suberb,81,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19178,0,0,VeryHealthy,Child,Uneducated,80,Male,Generic,Suberb,32,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,20027,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,212,Low Residential - Level1 (ItemClass),,9
+41092,Created,12692,27789,0,VeryHealthy,Adult,Uneducated,51,Female,Generic,Excellent,209,Low Residential - Level1 (ItemClass),Holly Cook,9
+0,Created,1499,23415,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,239,Low Residential - Level1 (ItemClass),,9
+0,Created,14938,27789,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,163,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,4820,0,0,ExcellentHealth,Adult,Uneducated,93,Male,Generic,Suberb,233,Low Residential - Level1 (ItemClass),,9
+49463,9961473,39145,0,0,VeryHealthy,Adult,Uneducated,89,Male,Generic,Suberb,81,Low Residential - Level1 (ItemClass),Earl Blake,9
+0,Created- Original,2146,0,0,ExcellentHealth,Teen,Uneducated,49,Male,Generic,Excellent,235,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,37958,0,0,ExcellentHealth,Teen,Uneducated,74,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),,9
+0,Created- BadHealth,40634,0,0,VerySick,Child,Uneducated,18,Male,Generic,Bad,48,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,1499,0,0,ExcellentHealth,Teen,Uneducated,46,Male,Generic,Excellent,116,Low Residential - Level1 (ItemClass),,9
+14430,Created- Location,33831,45823,0,ExcellentHealth,Adult,Uneducated,84,Female,Generic,Suberb,30,Low Residential - Level1 (ItemClass),Rosemary Campbell,9
+36885,Created- Location,41775,45823,0,ExcellentHealth,Adult,Uneducated,77,Male,Generic,Suberb,212,Low Residential - Level1 (ItemClass),Aspen Gray,9
+0,-2081423355,22687,0,32197,VerySick,Adult,Uneducated,0,Male,Generic,Bad,104,Low Residential - Level1 (ItemClass),,9
+0,8388609,1499,0,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,116,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Original,31117,0,0,VeryHealthy,Child,Uneducated,65,Male,Generic,Suberb,220,Low Residential - Level1 (ItemClass),,9
+58966,39337985,40634,0,0,VerySick,Adult,Uneducated,29,Male,Generic,Bad,192,Low Residential - Level1 (ItemClass),Charles Brown,9
+0,Created- Original- Unemployed,31117,0,0,ExcellentHealth,Young,Uneducated,75,Male,Generic,Suberb,171,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Unemployed,33831,0,0,ExcellentHealth,Adult,Uneducated,74,Male,Generic,Suberb,24,Low Residential - Level1 (ItemClass),,9
+0,524289,47095,45862,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,134,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,8269,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,31,Low Residential - Level1 (ItemClass),,9
+0,15729025,5824,0,45823,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,12,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,3149,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,107,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,34317,0,0,ExcellentHealth,Teen,Uneducated,42,Male,Generic,Excellent,57,Low Residential - Level1 (ItemClass),,9
+10133,Created- Location,41286,32775,0,ExcellentHealth,Adult,Uneducated,80,Female,Generic,Suberb,16,Low Residential - Level1 (ItemClass),Amanda Chapman,9
+0,13631493,4292,0,28554,PoorHealth,Adult,Uneducated,67,Male,Generic,Excellent,85,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,19178,0,0,ExcellentHealth,Young,Uneducated,84,Male,Generic,Suberb,96,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,45735,45823,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,188,Low Residential - Level1 (ItemClass),,9
+0,524289,3149,45823,0,ExcellentHealth,Adult,Uneducated,73,Male,Generic,Suberb,107,Low Residential - Level1 (ItemClass),,9
+43838,39321601,17494,0,0,VerySick,Adult,Uneducated,7,Female,Generic,Bad,22,Low Residential - Level1 (ItemClass),Elisa Roberts,9
+0,524289,35832,15285,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,9,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,25044,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,78,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12204,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,7,Low Residential - Level1 (ItemClass),,9
+20582,Created- Original- Location,11801,0,35234,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,243,Low Residential - Level1 (ItemClass),Albert Finch,9
+0,Created- Original,3149,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,107,Low Residential - Level1 (ItemClass),,9
+27276,5767169,12329,0,0,ExcellentHealth,Adult,Uneducated,46,Male,Generic,Excellent,62,Low Residential - Level1 (ItemClass),Layton Phillips,9
+0,Created- Unemployed,14938,0,0,ExcellentHealth,Adult,Uneducated,39,Male,Generic,Excellent,129,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,19975,0,0,VeryHealthy,Adult,Uneducated,46,Male,Generic,Excellent,204,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,42659,0,0,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,76,Low Residential - Level1 (ItemClass),,9
+0,Created,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,72,Low Residential - Level1 (ItemClass),,9
+60478,58195969,18928,0,0,VerySick,Adult,Uneducated,35,Male,Generic,Poor,8,Low Residential - Level1 (ItemClass),Jeremy Alexander,9
+0,Created- Unemployed,25905,0,0,ExcellentHealth,Adult,Uneducated,52,Male,Generic,Excellent,101,Low Residential - Level1 (ItemClass),,9
+0,524289,11158,45823,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,3,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25044,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,174,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,8269,0,0,ExcellentHealth,Child,Uneducated,57,Male,Generic,Suberb,227,Low Residential - Level1 (ItemClass),,9
+32467,58212353,42081,0,0,VerySick,Adult,Uneducated,6,Female,Generic,Bad,101,Low Residential - Level1 (ItemClass),Elisabeth Smithson,9
+35844,Created- Location,11801,45823,0,ExcellentHealth,Adult,Uneducated,97,Female,Generic,Suberb,100,Low Residential - Level1 (ItemClass),Amanda Webb,9
+0,1048577,43709,45823,37196,ExcellentHealth,Adult,Uneducated,91,Male,Generic,Suberb,24,Low Residential - Level1 (ItemClass),,9
+53903,Created- Original- Location,25044,0,6894,VeryHealthy,Child,Uneducated,27,Female,Generic,Excellent,4,Low Residential - Level1 (ItemClass),Nancy Phillips,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,177,Low Residential - Level1 (ItemClass),,9
+2593,Created- Location,8269,6232,0,ExcellentHealth,Adult,Uneducated,59,Male,Generic,Suberb,204,Low Residential - Level1 (ItemClass),Layton Phillips,9
+9419,Created- Sick- Location- BadHealth,35799,45823,32197,VerySick,Adult,Uneducated,25,Male,Generic,Bad,24,Low Residential - Level1 (ItemClass),Tyler Jackson,9
+0,Created- Original,39471,0,0,ExcellentHealth,Teen,Uneducated,62,Male,Generic,Suberb,226,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,158,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,124,Low Residential - Level1 (ItemClass),,9
+0,Created,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,98,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed- BadHealth,37958,0,0,VerySick,Young,Uneducated,18,Male,Generic,Bad,5,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,39471,0,0,ExcellentHealth,Teen,Uneducated,62,Male,Generic,Suberb,232,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,124,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45292,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,65,Low Residential - Level1 (ItemClass),,9
+34876,7864321,14166,0,0,VeryHealthy,Adult,Uneducated,91,Female,Generic,Suberb,83,Low Residential - Level1 (ItemClass),Elisabeth Green,9
+0,Created,25905,45823,0,ExcellentHealth,Adult,Uneducated,62,Male,Generic,Suberb,233,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25106,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Suberb,53,Low Residential - Level1 (ItemClass),,9
+0,1081345,20027,0,10273,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,22,Low Residential - Level1 (ItemClass),,9
+6049,Created- Location,37958,16855,0,VeryHealthy,Adult,Uneducated,93,Female,Generic,Suberb,69,Low Residential - Level1 (ItemClass),Olivia Hancock,9
+0,Created- Unemployed,43773,0,0,ExcellentHealth,Adult,Uneducated,43,Male,Generic,Excellent,248,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25106,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Suberb,104,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,13313,0,0,Healthy,Adult,Uneducated,29,Male,Generic,Excellent,72,Low Residential - Level1 (ItemClass),,9
+51068,1048577,42659,44856,35234,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,14,Low Residential - Level1 (ItemClass),Robert Finch,9
+61772,1705985,48228,35234,0,ExcellentHealth,Adult,OneSchool,100,Female,Generic,Suberb,99,Low Residential - Level1 (ItemClass),Scarlett Gray,9
+0,Created,33831,14968,0,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,49,Low Residential - Level1 (ItemClass),,9
+12586,678969345,1144,0,0,PoorHealth,Adult,Uneducated,60,Female,Generic,Excellent,138,Low Residential - Level1 (ItemClass),Brittany Greenaway,9
+22950,60293121,38272,0,0,VerySick,Adult,Uneducated,0,Female,Generic,Bad,193,Low Residential - Level1 (ItemClass),Stephanie Wilson,9
+0,Created- Unemployed,11158,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,46,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,13313,0,0,Healthy,Adult,Uneducated,29,Male,Generic,Excellent,72,Low Residential - Level1 (ItemClass),,9
+0,63963141,35589,0,28554,VerySick,Adult,Uneducated,0,Male,Generic,Bad,57,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19178,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,64,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,9238,0,0,ExcellentHealth,Young,Uneducated,42,Male,Generic,Excellent,128,Low Residential - Level1 (ItemClass),,9
+0,Created,1992,45823,0,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,189,Low Residential - Level1 (ItemClass),,9
+0,Created,25106,45862,0,ExcellentHealth,Adult,Uneducated,97,Male,Generic,Suberb,130,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22855,0,0,ExcellentHealth,Teen,Uneducated,47,Male,Generic,Excellent,134,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,100,Low Residential - Level1 (ItemClass),,9
+5024,58195969,35589,0,0,VerySick,Adult,Uneducated,17,Male,Generic,Bad,131,Low Residential - Level1 (ItemClass),Raymond Hunter,9
+0,Created,3059,25710,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,63,Low Residential - Level1 (ItemClass),,9
+0,8388609,36211,0,0,VeryHealthy,Adult,Uneducated,46,Male,Generic,Excellent,158,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36538,0,0,ExcellentHealth,Teen,Uneducated,92,Male,Generic,Suberb,139,Low Residential - Level1 (ItemClass),,9
+0,33587201,35589,0,0,VerySick,Child,Uneducated,1,Male,Generic,Bad,144,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,41775,0,0,ExcellentHealth,Teen,Uneducated,63,Male,Generic,Suberb,63,Low Residential - Level1 (ItemClass),,9
+0,Created,38492,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,197,Low Residential - Level1 (ItemClass),,9
+46987,58195969,23553,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,31,Low Residential - Level1 (ItemClass),James Wright,9
+0,Created- NeedGoods,44172,10146,0,VeryHealthy,Adult,Uneducated,86,Male,Generic,Suberb,138,Low Residential - Level1 (ItemClass),,9
+38199,39321601,14683,0,0,VerySick,Adult,Uneducated,7,Female,Generic,Bad,253,Low Residential - Level1 (ItemClass),Mary Jackson,9
+0,Created- Unemployed,25298,45823,0,ExcellentHealth,Adult,Uneducated,34,Male,Generic,Excellent,245,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,33841,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,113,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22623,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,136,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,14413,0,0,ExcellentHealth,Adult,Uneducated,68,Male,Generic,Suberb,71,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,43,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,42659,0,0,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,39,Low Residential - Level1 (ItemClass),,9
+0,Created,45292,3475,0,VeryHealthy,Adult,Uneducated,49,Male,Generic,Excellent,65,Low Residential - Level1 (ItemClass),,9
+63859,Created- Location- Unemployed,25044,0,0,ExcellentHealth,Young,Uneducated,31,Female,Generic,Excellent,5,Low Residential - Level1 (ItemClass),Faith Davies,9
+0,Created- Original,11801,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,40,Low Residential - Level1 (ItemClass),,9
+0,524289,32306,28554,0,ExcellentHealth,Adult,Uneducated,80,Male,Generic,Suberb,96,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,37958,0,0,VeryHealthy,Adult,Uneducated,83,Male,Generic,Suberb,83,Low Residential - Level1 (ItemClass),,9
+0,Created- Original- Unemployed,9205,0,0,ExcellentHealth,Young,Uneducated,57,Male,Generic,Suberb,26,Low Residential - Level1 (ItemClass),,9
+0,15728641,3059,0,5696,ExcellentHealth,Adult,Uneducated,95,Male,Generic,Suberb,55,Low Residential - Level1 (ItemClass),,9
+0,10485761,39877,0,0,Sick,Adult,Uneducated,24,Male,Generic,Poor,149,Low Residential - Level1 (ItemClass),,9
+0,524289,22623,15285,0,VeryHealthy,Adult,Uneducated,67,Male,Generic,Suberb,19,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13313,0,0,Healthy,Child,Uneducated,44,Male,Generic,Excellent,72,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13023,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,128,Low Residential - Level1 (ItemClass),,9
+0,131073,48228,0,0,ExcellentHealth,Teen,Uneducated,91,Male,Generic,Suberb,56,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11801,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,82,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19975,0,0,VeryHealthy,Child,Uneducated,55,Male,Generic,Excellent,204,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45735,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,131,Low Residential - Level1 (ItemClass),,9
+0,524289,45735,43523,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,6,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,18634,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,54,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,15672,0,0,ExcellentHealth,Teen,Uneducated,70,Male,Generic,Suberb,85,Low Residential - Level1 (ItemClass),,9
+0,51380229,38135,47214,28554,VerySick,Adult,Uneducated,25,Male,Generic,Bad,225,Low Residential - Level1 (ItemClass),,9
+30475,18350085,14212,29457,32197,VerySick,Adult,Uneducated,43,Female,Generic,Poor,68,Low Residential - Level1 (ItemClass),Sabrina Price,9
+0,524289,38135,23415,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,208,Low Residential - Level1 (ItemClass),,9
+0,Created- BadHealth,40634,0,0,VerySick,Teen,Uneducated,25,Male,Generic,Bad,58,Low Residential - Level1 (ItemClass),,9
+0,Created,3149,27866,0,ExcellentHealth,Adult,Uneducated,73,Male,Generic,Suberb,234,Low Residential - Level1 (ItemClass),,9
+48609,Created- Location,17207,3475,0,Healthy,Adult,Uneducated,77,Female,Generic,Excellent,96,Low Residential - Level1 (ItemClass),Katie Miller,9
+6124,39321601,41201,0,0,VerySick,Adult,Uneducated,34,Female,Generic,Poor,250,Low Residential - Level1 (ItemClass),Holly Brown,9
+0,524289,43773,10320,0,ExcellentHealth,Adult,Uneducated,53,Male,Generic,Excellent,110,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,69,Low Residential - Level1 (ItemClass),,9
+21437,Created- Location,14938,27789,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,163,Low Residential - Level1 (ItemClass),Aspen Evans,9
+0,Created- Unemployed,20027,0,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,212,Low Residential - Level1 (ItemClass),,9
+55290,Created- Location,14938,15285,35234,ExcellentHealth,Adult,Uneducated,49,Female,Generic,Excellent,103,Low Residential - Level1 (ItemClass),Sophie Adams,9
+0,524289,15504,47214,0,ExcellentHealth,Adult,Uneducated,53,Male,Generic,Excellent,49,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45128,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,201,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,42659,0,0,VeryHealthy,Child,Uneducated,69,Male,Generic,Suberb,30,Low Residential - Level1 (ItemClass),,9
+0,1048577,12204,35192,35234,ExcellentHealth,Adult,Uneducated,61,Male,Generic,Suberb,253,Low Residential - Level1 (ItemClass),,9
+0,-2096070651,22623,0,32197,VerySick,Teen,Uneducated,0,Male,Generic,Bad,199,Low Residential - Level1 (ItemClass),,9
+0,66060293,38135,0,28554,VerySick,Adult,Uneducated,17,Male,Generic,Bad,225,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22623,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,110,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,1499,0,0,ExcellentHealth,Adult,Uneducated,39,Male,Generic,Excellent,241,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Original,19975,0,0,ExcellentHealth,Teen,Uneducated,61,Male,Generic,Suberb,179,Low Residential - Level1 (ItemClass),,9
+0,540673,11659,6894,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,119,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,45292,0,0,VeryHealthy,Adult,Uneducated,39,Male,Generic,Excellent,88,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,37958,0,0,ExcellentHealth,Teen,Uneducated,74,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25298,0,0,VeryHealthy,Child,Uneducated,37,Male,Generic,Excellent,245,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,45735,0,0,ExcellentHealth,Young,Uneducated,56,Male,Generic,Suberb,3,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,35832,0,0,VeryHealthy,Child,Uneducated,77,Male,Generic,Suberb,14,Low Residential - Level1 (ItemClass),,9
+0,66060673,41201,0,45823,VerySick,Young,Uneducated,26,Male,Generic,Bad,12,Low Residential - Level1 (ItemClass),,9
+40038,Created- Location,47095,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,174,Low Residential - Level1 (ItemClass),Tyler Smith,9
+62307,58195969,14212,0,0,VerySick,Adult,Uneducated,40,Male,Generic,Poor,180,Low Residential - Level1 (ItemClass),Raymond Cook,9
+0,Created- Original- Unemployed- BadHealth,41201,0,0,VerySick,Young,Uneducated,26,Male,Generic,Bad,19,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,1499,0,0,ExcellentHealth,Teen,Uneducated,46,Male,Generic,Excellent,18,Low Residential - Level1 (ItemClass),,9
+0,Created,45908,19636,0,VeryHealthy,Adult,Uneducated,96,Male,Generic,Suberb,207,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Unemployed,12329,0,0,ExcellentHealth,Young,Uneducated,42,Male,Generic,Excellent,85,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,17207,0,0,Healthy,Teen,Uneducated,60,Male,Generic,Excellent,96,Low Residential - Level1 (ItemClass),,9
+0,1081349,44172,0,28554,PoorHealth,Teen,Uneducated,43,Male,Generic,Excellent,163,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,31117,0,0,ExcellentHealth,Adult,Uneducated,80,Male,Generic,Suberb,219,Low Residential - Level1 (ItemClass),,9
+0,60817541,32412,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,175,Low Residential - Level1 (ItemClass),,9
+0,Created,39471,10320,0,ExcellentHealth,Adult,Uneducated,82,Male,Generic,Suberb,232,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,11158,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,41,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12735,0,0,ExcellentHealth,Teen,Uneducated,73,Male,Generic,Suberb,152,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,13044,0,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,15,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36538,0,0,ExcellentHealth,Teen,Uneducated,92,Male,Generic,Suberb,114,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,33831,0,0,ExcellentHealth,Teen,Uneducated,70,Male,Generic,Suberb,30,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,41775,0,0,ExcellentHealth,Teen,Uneducated,63,Male,Generic,Suberb,81,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,2146,0,0,ExcellentHealth,Adult,Uneducated,47,Male,Generic,Excellent,235,Low Residential - Level1 (ItemClass),,9
+0,Created- Sick- Location- Unemployed,48205,0,0,PoorHealth,Adult,Uneducated,5,Male,Generic,Poor,199,Low Residential - Level1 (ItemClass),,9
+13177,Created- Location,9238,15285,0,ExcellentHealth,Adult,Uneducated,50,Female,Generic,Excellent,199,Low Residential - Level1 (ItemClass),Anna Clarke,9
+0,Created- Original,13718,0,0,ExcellentHealth,Teen,Uneducated,42,Male,Generic,Excellent,48,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33831,0,0,ExcellentHealth,Teen,Uneducated,70,Male,Generic,Suberb,49,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,187,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,38135,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,217,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11801,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,165,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45128,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,103,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,39145,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,43,Low Residential - Level1 (ItemClass),,9
+48634,58195969,35589,0,0,VerySick,Adult,Uneducated,17,Male,Generic,Bad,144,Low Residential - Level1 (ItemClass),Winston White,9
+0,524289,3149,6894,0,ExcellentHealth,Adult,Uneducated,73,Male,Generic,Suberb,206,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9205,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,150,Low Residential - Level1 (ItemClass),,9
+0,66060673,35628,0,45823,VerySick,Adult,Uneducated,10,Male,Generic,Bad,3,Low Residential - Level1 (ItemClass),,9
+1147,39321601,23553,0,0,VerySick,Adult,Uneducated,0,Female,Generic,Bad,238,Low Residential - Level1 (ItemClass),Siobhan Cook,9
+0,Created- Original,40287,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,240,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,1992,0,0,ExcellentHealth,Adult,Uneducated,74,Male,Generic,Suberb,213,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,11158,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,134,Low Residential - Level1 (ItemClass),,9
+9058,Created- Location- BadHealth,40634,15285,10273,VerySick,Adult,Uneducated,30,Female,Generic,Bad,233,Low Residential - Level1 (ItemClass),Julie Phillips,9
+0,Created- Unemployed,13023,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,148,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,12735,0,0,VeryHealthy,Adult,Uneducated,71,Male,Generic,Suberb,167,Low Residential - Level1 (ItemClass),,9
+724,Created- Location- Unemployed,31117,0,23381,ExcellentHealth,Adult,Uneducated,80,Female,Generic,Suberb,220,Low Residential - Level1 (ItemClass),Sabrina Cooper,9
+0,Created- Unemployed,38135,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,8,Low Residential - Level1 (ItemClass),,9
+0,Created,17081,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,132,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed- BadHealth,32412,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,96,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9238,0,0,VeryHealthy,Child,Uneducated,46,Male,Generic,Excellent,252,Low Residential - Level1 (ItemClass),,9
+0,Created,44172,14193,0,VeryHealthy,Adult,Uneducated,86,Male,Generic,Suberb,106,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,48205,0,0,PoorHealth,Young,Uneducated,21,Male,Generic,Poor,195,Low Residential - Level1 (ItemClass),,9
+2286,Created- Location,43709,29457,0,ExcellentHealth,Adult,Uneducated,91,Female,Generic,Suberb,40,Low Residential - Level1 (ItemClass),Taylor Peters,9
+0,Created- Original,22623,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,141,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,31117,0,0,ExcellentHealth,Teen,Uneducated,74,Male,Generic,Suberb,50,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,5824,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,43709,0,0,ExcellentHealth,Adult,Uneducated,81,Male,Generic,Suberb,173,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,13023,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,121,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11659,0,0,ExcellentHealth,Teen,Uneducated,83,Male,Generic,Suberb,172,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33841,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Suberb,85,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,40287,0,0,ExcellentHealth,Young,Uneducated,31,Male,Generic,Excellent,139,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,32306,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,96,Low Residential - Level1 (ItemClass),,9
+34489,7880705,35790,0,0,Healthy,Adult,Uneducated,36,Female,Generic,Excellent,84,Low Residential - Level1 (ItemClass),Ashleigh Blackwell,9
+36816,Created- Location,11659,35192,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,216,Low Residential - Level1 (ItemClass),Sterling Chapman,9
+0,15729025,12618,0,45823,ExcellentHealth,Adult,Uneducated,44,Male,Generic,Excellent,190,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,125,Low Residential - Level1 (ItemClass),,9
+0,12615681,33841,0,0,ExcellentHealth,Young,Uneducated,81,Male,Generic,Suberb,166,Low Residential - Level1 (ItemClass),,9
+0,524289,15504,10146,0,ExcellentHealth,Adult,Uneducated,53,Male,Generic,Excellent,49,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,34317,0,0,ExcellentHealth,Teen,Uneducated,42,Male,Generic,Excellent,146,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,22623,0,0,VeryHealthy,Adult,Uneducated,57,Male,Generic,Excellent,141,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33841,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Suberb,113,Low Residential - Level1 (ItemClass),,9
+0,Created,9205,19402,0,VeryHealthy,Adult,Uneducated,52,Male,Generic,Excellent,201,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12618,0,0,ExcellentHealth,Teen,Uneducated,48,Male,Generic,Excellent,253,Low Residential - Level1 (ItemClass),,9
+18887,Created- Location,38135,23415,0,ExcellentHealth,Adult,Uneducated,38,Female,Generic,Excellent,142,Low Residential - Level1 (ItemClass),Piper Crowley,9
+0,12582913,12204,0,0,ExcellentHealth,Young,Uneducated,47,Male,Generic,Excellent,29,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,41286,0,0,VeryHealthy,Child,Uneducated,57,Male,Generic,Excellent,171,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43773,0,0,ExcellentHealth,Child,Uneducated,52,Male,Generic,Excellent,110,Low Residential - Level1 (ItemClass),,9
+0,-2096103419,37958,0,32197,VerySick,Adult,Uneducated,3,Male,Generic,Bad,60,Low Residential - Level1 (ItemClass),,9
+0,Created- Original- BadHealth,23880,0,0,VerySick,Child,Uneducated,0,Male,Generic,Bad,168,Low Residential - Level1 (ItemClass),,9
+0,66060293,38135,0,32197,VerySick,Adult,Uneducated,0,Male,Generic,Bad,173,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40287,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,107,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,22855,0,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,237,Low Residential - Level1 (ItemClass),,9
+0,60850177,38272,0,0,VerySick,Young,Uneducated,0,Male,Generic,Bad,142,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,29485,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,83,Low Residential - Level1 (ItemClass),,9
+0,61865989,19975,0,32197,VerySick,Adult,Uneducated,25,Male,Generic,Bad,239,Low Residential - Level1 (ItemClass),,9
+0,Created,3149,15429,0,ExcellentHealth,Adult,Uneducated,73,Male,Generic,Suberb,134,Low Residential - Level1 (ItemClass),,9
+0,Created,40287,6232,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,68,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11659,0,0,ExcellentHealth,Teen,Uneducated,83,Male,Generic,Suberb,119,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,168,Low Residential - Level1 (ItemClass),,9
+0,16826369,18928,0,0,VerySick,Child,Uneducated,24,Male,Generic,Bad,20,Low Residential - Level1 (ItemClass),,9
+13281,Created- Location,12204,19402,0,ExcellentHealth,Adult,Uneducated,61,Female,Generic,Suberb,92,Low Residential - Level1 (ItemClass),Faith Reed,9
+0,51412997,33841,0,32197,VerySick,Teen,Uneducated,0,Male,Generic,Bad,166,Low Residential - Level1 (ItemClass),,9
+0,15728645,12204,45992,32197,Sick,Adult,Uneducated,0,Male,Generic,Bad,215,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22623,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,136,Low Residential - Level1 (ItemClass),,9
+0,Created,25298,0,0,ExcellentHealth,Teen,Uneducated,41,Male,Generic,Excellent,199,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,42,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45292,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,65,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,33831,0,0,ExcellentHealth,Adult,Uneducated,74,Male,Generic,Suberb,49,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- NeedGoods,17081,19636,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,130,Low Residential - Level1 (ItemClass),,9
+0,51380229,36211,6232,28554,VerySick,Adult,Uneducated,44,Male,Generic,Poor,158,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44171,0,0,ExcellentHealth,Teen,Uneducated,55,Male,Generic,Suberb,148,Low Residential - Level1 (ItemClass),,9
+32545,60293249,44102,0,0,VerySick,Adult,Uneducated,21,Male,Generic,Bad,207,Low Residential - Level1 (ItemClass),James Murray,9
+23847,9961473,20027,0,0,ExcellentHealth,Adult,Uneducated,55,Female,Generic,Suberb,235,Low Residential - Level1 (ItemClass),Olivia Williams,9
+0,526337,36211,45823,0,ExcellentHealth,Young,OneSchool,60,Male,Generic,Suberb,145,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,31117,0,0,ExcellentHealth,Teen,Uneducated,74,Male,Generic,Suberb,233,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Unemployed,33831,0,0,ExcellentHealth,Young,Uneducated,67,Male,Generic,Suberb,208,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,18634,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,54,Low Residential - Level1 (ItemClass),,9
+0,524289,45735,32775,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,222,Low Residential - Level1 (ItemClass),,9
+0,15728641,8269,0,37196,ExcellentHealth,Young,Uneducated,47,Male,Generic,Excellent,10,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,9238,0,0,ExcellentHealth,Adult,Uneducated,40,Male,Generic,Excellent,69,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13023,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,241,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,39471,0,0,ExcellentHealth,Young,Uneducated,66,Male,Generic,Suberb,103,Low Residential - Level1 (ItemClass),,9
+19253,Created- Location,47095,0,0,VeryHealthy,Child,Uneducated,82,Male,Generic,Suberb,174,Low Residential - Level1 (ItemClass),Pierce Smith,9
+0,Created- Unemployed,35628,0,0,ExcellentHealth,Adult,Uneducated,74,Male,Generic,Suberb,90,Low Residential - Level1 (ItemClass),,9
+0,524289,35832,45862,0,VeryHealthy,Adult,Uneducated,99,Male,Generic,Suberb,21,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,200,Low Residential - Level1 (ItemClass),,9
+0,Created,36538,25710,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,83,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9238,0,0,VeryHealthy,Child,Uneducated,46,Male,Generic,Excellent,69,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25044,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,169,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,2146,0,0,ExcellentHealth,Adult,Uneducated,47,Male,Generic,Excellent,9,Low Residential - Level1 (ItemClass),,9
+60709,Created- Location- BadHealth,10798,0,0,VerySick,Child,Uneducated,24,Male,Generic,Bad,52,Low Residential - Level1 (ItemClass),Robert Lee,9
+0,Created- Criminal- Unemployed,13718,0,0,ExcellentHealth,Adult,Uneducated,35,Male,Generic,Excellent,177,Low Residential - Level1 (ItemClass),,9
+0,Created,5824,27866,0,VeryHealthy,Adult,Uneducated,51,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+29635,58195969,35799,0,0,VerySick,Adult,Uneducated,22,Male,Generic,Bad,190,Low Residential - Level1 (ItemClass),Todd Young,9
+0,Created- NeedGoods- Unemployed,22623,0,0,VeryHealthy,Adult,Uneducated,57,Male,Generic,Excellent,110,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Arrested- Location- Unemployed,28939,0,0,VeryHealthy,Adult,Uneducated,39,Male,Generic,Excellent,70,Low Residential - Level1 (ItemClass),,9
+0,524289,25044,43523,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,174,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,40,Low Residential - Level1 (ItemClass),,9
+0,Created,9939,15285,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,193,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,9205,0,0,VeryHealthy,Adult,Uneducated,42,Male,Generic,Excellent,122,Low Residential - Level1 (ItemClass),,9
+0,Created,19178,45862,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,66,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14413,0,0,ExcellentHealth,Teen,Uneducated,67,Male,Generic,Suberb,75,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43773,0,0,ExcellentHealth,Child,Uneducated,52,Male,Generic,Excellent,4,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44172,0,0,VeryHealthy,Child,Uneducated,60,Male,Generic,Excellent,203,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36120,0,0,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,155,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45128,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,5,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,18634,0,0,VeryHealthy,Child,Uneducated,80,Male,Generic,Suberb,160,Low Residential - Level1 (ItemClass),,9
+0,16809985,40634,0,0,VerySick,Child,Uneducated,18,Male,Generic,Bad,58,Low Residential - Level1 (ItemClass),,9
+0,51380229,40634,47214,28554,VerySick,Adult,Uneducated,30,Male,Generic,Bad,233,Low Residential - Level1 (ItemClass),,9
+0,Created,25905,12975,0,ExcellentHealth,Adult,Uneducated,62,Male,Generic,Suberb,101,Low Residential - Level1 (ItemClass),,9
+0,34078721,25106,15285,0,VerySick,Adult,Uneducated,25,Male,Generic,Bad,96,Low Residential - Level1 (ItemClass),,9
+0,15728641,12204,0,37196,ExcellentHealth,Adult,Uneducated,51,Male,Generic,Excellent,83,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,19975,0,0,VeryHealthy,Adult,Uneducated,46,Male,Generic,Excellent,111,Low Residential - Level1 (ItemClass),,9
+0,Created,45735,12975,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,6,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,56,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,43773,0,0,ExcellentHealth,Adult,Uneducated,43,Male,Generic,Excellent,4,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,9238,0,0,ExcellentHealth,Adult,Uneducated,40,Male,Generic,Excellent,17,Low Residential - Level1 (ItemClass),,9
+0,33554433,42081,0,0,VerySick,Child,Uneducated,0,Male,Generic,Bad,15,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13313,0,0,Healthy,Child,Uneducated,44,Male,Generic,Excellent,70,Low Residential - Level1 (ItemClass),,9
+47578,Created- Location- BadHealth,10798,0,0,VerySick,Child,Uneducated,24,Male,Generic,Bad,210,Low Residential - Level1 (ItemClass),Dexter Dixon,9
+0,524289,13718,45992,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,201,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,25298,0,0,ExcellentHealth,Adult,Uneducated,34,Male,Generic,Excellent,25,Low Residential - Level1 (ItemClass),,9
+0,524289,2146,37196,0,ExcellentHealth,Adult,Uneducated,57,Male,Generic,Suberb,180,Low Residential - Level1 (ItemClass),,9
+0,524289,33831,25710,0,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,30,Low Residential - Level1 (ItemClass),,9
+0,Created- BadHealth,35589,0,0,VerySick,Child,Uneducated,1,Male,Generic,Bad,45,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25298,0,0,VeryHealthy,Child,Uneducated,37,Male,Generic,Excellent,25,Low Residential - Level1 (ItemClass),,9
+20879,Created- Location,17207,45862,0,Healthy,Adult,Uneducated,77,Male,Generic,Excellent,44,Low Residential - Level1 (ItemClass),Dexter Hunter,9
+40167,Created- Criminal- Unemployed,11801,0,0,VeryHealthy,Adult,Uneducated,82,Female,Generic,Suberb,243,Low Residential - Level1 (ItemClass),Carol Finch,9
+45937,5767169,12329,0,0,ExcellentHealth,Adult,Uneducated,46,Male,Generic,Excellent,178,Low Residential - Level1 (ItemClass),Oliver Parker,9
+0,Created- Original,11158,0,0,VeryHealthy,Child,Uneducated,29,Male,Generic,Excellent,3,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,200,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,22687,0,0,ExcellentHealth,Adult,Uneducated,70,Male,Generic,Suberb,104,Low Residential - Level1 (ItemClass),,9
+0,15728645,37958,0,28554,PoorHealth,Adult,Uneducated,27,Male,Generic,Poor,83,Low Residential - Level1 (ItemClass),,9
+0,Created,22377,15285,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,203,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,17207,0,0,Healthy,Adult,Uneducated,67,Male,Generic,Excellent,210,Low Residential - Level1 (ItemClass),,9
+0,60817409,17494,0,0,VerySick,Young,Uneducated,10,Male,Generic,Bad,227,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9238,0,0,ExcellentHealth,Child,Uneducated,51,Male,Generic,Excellent,116,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,2146,0,0,ExcellentHealth,Adult,Uneducated,47,Male,Generic,Excellent,246,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14166,0,0,VeryHealthy,Child,Uneducated,75,Male,Generic,Suberb,98,Low Residential - Level1 (ItemClass),,9
+22051,5767169,29485,0,0,VeryHealthy,Adult,Uneducated,50,Female,Generic,Excellent,236,Low Residential - Level1 (ItemClass),Carol Murray,9
+0,1081349,9205,0,32197,PoorHealth,Teen,Uneducated,36,Male,Generic,Good,112,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,45735,0,0,VeryHealthy,Adult,Uneducated,40,Male,Generic,Excellent,222,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12618,0,0,ExcellentHealth,Child,Uneducated,56,Male,Generic,Excellent,190,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,20027,0,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,215,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,12618,0,0,ExcellentHealth,Adult,Uneducated,44,Male,Generic,Excellent,190,Low Residential - Level1 (ItemClass),,9
+0,62914561,23880,0,0,VerySick,Adult,Uneducated,11,Male,Generic,Bad,168,Low Residential - Level1 (ItemClass),,9
+0,51380229,9939,45862,32197,VerySick,Adult,Uneducated,31,Male,Generic,Poor,198,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,45735,0,0,VeryHealthy,Adult,Uneducated,40,Male,Generic,Excellent,131,Low Residential - Level1 (ItemClass),,9
+0,1081345,36044,0,38808,VeryHealthy,Child,Uneducated,77,Male,Generic,Suberb,195,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33841,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Suberb,58,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14237,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,10,Low Residential - Level1 (ItemClass),,9
+58709,60293121,44102,0,0,VerySick,Adult,Uneducated,21,Female,Generic,Bad,29,Low Residential - Level1 (ItemClass),Mary Jones,9
+0,Created- Unemployed,3059,0,0,ExcellentHealth,Adult,Uneducated,95,Male,Generic,Suberb,63,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44172,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,106,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,31117,0,0,ExcellentHealth,Teen,Uneducated,74,Male,Generic,Suberb,11,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,15672,0,0,ExcellentHealth,Young,Uneducated,67,Male,Generic,Suberb,188,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,40853,0,0,ExcellentHealth,Young,Uneducated,50,Male,Generic,Excellent,3,Low Residential - Level1 (ItemClass),,9
+0,2097185,22377,0,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,234,Low Residential - Level1 (ItemClass),,9
+0,Created,22623,47214,0,VeryHealthy,Adult,Uneducated,67,Male,Generic,Suberb,19,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11659,0,0,ExcellentHealth,Teen,Uneducated,83,Male,Generic,Suberb,192,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,33841,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,81,Low Residential - Level1 (ItemClass),,9
+0,524289,11659,580,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,119,Low Residential - Level1 (ItemClass),,9
+57480,39321601,35628,0,0,VerySick,Adult,Uneducated,19,Male,Generic,Bad,115,Low Residential - Level1 (ItemClass),Tony White,9
+42126,60293121,14683,0,0,VerySick,Adult,Uneducated,4,Male,Generic,Bad,128,Low Residential - Level1 (ItemClass),Jeremy Mason,9
+37805,678952961,1144,0,0,Healthy,Adult,Uneducated,64,Female,Generic,Excellent,73,Low Residential - Level1 (ItemClass),Ashlyn Hunter,9
+0,Created- Original,41775,0,0,ExcellentHealth,Teen,Uneducated,63,Male,Generic,Suberb,63,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,12618,0,0,ExcellentHealth,Adult,Uneducated,44,Male,Generic,Excellent,66,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22687,0,0,VeryHealthy,Child,Uneducated,57,Male,Generic,Excellent,87,Low Residential - Level1 (ItemClass),,9
+0,1081349,48205,0,28554,PoorHealth,Young,Uneducated,32,Male,Generic,Good,184,Low Residential - Level1 (ItemClass),,9
+0,Created,37958,15429,0,ExcellentHealth,Young,Uneducated,79,Male,Generic,Suberb,148,Low Residential - Level1 (ItemClass),,9
+0,524289,43773,14193,0,ExcellentHealth,Adult,Uneducated,53,Male,Generic,Excellent,53,Low Residential - Level1 (ItemClass),,9
+0,Created,29485,19636,0,VeryHealthy,Adult,Uneducated,51,Male,Generic,Excellent,163,Low Residential - Level1 (ItemClass),,9
+0,51412997,13313,0,28554,VerySick,Teen,Uneducated,20,Male,Generic,Bad,161,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,17207,0,0,Healthy,Teen,Uneducated,60,Male,Generic,Excellent,111,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,5824,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,228,Low Residential - Level1 (ItemClass),,9
+65246,58195969,35589,0,0,VerySick,Adult,Uneducated,17,Female,Generic,Bad,214,Low Residential - Level1 (ItemClass),Stephanie Finch,9
+0,Created- Original,3149,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,234,Low Residential - Level1 (ItemClass),,9
+0,524289,14938,26315,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,103,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,22855,0,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,136,Low Residential - Level1 (ItemClass),,9
+45441,Created- Sick- Location- BadHealth,23880,5696,28554,VerySick,Adult,Uneducated,18,Male,Generic,Bad,110,Low Residential - Level1 (ItemClass),James Blake,9
+0,Created- Unemployed,11801,0,0,VeryHealthy,Adult,Uneducated,82,Male,Generic,Suberb,46,Low Residential - Level1 (ItemClass),,9
+0,Created,25044,32197,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,94,Low Residential - Level1 (ItemClass),,9
+15934,Created- Location,35832,26315,0,VeryHealthy,Adult,Uneducated,99,Male,Generic,Suberb,119,Low Residential - Level1 (ItemClass),Dexter Ward,9
+0,Created- Unemployed,13023,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,121,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,119,Low Residential - Level1 (ItemClass),,9
+60466,9961473,2264,0,0,ExcellentHealth,Adult,Uneducated,86,Male,Generic,Suberb,10,Low Residential - Level1 (ItemClass),Charles Dixon,9
+0,Created,9238,12975,0,ExcellentHealth,Adult,Uneducated,50,Male,Generic,Excellent,138,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,28939,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,253,Low Residential - Level1 (ItemClass),,9
+0,Created,13044,26589,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,13,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,42659,0,0,VeryHealthy,Adult,Uneducated,85,Male,Generic,Suberb,250,Low Residential - Level1 (ItemClass),,9
+25494,Created- Location- BadHealth,18928,0,0,VerySick,Child,Uneducated,24,Female,Generic,Bad,213,Low Residential - Level1 (ItemClass),Shirley Holmes,9
+0,Created- Original,44171,0,0,ExcellentHealth,Teen,Uneducated,55,Male,Generic,Suberb,183,Low Residential - Level1 (ItemClass),,9
+0,15729025,13044,0,45823,VeryHealthy,Adult,Uneducated,85,Male,Generic,Suberb,86,Low Residential - Level1 (ItemClass),,9
+0,Created,45908,25710,0,VeryHealthy,Adult,Uneducated,96,Male,Generic,Suberb,207,Low Residential - Level1 (ItemClass),,9
+39362,Created- Location- BadHealth,14683,5742,0,VerySick,Adult,Uneducated,8,Female,Generic,Bad,224,Low Residential - Level1 (ItemClass),Nancy Jackson,9
+0,Created- Original,45128,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,147,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,13313,0,0,Healthy,Adult,Uneducated,29,Male,Generic,Excellent,27,Low Residential - Level1 (ItemClass),,9
+0,524289,8269,14968,0,ExcellentHealth,Adult,Uneducated,59,Male,Generic,Suberb,113,Low Residential - Level1 (ItemClass),,9
+0,524289,11801,47214,0,VeryHealthy,Adult,Uneducated,92,Male,Generic,Suberb,243,Low Residential - Level1 (ItemClass),,9
+18369,10485761,39877,0,0,Sick,Adult,Uneducated,25,Male,Generic,Poor,149,Low Residential - Level1 (ItemClass),Winston Parker,9
+50788,Created- Location,9205,28554,0,VeryHealthy,Adult,Uneducated,52,Female,Generic,Excellent,167,Low Residential - Level1 (ItemClass),Taylor Greenaway,9
+16761,9994241,35790,0,10273,VeryHealthy,Young,Uneducated,47,Female,Generic,Excellent,251,Low Residential - Level1 (ItemClass),Siobhan Roberts,9
+0,Created- Original,2264,0,0,VeryHealthy,Child,Uneducated,65,Male,Generic,Suberb,180,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,38135,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,36,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12204,0,0,ExcellentHealth,Child,Uneducated,56,Male,Generic,Excellent,83,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,38492,0,0,ExcellentHealth,Young,Uneducated,64,Male,Generic,Suberb,96,Low Residential - Level1 (ItemClass),,9
+0,60817537,18928,0,0,VerySick,Adult,Uneducated,32,Male,Generic,Poor,20,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,22377,0,0,ExcellentHealth,Young,Uneducated,31,Male,Generic,Excellent,169,Low Residential - Level1 (ItemClass),,9
+0,Created,39877,0,0,PoorHealth,Teen,Uneducated,31,Male,Generic,Poor,149,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14700,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,74,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,25106,0,0,VeryHealthy,Adult,Uneducated,82,Male,Generic,Suberb,66,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,25106,0,0,VeryHealthy,Adult,Uneducated,82,Male,Generic,Suberb,213,Low Residential - Level1 (ItemClass),,9
+0,524289,36211,6232,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,100,Low Residential - Level1 (ItemClass),,9
+19411,Created- Location,47095,0,0,VeryHealthy,Child,Uneducated,82,Male,Generic,Suberb,174,Low Residential - Level1 (ItemClass),Bradley Smith,9
+0,Created- Criminal- Unemployed,42659,0,0,VeryHealthy,Adult,Uneducated,85,Male,Generic,Suberb,110,Low Residential - Level1 (ItemClass),,9
+43744,58195969,42081,0,0,VerySick,Adult,Uneducated,6,Female,Generic,Bad,172,Low Residential - Level1 (ItemClass),Scarlett Campbell,9
+0,Created- Original,40853,0,0,VeryHealthy,Child,Uneducated,48,Male,Generic,Excellent,242,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,1992,0,0,VeryHealthy,Child,Uneducated,60,Male,Generic,Excellent,189,Low Residential - Level1 (ItemClass),,9
+0,-2081423355,1992,0,32197,VerySick,Adult,Uneducated,0,Male,Generic,Bad,8,Low Residential - Level1 (ItemClass),,9
+0,524289,39877,6232,0,Sick,Adult,Uneducated,31,Male,Generic,Poor,26,Low Residential - Level1 (ItemClass),,9
+26171,60293121,23880,0,0,VerySick,Adult,Uneducated,14,Female,Generic,Bad,168,Low Residential - Level1 (ItemClass),Stephanie Blake,9
+26231,60293121,10798,0,0,VerySick,Adult,Uneducated,34,Male,Generic,Poor,52,Low Residential - Level1 (ItemClass),Jeremy Lee,9
+0,Created- Unemployed,8269,0,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,122,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,119,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,14166,0,0,VeryHealthy,Adult,Uneducated,84,Male,Generic,Suberb,65,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,33841,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,58,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,41775,0,0,ExcellentHealth,Teen,Uneducated,63,Male,Generic,Suberb,38,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,15672,0,0,ExcellentHealth,Adult,Uneducated,74,Male,Generic,Suberb,140,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44172,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,85,Low Residential - Level1 (ItemClass),,9
+0,524289,19178,35192,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,32,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11158,0,0,VeryHealthy,Child,Uneducated,29,Male,Generic,Excellent,7,Low Residential - Level1 (ItemClass),,9
+0,51380229,32412,37196,28554,VerySick,Adult,Uneducated,21,Male,Generic,Bad,165,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,4292,0,0,Healthy,Adult,Uneducated,67,Male,Generic,Excellent,127,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,40287,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,251,Low Residential - Level1 (ItemClass),,9
+53063,18350081,23880,0,0,VerySick,Child,Uneducated,0,Female,Generic,Bad,231,Low Residential - Level1 (ItemClass),Mary Wright,9
+0,Created- Unemployed,5824,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,19,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,42659,0,0,VeryHealthy,Adult,Uneducated,85,Male,Generic,Suberb,76,Low Residential - Level1 (ItemClass),,9
+0,Created,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+0,10485889,2264,0,0,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,1,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,22623,0,0,VeryHealthy,Adult,Uneducated,57,Male,Generic,Excellent,152,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,9939,0,0,VeryHealthy,Adult,Uneducated,85,Male,Generic,Suberb,193,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,12204,0,0,ExcellentHealth,Adult,Uneducated,51,Male,Generic,Excellent,253,Low Residential - Level1 (ItemClass),,9
+24674,Created- Location,14237,29457,0,ExcellentHealth,Adult,Uneducated,38,Female,Generic,Excellent,149,Low Residential - Level1 (ItemClass),Katie Parker,9
+0,Created,4820,16862,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,70,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,12735,0,0,VeryHealthy,Adult,Uneducated,71,Male,Generic,Suberb,152,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19975,0,0,VeryHealthy,Child,Uneducated,55,Male,Generic,Excellent,64,Low Residential - Level1 (ItemClass),,9
+0,Created,43709,27789,0,ExcellentHealth,Adult,Uneducated,91,Male,Generic,Suberb,40,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,8269,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,204,Low Residential - Level1 (ItemClass),,9
+0,Created,38492,38136,0,VeryHealthy,Adult,Uneducated,67,Male,Generic,Suberb,213,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44172,0,0,VeryHealthy,Child,Uneducated,60,Male,Generic,Excellent,212,Low Residential - Level1 (ItemClass),,9
+64777,Created- Location,36120,6232,0,ExcellentHealth,Adult,Uneducated,47,Female,Generic,Excellent,46,Low Residential - Level1 (ItemClass),Scarlett Graham,9
+0,Created- Unemployed,25044,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,78,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,41775,0,0,ExcellentHealth,Teen,Uneducated,63,Male,Generic,Suberb,63,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25298,0,0,VeryHealthy,Child,Uneducated,37,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,42,Low Residential - Level1 (ItemClass),,9
+0,524289,35832,47214,0,VeryHealthy,Adult,Uneducated,99,Male,Generic,Suberb,168,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,20027,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),,9
+0,Created,36538,0,0,VeryHealthy,Senior,Uneducated,82,Male,Generic,Suberb,139,Low Residential - Level1 (ItemClass),,9
+54924,Created- Location,9939,43523,0,ExcellentHealth,Young,Uneducated,82,Male,Generic,Suberb,205,Low Residential - Level1 (ItemClass),Bradley Davies,9
+0,Created- Original,9939,0,0,ExcellentHealth,Teen,Uneducated,82,Male,Generic,Suberb,193,Low Residential - Level1 (ItemClass),,9
+18432,Created- Location- BadHealth,35589,0,0,VerySick,Child,Uneducated,1,Male,Generic,Bad,45,Low Residential - Level1 (ItemClass),William Chapman,9
+0,Created,11801,27866,0,VeryHealthy,Adult,Uneducated,92,Male,Generic,Suberb,205,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,19178,0,0,VeryHealthy,Adult,Uneducated,85,Male,Generic,Suberb,64,Low Residential - Level1 (ItemClass),,9
+0,Created,25905,14968,0,ExcellentHealth,Adult,Uneducated,62,Male,Generic,Suberb,233,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,42659,0,0,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,190,Low Residential - Level1 (ItemClass),,9
+0,Created,4393,45862,0,VeryHealthy,Adult,Uneducated,100,Male,Generic,Suberb,60,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25106,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,55,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,31117,0,0,ExcellentHealth,Teen,Uneducated,74,Male,Generic,Suberb,132,Low Residential - Level1 (ItemClass),,9
+0,Created,41286,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,16,Low Residential - Level1 (ItemClass),,9
+45496,Created- Location,9238,23381,0,ExcellentHealth,Adult,Uneducated,50,Male,Generic,Excellent,116,Low Residential - Level1 (ItemClass),Pierce Smith,9
+63451,58195969,17494,0,0,VerySick,Adult,Uneducated,5,Male,Generic,Bad,3,Low Residential - Level1 (ItemClass),Robert Smith,9
+0,Created- NeedGoods- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,40,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,12735,0,0,VeryHealthy,Adult,Uneducated,71,Male,Generic,Suberb,249,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11659,0,0,ExcellentHealth,Teen,Uneducated,83,Male,Generic,Suberb,150,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,173,Low Residential - Level1 (ItemClass),,9
+34049,58195969,42081,0,0,VerySick,Adult,Uneducated,6,Male,Generic,Bad,192,Low Residential - Level1 (ItemClass),Pierce Brown,9
+0,Created- Original,13023,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,241,Low Residential - Level1 (ItemClass),,9
+0,Created,39877,0,0,Sick,Child,Uneducated,18,Male,Generic,Bad,73,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13023,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,128,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,45,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,33841,9975,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,81,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45735,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,222,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,5824,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,43,Low Residential - Level1 (ItemClass),,9
+57037,3670017,15672,0,0,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,106,Low Residential - Level1 (ItemClass),Raymond Wilson,9
+0,Created- Original,34317,0,0,ExcellentHealth,Teen,Uneducated,42,Male,Generic,Excellent,58,Low Residential - Level1 (ItemClass),,9
+0,Created,38492,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,197,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,4393,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),,9
+0,524289,12329,6232,0,ExcellentHealth,Adult,Uneducated,47,Male,Generic,Excellent,218,Low Residential - Level1 (ItemClass),,9
+38341,20447233,23880,0,0,VerySick,Adult,Uneducated,18,Male,Generic,Bad,231,Low Residential - Level1 (ItemClass),Tyler Wright,9
+0,Created- Original,11937,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,251,Low Residential - Level1 (ItemClass),,9
+0,12582913,4292,0,0,Healthy,Adult,Uneducated,70,Male,Generic,Excellent,85,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,34317,0,0,ExcellentHealth,Teen,Uneducated,42,Male,Generic,Excellent,146,Low Residential - Level1 (ItemClass),,9
+59720,524289,14237,32197,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,10,Low Residential - Level1 (ItemClass),Robert Dixon,9
+0,Created- Unemployed,5824,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,110,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,124,Low Residential - Level1 (ItemClass),,9
+28342,18350081,39699,12785,35234,VerySick,Adult,Uneducated,32,Male,Generic,Poor,179,Low Residential - Level1 (ItemClass),William Alexander,9
+0,Created- Original,9939,0,0,ExcellentHealth,Teen,Uneducated,82,Male,Generic,Suberb,198,Low Residential - Level1 (ItemClass),,9
+0,Created,12618,0,0,ExcellentHealth,Child,Uneducated,56,Male,Generic,Excellent,148,Low Residential - Level1 (ItemClass),,9
+0,Created,36211,16862,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,69,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13023,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Excellent,154,Low Residential - Level1 (ItemClass),,9
+0,524289,42659,47214,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,30,Low Residential - Level1 (ItemClass),,9
+0,Created,42659,10146,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,39,Low Residential - Level1 (ItemClass),,9
+0,Created,9205,18891,0,VeryHealthy,Adult,Uneducated,52,Male,Generic,Excellent,167,Low Residential - Level1 (ItemClass),,9
+0,Created,14017,35192,0,VeryHealthy,Adult,Uneducated,81,Male,Generic,Suberb,199,Low Residential - Level1 (ItemClass),,9
+62782,58195969,14212,0,0,VerySick,Adult,Uneducated,40,Female,Generic,Poor,180,Low Residential - Level1 (ItemClass),Faith Cook,9
+0,Created,25298,0,0,ExcellentHealth,Teen,Uneducated,41,Male,Generic,Excellent,199,Low Residential - Level1 (ItemClass),,9
+0,Created,45128,580,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,46,Low Residential - Level1 (ItemClass),,9
+21441,Created- Location- BadHealth,10798,0,0,VerySick,Teen,Uneducated,29,Female,Generic,Bad,52,Low Residential - Level1 (ItemClass),Kathleen Lee,9
+0,Created- Unemployed,48205,0,0,Sick,Adult,Uneducated,3,Male,Generic,Bad,156,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33831,0,0,ExcellentHealth,Teen,Uneducated,70,Male,Generic,Suberb,49,Low Residential - Level1 (ItemClass),,9
+0,336068609,1144,25710,0,Healthy,Adult,Uneducated,67,Male,Generic,Excellent,6,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,18634,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,169,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,15504,0,0,ExcellentHealth,Teen,Uneducated,46,Male,Generic,Excellent,198,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36120,0,0,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,17,Low Residential - Level1 (ItemClass),,9
+0,671612929,1144,18891,0,PoorHealth,Adult,Uneducated,61,Male,Generic,Excellent,222,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22855,0,0,ExcellentHealth,Teen,Uneducated,47,Male,Generic,Excellent,134,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22687,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,104,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,31117,0,0,VeryHealthy,Child,Uneducated,65,Male,Generic,Suberb,219,Low Residential - Level1 (ItemClass),,9
+0,Created,14237,18891,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,2146,0,0,ExcellentHealth,Teen,Uneducated,49,Male,Generic,Excellent,180,Low Residential - Level1 (ItemClass),,9
+0,33554433,35628,10146,0,VerySick,Adult,Uneducated,20,Male,Generic,Bad,246,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,1992,0,0,ExcellentHealth,Teen,Uneducated,70,Male,Generic,Suberb,175,Low Residential - Level1 (ItemClass),,9
+36861,5767169,29485,0,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),Earl Scott,9
+59038,32505861,32412,0,28554,VerySick,Adult,Uneducated,0,Female,Generic,Bad,35,Low Residential - Level1 (ItemClass),Sophie Williams,9
+0,Created- Unemployed,41286,0,0,ExcellentHealth,Adult,Uneducated,70,Male,Generic,Suberb,79,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,4292,0,0,Healthy,Adult,Uneducated,67,Male,Generic,Excellent,127,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,2146,0,0,ExcellentHealth,Child,Uneducated,56,Male,Generic,Excellent,197,Low Residential - Level1 (ItemClass),,9
+0,51412997,41775,0,32197,VerySick,Young,Uneducated,11,Male,Generic,Bad,244,Low Residential - Level1 (ItemClass),,9
+63275,58195969,42081,0,0,VerySick,Adult,Uneducated,6,Male,Generic,Bad,101,Low Residential - Level1 (ItemClass),Robert Smithson,9
+0,Created- Original,4820,0,0,ExcellentHealth,Teen,Uneducated,83,Male,Generic,Suberb,250,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,25106,0,0,VeryHealthy,Adult,Uneducated,82,Male,Generic,Suberb,130,Low Residential - Level1 (ItemClass),,9
+1631,Created- Location,36211,45992,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,69,Low Residential - Level1 (ItemClass),Bradley Hancock,9
+0,Created- Original,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,46,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,44118,0,0,VeryHealthy,Young,Uneducated,52,Male,Generic,Excellent,179,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9939,0,0,VeryHealthy,Child,Uneducated,77,Male,Generic,Suberb,216,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40853,0,0,ExcellentHealth,Teen,Uneducated,52,Male,Generic,Excellent,232,Low Residential - Level1 (ItemClass),,9
+40986,7864321,29485,0,0,VeryHealthy,Adult,Uneducated,48,Female,Generic,Excellent,59,Low Residential - Level1 (ItemClass),Kathleen Scott,9
+42792,Created- Location,9939,18891,0,VeryHealthy,Adult,Uneducated,95,Female,Generic,Suberb,181,Low Residential - Level1 (ItemClass),Holly Dixon,9
+0,Created- Original,13023,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,101,Low Residential - Level1 (ItemClass),,9
+21071,1048577,44172,45992,10273,VeryHealthy,Adult,Uneducated,86,Female,Generic,Suberb,203,Low Residential - Level1 (ItemClass),Julie Smith,9
+537,12058625,20027,0,0,ExcellentHealth,Adult,Uneducated,53,Female,Generic,Excellent,212,Low Residential - Level1 (ItemClass),Annabel Gray,9
+0,Created- Original,44171,0,0,ExcellentHealth,Teen,Uneducated,55,Male,Generic,Suberb,183,Low Residential - Level1 (ItemClass),,9
+0,524289,45128,35192,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,147,Low Residential - Level1 (ItemClass),,9
+0,66060421,40853,0,28554,VerySick,Adult,Uneducated,11,Male,Generic,Bad,165,Low Residential - Level1 (ItemClass),,9
+0,524289,36211,45992,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,65,Low Residential - Level1 (ItemClass),,9
+0,1048577,13023,18891,37196,VeryHealthy,Adult,Uneducated,90,Male,Generic,Suberb,177,Low Residential - Level1 (ItemClass),,9
+0,524289,45292,27866,0,VeryHealthy,Adult,Uneducated,49,Male,Generic,Excellent,243,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,38135,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,142,Low Residential - Level1 (ItemClass),,9
+0,61865989,35799,0,28554,VerySick,Adult,Uneducated,12,Male,Generic,Bad,190,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,34317,0,0,ExcellentHealth,Adult,Uneducated,35,Male,Generic,Excellent,57,Low Residential - Level1 (ItemClass),,9
+7377,Created- Location,23647,45992,0,ExcellentHealth,Adult,Uneducated,77,Male,Generic,Suberb,220,Low Residential - Level1 (ItemClass),Bradley Cooper,9
+0,Created- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,24,Low Residential - Level1 (ItemClass),,9
+55457,58195969,35589,0,0,VerySick,Adult,Uneducated,17,Female,Generic,Bad,77,Low Residential - Level1 (ItemClass),Rosemary Young,9
+0,Created- Unemployed,25298,0,0,ExcellentHealth,Adult,Uneducated,34,Male,Generic,Excellent,205,Low Residential - Level1 (ItemClass),,9
+65387,524289,12204,45992,0,ExcellentHealth,Adult,Uneducated,61,Female,Generic,Suberb,134,Low Residential - Level1 (ItemClass),Piper Evans,9
+0,Created- Unemployed,36120,0,0,ExcellentHealth,Adult,Uneducated,37,Male,Generic,Excellent,30,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,42659,0,0,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,190,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,32306,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,96,Low Residential - Level1 (ItemClass),,9
+0,524289,4820,45992,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,250,Low Residential - Level1 (ItemClass),,9
+0,17301505,23880,45992,0,VerySick,Adult,Uneducated,18,Male,Generic,Bad,68,Low Residential - Level1 (ItemClass),,9
+0,2129921,15504,0,0,ExcellentHealth,Young,Uneducated,47,Male,Generic,Excellent,198,Low Residential - Level1 (ItemClass),,9
+1859,58195969,46105,0,0,VerySick,Adult,Uneducated,22,Male,Generic,Bad,181,Low Residential - Level1 (ItemClass),Terry Dixon,9
+0,Created- Unemployed,20027,0,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,39,Low Residential - Level1 (ItemClass),,9
+0,Created,3149,16862,0,ExcellentHealth,Adult,Uneducated,73,Male,Generic,Suberb,62,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,44118,0,0,VeryHealthy,Adult,Uneducated,42,Male,Generic,Excellent,38,Low Residential - Level1 (ItemClass),,9
+0,Created,4820,18891,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,159,Low Residential - Level1 (ItemClass),,9
+48768,Created- Original- Location- BadHealth,35799,18891,0,VerySick,Young,Uneducated,22,Male,Generic,Bad,60,Low Residential - Level1 (ItemClass),Jeremy Wright,9
+0,Created- Unemployed,45735,0,0,VeryHealthy,Adult,Uneducated,40,Male,Generic,Excellent,111,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,17081,0,0,ExcellentHealth,Adult,Uneducated,96,Male,Generic,Suberb,132,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Original,12204,0,0,ExcellentHealth,Child,Uneducated,56,Male,Generic,Excellent,253,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,2146,0,0,ExcellentHealth,Child,Uneducated,56,Male,Generic,Excellent,246,Low Residential - Level1 (ItemClass),,9
+0,8388609,33831,0,0,ExcellentHealth,Young,Uneducated,70,Male,Generic,Suberb,39,Low Residential - Level1 (ItemClass),,9
+55801,Created- Location,33831,45992,0,ExcellentHealth,Adult,Uneducated,84,Female,Generic,Suberb,61,Low Residential - Level1 (ItemClass),Holly Ward,9
+0,Created- Original,25298,0,0,VeryHealthy,Child,Uneducated,37,Male,Generic,Excellent,25,Low Residential - Level1 (ItemClass),,9
+0,10485761,39877,0,0,Sick,Adult,Uneducated,24,Male,Generic,Poor,132,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36538,0,0,ExcellentHealth,Teen,Uneducated,92,Male,Generic,Suberb,114,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25905,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,233,Low Residential - Level1 (ItemClass),,9
+0,524289,35832,16862,0,VeryHealthy,Adult,Uneducated,99,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),,9
+0,524289,13023,16862,0,VeryHealthy,Adult,Uneducated,90,Male,Generic,Suberb,21,Low Residential - Level1 (ItemClass),,9
+0,Created,12329,0,0,VeryHealthy,Child,Uneducated,45,Male,Generic,Excellent,178,Low Residential - Level1 (ItemClass),,9
+898,Created- Location,8269,16862,0,ExcellentHealth,Adult,Uneducated,59,Female,Generic,Suberb,249,Low Residential - Level1 (ItemClass),Heather Harris,9
+0,Created,39877,0,0,Sick,Child,Uneducated,18,Male,Generic,Poor,132,Low Residential - Level1 (ItemClass),,9
+0,51412997,25106,0,32197,VerySick,Teen,Uneducated,0,Male,Generic,Bad,116,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14017,0,0,ExcellentHealth,Teen,Uneducated,73,Male,Generic,Suberb,73,Low Residential - Level1 (ItemClass),,9
+0,1081345,25298,0,38808,ExcellentHealth,Teen,Uneducated,41,Male,Generic,Excellent,7,Low Residential - Level1 (ItemClass),,9
+0,Created,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,32,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44171,0,0,ExcellentHealth,Teen,Uneducated,55,Male,Generic,Suberb,183,Low Residential - Level1 (ItemClass),,9
+0,524289,17207,45992,0,Healthy,Adult,Uneducated,77,Male,Generic,Excellent,111,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,13313,0,0,VeryHealthy,Adult,Uneducated,34,Male,Generic,Excellent,70,Low Residential - Level1 (ItemClass),,9
+0,Created,9238,18891,0,ExcellentHealth,Young,Uneducated,46,Male,Generic,Excellent,128,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19178,0,0,VeryHealthy,Child,Uneducated,80,Male,Generic,Suberb,66,Low Residential - Level1 (ItemClass),,9
+0,15728641,9238,0,4737,ExcellentHealth,Adult,Uneducated,40,Male,Generic,Excellent,8,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,20027,0,0,ExcellentHealth,Child,Uneducated,57,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,9238,0,0,ExcellentHealth,Adult,Uneducated,40,Male,Generic,Excellent,116,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14166,0,0,ExcellentHealth,Teen,Uneducated,86,Male,Generic,Suberb,186,Low Residential - Level1 (ItemClass),,9
+0,Created,39877,0,0,Sick,Child,Uneducated,18,Male,Generic,Poor,149,Low Residential - Level1 (ItemClass),,9
+0,524289,9205,45862,0,VeryHealthy,Adult,Uneducated,52,Male,Generic,Excellent,205,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25106,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Excellent,211,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33841,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Suberb,85,Low Residential - Level1 (ItemClass),,9
+0,Created- BadHealth,17494,10146,0,VerySick,Adult,Uneducated,8,Male,Generic,Bad,96,Low Residential - Level1 (ItemClass),,9
+0,Created,12204,16862,0,ExcellentHealth,Adult,Uneducated,61,Male,Generic,Suberb,69,Low Residential - Level1 (ItemClass),,9
+0,1081345,2146,0,37196,ExcellentHealth,Teen,Uneducated,49,Male,Generic,Excellent,84,Low Residential - Level1 (ItemClass),,9
+23248,51412997,35799,5696,28554,VerySick,Young,Uneducated,22,Female,Generic,Bad,98,Low Residential - Level1 (ItemClass),Elisabeth Hancock,9
+0,524289,12735,35234,35234,VeryHealthy,Adult,Uneducated,81,Male,Generic,Suberb,241,Low Residential - Level1 (ItemClass),,9
+26730,58195969,18928,0,0,VerySick,Adult,Uneducated,35,Male,Generic,Poor,20,Low Residential - Level1 (ItemClass),Oliver Cooper,9
+0,1081345,37958,0,35234,VeryHealthy,Child,Uneducated,70,Male,Generic,Suberb,139,Low Residential - Level1 (ItemClass),,9
+0,Created,45292,18891,0,VeryHealthy,Adult,Uneducated,49,Male,Generic,Excellent,88,Low Residential - Level1 (ItemClass),,9
+0,524289,36044,19636,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,195,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,187,Low Residential - Level1 (ItemClass),,9
+48781,Created- Location,22687,18891,0,ExcellentHealth,Adult,Uneducated,80,Male,Generic,Suberb,87,Low Residential - Level1 (ItemClass),Earl Jones,9
+0,Created- NeedGoods,44172,5696,0,ExcellentHealth,Adult,Uneducated,91,Male,Generic,Suberb,158,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,3059,0,0,VeryHealthy,Child,Uneducated,83,Male,Generic,Suberb,55,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,48205,0,0,Sick,Adult,Uneducated,3,Male,Generic,Bad,160,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,45128,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33831,0,0,ExcellentHealth,Teen,Uneducated,70,Male,Generic,Suberb,16,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,15672,18891,0,ExcellentHealth,Young,Uneducated,71,Male,Generic,Suberb,134,Low Residential - Level1 (ItemClass),,9
+0,8388609,2264,0,0,ExcellentHealth,Adult,Uneducated,86,Male,Generic,Suberb,138,Low Residential - Level1 (ItemClass),,9
+0,1065217,4292,18891,45823,Healthy,Adult,Uneducated,77,Male,Generic,Excellent,82,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,33841,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,15,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,8269,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Excellent,122,Low Residential - Level1 (ItemClass),,9
+0,Created,35832,10146,0,VeryHealthy,Adult,Uneducated,99,Male,Generic,Suberb,92,Low Residential - Level1 (ItemClass),,9
+56964,Created- NeedGoods- Location- BadHealth,18928,0,0,VerySick,Teen,Uneducated,29,Female,Generic,Bad,8,Low Residential - Level1 (ItemClass),Kathleen Alexander,9
+0,Created- Original,44172,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,163,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13718,0,0,ExcellentHealth,Teen,Uneducated,42,Male,Generic,Excellent,48,Low Residential - Level1 (ItemClass),,9
+0,Created,12692,16862,0,VeryHealthy,Adult,Uneducated,51,Male,Generic,Excellent,45,Low Residential - Level1 (ItemClass),,9
+23533,Created,22623,16862,0,VeryHealthy,Adult,Uneducated,67,Male,Generic,Suberb,182,Low Residential - Level1 (ItemClass),Tony Peters,9
+0,Created- NeedGoods,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,46,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45292,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,65,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,25044,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,143,Low Residential - Level1 (ItemClass),,9
+0,524417,12618,16862,0,ExcellentHealth,Adult,Uneducated,54,Male,Generic,Excellent,253,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36538,0,0,ExcellentHealth,Teen,Uneducated,92,Male,Generic,Suberb,114,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,32306,0,0,ExcellentHealth,Adult,Uneducated,70,Male,Generic,Suberb,117,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,20027,0,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,178,Low Residential - Level1 (ItemClass),,9
+0,524289,41286,580,0,ExcellentHealth,Adult,Uneducated,80,Male,Generic,Suberb,16,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,23880,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,231,Low Residential - Level1 (ItemClass),,9
+0,524289,14017,26589,0,VeryHealthy,Adult,Uneducated,81,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),,9
+0,524289,14166,47214,0,VeryHealthy,Adult,Uneducated,94,Male,Generic,Suberb,98,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,173,Low Residential - Level1 (ItemClass),,9
+0,671105025,2264,6648,0,PoorHealth,Adult,Uneducated,76,Male,Generic,Excellent,244,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,12735,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Excellent,249,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19975,0,0,VeryHealthy,Child,Uneducated,55,Male,Generic,Excellent,25,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,14413,0,0,ExcellentHealth,Adult,Uneducated,68,Male,Generic,Suberb,71,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,47095,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,120,Low Residential - Level1 (ItemClass),,9
+8483,Created- Location,15672,0,0,PoorHealth,Adult,Uneducated,50,Male,Generic,Excellent,171,Low Residential - Level1 (ItemClass),Albert Crowley,9
+0,Created- NeedGoods- Unemployed,12692,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,45,Low Residential - Level1 (ItemClass),,9
+22548,Created- NeedGoods- Location,38272,0,0,PoorHealth,Adult,Uneducated,50,Male,Generic,Excellent,193,Low Residential - Level1 (ItemClass),Todd Wilson,9
+0,Created- NeedGoods- Original,43773,0,0,ExcellentHealth,Teen,Uneducated,46,Male,Generic,Excellent,222,Low Residential - Level1 (ItemClass),,9
+0,10485761,41775,0,0,ExcellentHealth,Young,Uneducated,65,Male,Generic,Suberb,199,Low Residential - Level1 (ItemClass),,9
+0,Created,20027,44616,0,ExcellentHealth,Adult,Uneducated,59,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),,9
+55195,Created- Location,39699,0,0,PoorHealth,Adult,Uneducated,50,Female,Generic,Excellent,233,Low Residential - Level1 (ItemClass),Nancy Phillips,9
+59686,Created- NeedGoods- Location,23880,0,0,PoorHealth,Adult,Uneducated,50,Male,Generic,Excellent,65,Low Residential - Level1 (ItemClass),Todd Murray,9
+0,Created- NeedGoods,8269,15285,0,ExcellentHealth,Adult,Uneducated,59,Male,Generic,Suberb,204,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,39471,0,0,ExcellentHealth,Teen,Uneducated,62,Male,Generic,Suberb,232,Low Residential - Level1 (ItemClass),,9
+0,Created,25905,44616,0,ExcellentHealth,Adult,Uneducated,62,Male,Generic,Suberb,116,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45908,0,0,VeryHealthy,Child,Uneducated,84,Male,Generic,Suberb,207,Low Residential - Level1 (ItemClass),,9
+36711,5783553,15672,0,0,ExcellentHealth,Adult,Uneducated,83,Female,Generic,Suberb,195,Low Residential - Level1 (ItemClass),Anna Jackson,9
+0,540673,14198,28554,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,199,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,12692,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,109,Low Residential - Level1 (ItemClass),,9
+0,163841,48228,0,0,VeryHealthy,Child,Uneducated,86,Male,Generic,Suberb,162,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12329,0,0,VeryHealthy,Child,Uneducated,45,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+30651,9977857,39145,0,0,VeryHealthy,Adult,Uneducated,89,Female,Generic,Suberb,43,Low Residential - Level1 (ItemClass),Audrey Finch,9
+18441,39337985,35628,0,0,VerySick,Adult,Uneducated,19,Male,Generic,Bad,235,Low Residential - Level1 (ItemClass),Cedric Williams,9
+0,Created- NeedGoods- Original,8269,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Excellent,31,Low Residential - Level1 (ItemClass),,9
+0,Created,17081,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,132,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9238,0,0,VeryHealthy,Child,Uneducated,46,Male,Generic,Excellent,199,Low Residential - Level1 (ItemClass),,9
+34729,39337985,35628,0,0,VerySick,Adult,Uneducated,19,Female,Generic,Bad,253,Low Residential - Level1 (ItemClass),Kathleen Jackson,9
+0,Created- NeedGoods- Unemployed,25905,0,0,ExcellentHealth,Adult,Uneducated,52,Male,Generic,Excellent,84,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,48205,0,0,Sick,Adult,Uneducated,3,Male,Generic,Bad,244,Low Residential - Level1 (ItemClass),,9
+2764,39337985,42081,0,0,VerySick,Adult,Uneducated,8,Female,Generic,Bad,2,Low Residential - Level1 (ItemClass),Ashleigh Wright,9
+0,51396609,9238,47214,32197,VerySick,Adult,Uneducated,25,Male,Generic,Bad,252,Low Residential - Level1 (ItemClass),,9
+0,524289,1992,27789,0,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,175,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22855,0,0,ExcellentHealth,Teen,Uneducated,47,Male,Generic,Excellent,67,Low Residential - Level1 (ItemClass),,9
+0,Created- BadHealth,40634,6648,0,VerySick,Adult,Uneducated,30,Male,Generic,Bad,220,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,11158,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,32,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,3149,0,0,VeryHealthy,Adult,Uneducated,58,Male,Generic,Excellent,179,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,19178,0,0,VeryHealthy,Adult,Uneducated,85,Male,Generic,Suberb,21,Low Residential - Level1 (ItemClass),,9
+0,524289,13313,15285,0,Healthy,Adult,Uneducated,39,Male,Generic,Excellent,164,Low Residential - Level1 (ItemClass),,9
+0,524289,8269,15429,0,ExcellentHealth,Adult,Uneducated,59,Male,Generic,Suberb,96,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,12692,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,70,Low Residential - Level1 (ItemClass),,9
+17895,18350081,14683,0,0,VerySick,Child,Uneducated,13,Male,Generic,Bad,26,Low Residential - Level1 (ItemClass),Todd Blackwell,9
+0,Created- Original,39471,0,0,ExcellentHealth,Teen,Uneducated,62,Male,Generic,Suberb,226,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,29485,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,163,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,34317,0,0,VeryHealthy,Child,Uneducated,40,Male,Generic,Excellent,75,Low Residential - Level1 (ItemClass),,9
+50023,39321601,14212,0,0,VerySick,Adult,Uneducated,42,Male,Generic,Poor,194,Low Residential - Level1 (ItemClass),Pierce Lee,9
+0,Created- NeedGoods,44172,44616,0,ExcellentHealth,Adult,Uneducated,91,Male,Generic,Suberb,163,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25044,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,143,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,12618,0,0,ExcellentHealth,Adult,Uneducated,44,Male,Generic,Excellent,148,Low Residential - Level1 (ItemClass),,9
+33510,39321601,41201,0,0,VerySick,Adult,Uneducated,34,Male,Generic,Poor,32,Low Residential - Level1 (ItemClass),William Ward,9
+0,Created- Original,13023,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Suberb,121,Low Residential - Level1 (ItemClass),,9
+0,Created,34317,15285,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,108,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,11801,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,100,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,32306,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,148,Low Residential - Level1 (ItemClass),,9
+0,1064961,40853,26589,37196,VeryHealthy,Adult,Uneducated,44,Male,Generic,Excellent,232,Low Residential - Level1 (ItemClass),,9
+0,Created,48205,6648,0,Sick,Adult,Uneducated,13,Male,Generic,Poor,218,Low Residential - Level1 (ItemClass),,9
+0,60817409,45119,0,0,VerySick,Adult,Uneducated,26,Male,Generic,Bad,28,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,38135,0,0,VeryHealthy,Child,Uneducated,29,Male,Generic,Excellent,142,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,17207,0,0,Healthy,Teen,Uneducated,60,Male,Generic,Excellent,96,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13023,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Suberb,121,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,2146,0,0,ExcellentHealth,Teen,Uneducated,49,Male,Generic,Excellent,235,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,33841,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,147,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,38135,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,208,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25905,0,0,ExcellentHealth,Teen,Uneducated,62,Male,Generic,Suberb,236,Low Residential - Level1 (ItemClass),,9
+0,1048833,40287,6648,45823,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,196,Low Residential - Level1 (ItemClass),,9
+0,Created,25298,0,0,ExcellentHealth,Teen,Uneducated,41,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,40287,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,168,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,32306,0,0,ExcellentHealth,Adult,Uneducated,70,Male,Generic,Suberb,117,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,19975,0,0,VeryHealthy,Adult,Uneducated,46,Male,Generic,Excellent,159,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25298,0,0,ExcellentHealth,Teen,Uneducated,41,Male,Generic,Excellent,82,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Original,45292,0,0,ExcellentHealth,Teen,Uneducated,58,Male,Generic,Suberb,243,Low Residential - Level1 (ItemClass),,9
+0,Created- Location,12329,0,0,VeryHealthy,Child,Uneducated,45,Male,Generic,Excellent,178,Low Residential - Level1 (ItemClass),,9
+45019,Created,39877,0,0,Sick,Child,Uneducated,18,Female,Generic,Poor,73,Low Residential - Level1 (ItemClass),Holly Hunter,9
+0,Created- Original,3149,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,179,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,15504,0,0,VeryHealthy,Child,Uneducated,47,Male,Generic,Excellent,171,Low Residential - Level1 (ItemClass),,9
+0,Created,13023,6648,0,VeryHealthy,Adult,Uneducated,90,Male,Generic,Suberb,154,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,19975,0,0,VeryHealthy,Adult,Uneducated,46,Male,Generic,Excellent,89,Low Residential - Level1 (ItemClass),,9
+29578,20463617,35799,0,0,VerySick,Adult,Uneducated,25,Female,Generic,Bad,19,Low Residential - Level1 (ItemClass),Brittany Young,9
+0,Created- Original,14938,0,0,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,163,Low Residential - Level1 (ItemClass),,9
+0,Created,23647,6648,0,ExcellentHealth,Adult,Uneducated,77,Male,Generic,Suberb,240,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22623,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,19,Low Residential - Level1 (ItemClass),,9
+0,524289,43709,47214,0,ExcellentHealth,Adult,Uneducated,91,Male,Generic,Suberb,24,Low Residential - Level1 (ItemClass),,9
+31979,39321601,35628,0,0,VerySick,Adult,Uneducated,19,Female,Generic,Bad,64,Low Residential - Level1 (ItemClass),Willow Richardson,9
+0,Created- Original,17207,0,0,Healthy,Teen,Uneducated,60,Male,Generic,Excellent,111,Low Residential - Level1 (ItemClass),,9
+17469,60309505,14683,0,0,VerySick,Adult,Uneducated,4,Male,Generic,Bad,35,Low Residential - Level1 (ItemClass),Travis Williams,9
+0,540673,25298,27866,0,ExcellentHealth,Adult,Uneducated,44,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,36044,6648,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,114,Low Residential - Level1 (ItemClass),,9
+30414,Created- Location,14413,38136,0,ExcellentHealth,Adult,Uneducated,78,Female,Generic,Suberb,61,Low Residential - Level1 (ItemClass),Ashleigh Ward,9
+18540,341311489,1144,0,0,Healthy,Adult,Uneducated,66,Female,Generic,Excellent,111,Low Residential - Level1 (ItemClass),Amanda Harvey,9
+0,Created- NeedGoods- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,100,Low Residential - Level1 (ItemClass),,9
+0,58720257,45119,0,0,VerySick,Adult,Uneducated,28,Male,Generic,Bad,241,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,12204,45862,0,ExcellentHealth,Adult,Uneducated,61,Male,Generic,Suberb,7,Low Residential - Level1 (ItemClass),,9
+36881,39337985,38272,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,88,Low Residential - Level1 (ItemClass),Aspen Scott,9
+0,Created- NeedGoods- Unemployed,9205,0,0,VeryHealthy,Adult,Uneducated,42,Male,Generic,Excellent,61,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12329,0,0,VeryHealthy,Child,Uneducated,45,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+8436,60293121,41201,0,0,VerySick,Adult,Uneducated,31,Female,Generic,Poor,156,Low Residential - Level1 (ItemClass),Audrey Hancock,9
+0,Created- Unemployed,12735,0,0,VeryHealthy,Adult,Uneducated,71,Male,Generic,Suberb,241,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,13313,0,0,Healthy,Child,Uneducated,44,Male,Generic,Excellent,164,Low Residential - Level1 (ItemClass),,9
+48641,Created- Location- BadHealth,23553,0,0,VerySick,Child,Uneducated,0,Female,Generic,Bad,31,Low Residential - Level1 (ItemClass),Brittany Wright,9
+0,Created- Original,22623,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,182,Low Residential - Level1 (ItemClass),,9
+62662,Created,9205,44616,0,VeryHealthy,Adult,Uneducated,52,Female,Generic,Excellent,150,Low Residential - Level1 (ItemClass),Audrey Alexander,9
+0,Created- NeedGoods- Unemployed,4393,0,0,ExcellentHealth,Young,Uneducated,86,Male,Generic,Suberb,69,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,3059,0,0,ExcellentHealth,Teen,Uneducated,92,Male,Generic,Suberb,63,Low Residential - Level1 (ItemClass),,9
+0,Created,14166,26589,0,VeryHealthy,Adult,Uneducated,94,Male,Generic,Suberb,186,Low Residential - Level1 (ItemClass),,9
+0,1048581,48205,26589,28554,PoorHealth,Adult,Uneducated,22,Male,Generic,Poor,184,Low Residential - Level1 (ItemClass),,9
+0,60833793,45119,0,0,VerySick,Adult,Uneducated,26,Male,Generic,Bad,28,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,12618,6648,0,ExcellentHealth,Adult,Uneducated,54,Male,Generic,Excellent,165,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9205,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,129,Low Residential - Level1 (ItemClass),,9
+0,Created,39877,0,0,PoorHealth,Teen,Uneducated,32,Male,Generic,Poor,149,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,177,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,2146,44616,0,ExcellentHealth,Adult,Uneducated,57,Male,Generic,Suberb,246,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,12692,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,233,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,31117,0,0,ExcellentHealth,Adult,Uneducated,80,Male,Generic,Suberb,11,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,69,Low Residential - Level1 (ItemClass),,9
+0,542721,3059,28979,0,ExcellentHealth,Young,OneSchool,90,Male,Generic,Suberb,55,Low Residential - Level1 (ItemClass),,9
+0,49283077,25106,0,32197,VerySick,Adult,Uneducated,0,Male,Generic,Bad,211,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,1992,0,0,ExcellentHealth,Young,Uneducated,68,Male,Generic,Suberb,55,Low Residential - Level1 (ItemClass),,9
+15757,524289,17081,6648,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,132,Low Residential - Level1 (ItemClass),Raymond Adams,9
+0,Created- Original,3149,0,0,ExcellentHealth,Teen,Uneducated,65,Male,Generic,Suberb,62,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36120,0,0,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,155,Low Residential - Level1 (ItemClass),,9
+0,524289,35790,3047,0,Healthy,Adult,Uneducated,39,Male,Generic,Excellent,24,Low Residential - Level1 (ItemClass),,9
+0,Created,48205,6648,0,Sick,Adult,Uneducated,13,Male,Generic,Poor,218,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,2146,0,0,ExcellentHealth,Teen,Uneducated,49,Male,Generic,Excellent,190,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,100,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,42659,0,0,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,165,Low Residential - Level1 (ItemClass),,9
+64766,Created,44172,25710,0,ExcellentHealth,Adult,Uneducated,91,Female,Generic,Suberb,85,Low Residential - Level1 (ItemClass),Mary Morgan,9
+0,51412997,12204,0,32197,VerySick,Teen,Uneducated,0,Male,Generic,Bad,215,Low Residential - Level1 (ItemClass),,9
+0,1048961,41286,0,45823,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,16,Low Residential - Level1 (ItemClass),,9
+0,Created- BadHealth,40634,0,0,VerySick,Teen,Uneducated,25,Male,Generic,Bad,48,Low Residential - Level1 (ItemClass),,9
+0,Created,15504,6648,0,ExcellentHealth,Young,Uneducated,47,Male,Generic,Excellent,188,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,19975,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,159,Low Residential - Level1 (ItemClass),,9
+0,Created,13718,6648,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,177,Low Residential - Level1 (ItemClass),,9
+0,49283077,46105,0,28554,VerySick,Adult,Uneducated,15,Male,Generic,Bad,198,Low Residential - Level1 (ItemClass),,9
+0,524289,34317,44616,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,203,Low Residential - Level1 (ItemClass),,9
+0,Created,5824,26315,0,VeryHealthy,Adult,Uneducated,51,Male,Generic,Excellent,19,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Unemployed,36211,0,0,ExcellentHealth,Young,Uneducated,56,Male,Generic,Suberb,158,Low Residential - Level1 (ItemClass),,9
+0,18350081,14683,0,0,VerySick,Child,Uneducated,13,Male,Generic,Bad,26,Low Residential - Level1 (ItemClass),,9
+0,524289,17207,14193,0,Healthy,Adult,Uneducated,77,Male,Generic,Excellent,111,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,41775,0,0,ExcellentHealth,Teen,Uneducated,63,Male,Generic,Suberb,38,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,31117,0,0,ExcellentHealth,Teen,Uneducated,74,Male,Generic,Suberb,50,Low Residential - Level1 (ItemClass),,9
+0,Created,41286,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,16,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,19975,0,0,ExcellentHealth,Teen,Uneducated,61,Male,Generic,Suberb,179,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22623,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,110,Low Residential - Level1 (ItemClass),,9
+0,18350081,17494,0,0,VerySick,Child,Uneducated,13,Male,Generic,Bad,22,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,14237,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+18777,39337985,42081,0,0,VerySick,Adult,Uneducated,8,Female,Generic,Bad,15,Low Residential - Level1 (ItemClass),Kathleen Mason,9
+0,Created,18634,45992,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,160,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40287,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,251,Low Residential - Level1 (ItemClass),,9
+0,33570817,35790,12785,0,VerySick,Adult,Uneducated,25,Male,Generic,Bad,121,Low Residential - Level1 (ItemClass),,9
+0,540673,31117,12785,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,132,Low Residential - Level1 (ItemClass),,9
+0,1081345,8269,0,35234,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,113,Low Residential - Level1 (ItemClass),,9
+0,Created,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,98,Low Residential - Level1 (ItemClass),,9
+0,34603009,35628,5757,35234,VerySick,Young,Uneducated,16,Male,Generic,Bad,98,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Unemployed,19975,0,0,VeryHealthy,Adult,Uneducated,46,Male,Generic,Excellent,25,Low Residential - Level1 (ItemClass),,9
+0,15745409,9238,0,45823,ExcellentHealth,Adult,Uneducated,40,Male,Generic,Excellent,69,Low Residential - Level1 (ItemClass),,9
+18637,678969345,1144,0,0,PoorHealth,Adult,Uneducated,59,Male,Generic,Excellent,235,Low Residential - Level1 (ItemClass),Edward Williams,9
+32822,60309505,14683,0,0,VerySick,Adult,Uneducated,4,Male,Generic,Bad,224,Low Residential - Level1 (ItemClass),Raymond Jackson,9
+0,Created- NeedGoods- Original,31117,0,0,VeryHealthy,Child,Uneducated,65,Male,Generic,Excellent,50,Low Residential - Level1 (ItemClass),,9
+0,524289,8269,5757,0,ExcellentHealth,Adult,Uneducated,59,Male,Generic,Suberb,227,Low Residential - Level1 (ItemClass),,9
+3517,Created- NeedGoods- Location- Unemployed,34317,0,5742,ExcellentHealth,Adult,Uneducated,35,Male,Generic,Excellent,75,Low Residential - Level1 (ItemClass),Terry Graham,9
+45289,39338113,41201,0,0,VerySick,Adult,Uneducated,34,Male,Generic,Poor,156,Low Residential - Level1 (ItemClass),Aspen Hancock,9
+0,33603585,45119,0,0,VerySick,Child,Uneducated,20,Male,Generic,Bad,241,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,17207,0,0,Healthy,Teen,Uneducated,60,Male,Generic,Excellent,96,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11659,0,0,VeryHealthy,Child,Uneducated,72,Male,Generic,Suberb,172,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,12692,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,209,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,12618,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,190,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,9238,0,0,ExcellentHealth,Adult,Uneducated,40,Male,Generic,Excellent,212,Low Residential - Level1 (ItemClass),,9
+0,Created,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,41,Low Residential - Level1 (ItemClass),,9
+62711,20447233,35628,0,0,VerySick,Adult,Uneducated,32,Female,Generic,Poor,115,Low Residential - Level1 (ItemClass),Elisa White,9
+0,Created- Original,19178,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,64,Low Residential - Level1 (ItemClass),,9
+0,6324225,35589,0,0,ExcellentHealth,Young,Uneducated,85,Male,Generic,Suberb,186,Low Residential - Level1 (ItemClass),,9
+0,15745025,33841,0,23381,ExcellentHealth,Young,Uneducated,80,Male,Generic,Suberb,14,Low Residential - Level1 (ItemClass),,9
+0,540673,45735,5757,5757,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,24,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,173,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,14237,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+0,540673,2146,23415,0,ExcellentHealth,Adult,Uneducated,57,Male,Generic,Suberb,180,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,17873,44616,0,VeryHealthy,Adult,Uneducated,100,Male,Generic,Suberb,245,Low Residential - Level1 (ItemClass),,9
+0,61865989,44172,0,32197,VerySick,Adult,Uneducated,29,Male,Generic,Bad,158,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,21,Low Residential - Level1 (ItemClass),,9
+0,Created,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,46,Low Residential - Level1 (ItemClass),,9
+0,1048577,15672,5757,44856,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,230,Low Residential - Level1 (ItemClass),,9
+0,542721,1992,35234,0,ExcellentHealth,Adult,OneSchool,80,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),,9
+548,39337985,35589,0,0,VerySick,Adult,Uneducated,19,Male,Generic,Bad,77,Low Residential - Level1 (ItemClass),Raymond Young,9
+0,Created- BadHealth,45119,45823,0,VerySick,Adult,Uneducated,32,Male,Generic,Poor,241,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Original,5824,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,59,Low Residential - Level1 (ItemClass),,9
+23798,42991621,35799,0,28554,VerySick,Young,Uneducated,12,Female,Generic,Bad,15,Low Residential - Level1 (ItemClass),Ashlyn Mason,9
+0,41943041,41201,0,0,VerySick,Young,Uneducated,29,Male,Generic,Bad,154,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12735,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Excellent,241,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,11659,0,0,VeryHealthy,Adult,Uneducated,88,Male,Generic,Suberb,216,Low Residential - Level1 (ItemClass),,9
+64751,20447233,17494,0,0,VerySick,Adult,Uneducated,8,Female,Generic,Bad,111,Low Residential - Level1 (ItemClass),Stephanie Harvey,9
+0,Created- Original,11801,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,130,Low Residential - Level1 (ItemClass),,9
+0,1081345,15672,0,5742,ExcellentHealth,Teen,Uneducated,70,Male,Generic,Suberb,85,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,11659,0,0,VeryHealthy,Adult,Uneducated,88,Male,Generic,Suberb,192,Low Residential - Level1 (ItemClass),,9
+41405,Created- Original- Location,13023,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,243,Low Residential - Level1 (ItemClass),Oliver Finch,9
+0,Created- Original,18634,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,169,Low Residential - Level1 (ItemClass),,9
+0,Created,28939,5757,0,VeryHealthy,Adult,Uneducated,49,Male,Generic,Excellent,253,Low Residential - Level1 (ItemClass),,9
+0,540673,14413,580,0,ExcellentHealth,Adult,Uneducated,78,Male,Generic,Suberb,75,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,15504,0,0,ExcellentHealth,Child,Uneducated,52,Male,Generic,Excellent,80,Low Residential - Level1 (ItemClass),,9
+41695,Created- NeedGoods- Location,45292,23415,0,VeryHealthy,Adult,Uneducated,49,Male,Generic,Excellent,3,Low Residential - Level1 (ItemClass),Dexter Smith,9
+5035,35127297,42081,0,0,VerySick,Child,Uneducated,0,Male,Generic,Bad,192,Low Residential - Level1 (ItemClass),Thomas Brown,9
+0,1139802117,45292,0,28554,VerySick,Adult,Uneducated,24,Male,Generic,Bad,3,Low Residential - Level1 (ItemClass),,9
+8969,20447233,14683,0,0,VerySick,Adult,Uneducated,8,Female,Generic,Bad,26,Low Residential - Level1 (ItemClass),Olivia Blackwell,9
+0,Created- Original,25044,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,94,Low Residential - Level1 (ItemClass),,9
+0,540673,3149,15429,0,ExcellentHealth,Adult,Uneducated,73,Male,Generic,Suberb,179,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,38135,0,0,VeryHealthy,Child,Uneducated,29,Male,Generic,Excellent,217,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,11158,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+1716,20463617,39699,0,0,VerySick,Adult,Uneducated,32,Male,Generic,Poor,95,Low Residential - Level1 (ItemClass),Earl Lewis,9
+0,Created,36211,44616,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,65,Low Residential - Level1 (ItemClass),,9
+33117,Created- Location,36211,37196,0,VeryHealthy,Adult,Uneducated,50,Female,Generic,Excellent,173,Low Residential - Level1 (ItemClass),Nancy White,9
+65184,39321601,38272,0,0,VerySick,Adult,Uneducated,0,Female,Generic,Bad,190,Low Residential - Level1 (ItemClass),Faith Young,9
+0,540673,18634,15429,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,169,Low Residential - Level1 (ItemClass),,9
+2223,Created- NeedGoods- Location,25905,47214,0,ExcellentHealth,Adult,Uneducated,62,Female,Generic,Suberb,236,Low Residential - Level1 (ItemClass),Piper Murray,9
+60436,Created- Location,45128,12785,0,ExcellentHealth,Adult,Uneducated,38,Female,Generic,Excellent,46,Low Residential - Level1 (ItemClass),Katie Graham,9
+0,Created,19975,5757,0,VeryHealthy,Adult,Uneducated,56,Male,Generic,Excellent,159,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,45735,47214,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,171,Low Residential - Level1 (ItemClass),,9
+0,149505,48228,19064,0,VeryHealthy,Adult,OneSchool,98,Male,Generic,Suberb,144,Low Residential - Level1 (ItemClass),,9
+0,Created,45128,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,199,Low Residential - Level1 (ItemClass),,9
+0,Created,36211,23415,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,100,Low Residential - Level1 (ItemClass),,9
+42790,Created- Original- Location,40287,0,35234,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,251,Low Residential - Level1 (ItemClass),Albert Roberts,9
+0,Created,45292,15429,0,VeryHealthy,Adult,Uneducated,49,Male,Generic,Excellent,243,Low Residential - Level1 (ItemClass),,9
+0,524289,31117,35192,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,12,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,69,Low Residential - Level1 (ItemClass),,9
+0,10518529,35589,0,0,VeryHealthy,Young,Uneducated,46,Male,Generic,Excellent,128,Low Residential - Level1 (ItemClass),,9
+0,1097729,31117,0,37196,ExcellentHealth,Teen,Uneducated,74,Male,Generic,Suberb,120,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14413,0,0,VeryHealthy,Child,Uneducated,55,Male,Generic,Excellent,75,Low Residential - Level1 (ItemClass),,9
+30184,Created- Location,40853,15285,0,VeryHealthy,Adult,Uneducated,44,Male,Generic,Excellent,157,Low Residential - Level1 (ItemClass),William Mason,9
+0,Created- NeedGoods,3149,5757,0,ExcellentHealth,Adult,Uneducated,73,Male,Generic,Suberb,134,Low Residential - Level1 (ItemClass),,9
+28071,60293121,32412,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,96,Low Residential - Level1 (ItemClass),Bradley Miller,9
+62813,20463617,39699,0,0,VerySick,Adult,Uneducated,32,Female,Generic,Poor,103,Low Residential - Level1 (ItemClass),Elisa Adams,9
+0,Created- Original,36120,0,0,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,17,Low Residential - Level1 (ItemClass),,9
+0,60833793,45119,0,0,VerySick,Adult,Uneducated,26,Male,Generic,Bad,213,Low Residential - Level1 (ItemClass),,9
+0,1081345,48205,0,28554,Sick,Child,Uneducated,17,Male,Generic,Poor,244,Low Residential - Level1 (ItemClass),,9
+0,540673,35832,3475,0,VeryHealthy,Adult,Uneducated,99,Male,Generic,Suberb,92,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,25106,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Suberb,130,Low Residential - Level1 (ItemClass),,9
+0,1097729,36044,0,38808,ExcellentHealth,Teen,Uneducated,82,Male,Generic,Suberb,57,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,14413,0,0,VeryHealthy,Child,Uneducated,55,Male,Generic,Excellent,61,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,4820,0,0,ExcellentHealth,Teen,Uneducated,83,Male,Generic,Suberb,248,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12204,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,7,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,24,Low Residential - Level1 (ItemClass),,9
+50945,24117253,9939,0,28554,VerySick,Young,Uneducated,21,Male,Generic,Bad,87,Low Residential - Level1 (ItemClass),James Jones,9
+0,Created- Original,11801,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,243,Low Residential - Level1 (ItemClass),,9
+0,Created,33831,44616,0,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,16,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,45292,28554,0,VeryHealthy,Adult,Uneducated,49,Male,Generic,Excellent,65,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,34317,0,0,VeryHealthy,Child,Uneducated,40,Male,Generic,Excellent,108,Low Residential - Level1 (ItemClass),,9
+0,Created,33841,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,58,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,8269,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,122,Low Residential - Level1 (ItemClass),,9
+32853,Created- Location,5633,44616,0,ExcellentHealth,Adult,Uneducated,91,Male,Generic,Suberb,48,Low Residential - Level1 (ItemClass),Travis Young,9
+0,Created- Original,4820,0,0,ExcellentHealth,Teen,Uneducated,83,Male,Generic,Suberb,70,Low Residential - Level1 (ItemClass),,9
+0,1081345,40853,0,35234,ExcellentHealth,Teen,Uneducated,52,Male,Generic,Excellent,31,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,5633,0,0,VeryHealthy,Child,Uneducated,66,Male,Generic,Suberb,48,Low Residential - Level1 (ItemClass),,9
+0,Created,45128,14968,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,201,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,17081,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,130,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14198,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,199,Low Residential - Level1 (ItemClass),,9
+0,524289,44171,580,0,ExcellentHealth,Adult,Uneducated,70,Male,Generic,Suberb,148,Low Residential - Level1 (ItemClass),,9
+0,Created,47095,19402,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,12,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,5824,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,19,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45292,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,3,Low Residential - Level1 (ItemClass),,9
+62575,58195969,44102,0,0,VerySick,Adult,Uneducated,22,Male,Generic,Bad,29,Low Residential - Level1 (ItemClass),Bradley Jones,9
+0,Created- Original,31117,0,0,VeryHealthy,Child,Uneducated,65,Male,Generic,Suberb,132,Low Residential - Level1 (ItemClass),,9
+0,66060293,35589,0,28554,VerySick,Adult,Uneducated,11,Male,Generic,Bad,101,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40853,27866,0,ExcellentHealth,Young,Uneducated,53,Male,Generic,Excellent,60,Low Residential - Level1 (ItemClass),,9
+23755,Created,14198,38136,0,ExcellentHealth,Adult,Uneducated,100,Female,Generic,Suberb,156,Low Residential - Level1 (ItemClass),Nancy Hancock,9
+0,Created- NeedGoods,25044,16862,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,94,Low Residential - Level1 (ItemClass),,9
+0,540673,43709,45992,0,ExcellentHealth,Adult,Uneducated,91,Male,Generic,Suberb,69,Low Residential - Level1 (ItemClass),,9
+0,Created,9939,35234,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,216,Low Residential - Level1 (ItemClass),,9
+0,524289,36211,3475,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,177,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,36120,15429,0,ExcellentHealth,Adult,Uneducated,47,Male,Generic,Excellent,155,Low Residential - Level1 (ItemClass),,9
+0,524289,9205,38136,0,VeryHealthy,Adult,Uneducated,52,Male,Generic,Excellent,82,Low Residential - Level1 (ItemClass),,9
+19876,3686401,12329,0,0,ExcellentHealth,Adult,Uneducated,47,Female,Generic,Excellent,62,Low Residential - Level1 (ItemClass),Nancy Phillips,9
+0,Created- Original,14413,0,0,VeryHealthy,Child,Uneducated,55,Male,Generic,Excellent,71,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,45,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,33841,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,85,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22855,0,0,ExcellentHealth,Teen,Uneducated,47,Male,Generic,Excellent,134,Low Residential - Level1 (ItemClass),,9
+33854,39337985,35628,0,0,VerySick,Adult,Uneducated,19,Female,Generic,Bad,47,Low Residential - Level1 (ItemClass),Sabrina Walker,9
+0,Created- Criminal- Original,33841,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Suberb,113,Low Residential - Level1 (ItemClass),,9
+0,524289,34317,38136,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,146,Low Residential - Level1 (ItemClass),,9
+26296,60309505,32412,0,0,VerySick,Adult,Uneducated,0,Female,Generic,Bad,88,Low Residential - Level1 (ItemClass),Scarlett Scott,9
+0,Created- Unemployed,44118,0,0,VeryHealthy,Adult,Uneducated,42,Male,Generic,Excellent,38,Low Residential - Level1 (ItemClass),,9
+0,34078721,17494,10320,0,VerySick,Adult,Uneducated,8,Male,Generic,Bad,174,Low Residential - Level1 (ItemClass),,9
+0,Created,40287,580,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,68,Low Residential - Level1 (ItemClass),,9
+25679,Created- Location,23880,0,0,PoorHealth,Adult,Uneducated,50,Female,Generic,Excellent,65,Low Residential - Level1 (ItemClass),Katie Murray,9
+0,Created- Original,42659,0,0,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,39,Low Residential - Level1 (ItemClass),,9
+0,4227073,39699,0,0,VeryHealthy,Young,Uneducated,48,Male,Generic,Excellent,166,Low Residential - Level1 (ItemClass),,9
+0,1048577,14237,38136,37196,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,68,Low Residential - Level1 (ItemClass),,9
+0,1048577,4820,38136,3977,VeryHealthy,Adult,Uneducated,98,Male,Generic,Suberb,210,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11937,0,0,VeryHealthy,Child,Uneducated,80,Male,Generic,Suberb,251,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,43,Low Residential - Level1 (ItemClass),,9
+0,Created- BadHealth,40634,0,0,VerySick,Child,Uneducated,18,Male,Generic,Bad,220,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,45292,0,0,VeryHealthy,Adult,Uneducated,39,Male,Generic,Excellent,74,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13044,0,0,VeryHealthy,Child,Uneducated,77,Male,Generic,Suberb,238,Low Residential - Level1 (ItemClass),,9
+0,51380229,2264,10146,28554,VerySick,Adult,Uneducated,42,Male,Generic,Poor,180,Low Residential - Level1 (ItemClass),,9
+0,540673,40853,19636,0,ExcellentHealth,Young,Uneducated,53,Male,Generic,Excellent,208,Low Residential - Level1 (ItemClass),,9
+9938,35127297,35589,0,0,VerySick,Child,Uneducated,1,Female,Generic,Bad,58,Low Residential - Level1 (ItemClass),Faith Jones,9
+9546,678952961,1144,0,0,PoorHealth,Adult,Uneducated,60,Male,Generic,Excellent,6,Low Residential - Level1 (ItemClass),Thomas Williams,9
+0,Created- NeedGoods- Original,14700,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,140,Low Residential - Level1 (ItemClass),,9
+0,Created,45292,26589,0,VeryHealthy,Adult,Uneducated,49,Male,Generic,Excellent,74,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,33841,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,98,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,36211,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,177,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45292,0,0,ExcellentHealth,Teen,Uneducated,58,Male,Generic,Suberb,32,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13313,0,0,Healthy,Child,Uneducated,44,Male,Generic,Excellent,72,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,21,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40634,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,233,Low Residential - Level1 (ItemClass),,9
+61680,7880705,35790,0,0,Healthy,Adult,Uneducated,36,Female,Generic,Excellent,121,Low Residential - Level1 (ItemClass),Julie Reed,9
+0,Created- Original,15504,0,0,ExcellentHealth,Teen,Uneducated,46,Male,Generic,Excellent,49,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,209,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,22687,0,0,VeryHealthy,Child,Uneducated,57,Male,Generic,Excellent,104,Low Residential - Level1 (ItemClass),,9
+48558,Created,39877,10146,0,Sick,Adult,Uneducated,32,Male,Generic,Poor,132,Low Residential - Level1 (ItemClass),Dexter Adams,9
+0,Created- Original,42081,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,101,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,22855,0,0,ExcellentHealth,Adult,Uneducated,45,Male,Generic,Excellent,175,Low Residential - Level1 (ItemClass),,9
+0,540673,22623,45992,0,VeryHealthy,Adult,Uneducated,67,Male,Generic,Suberb,152,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,5633,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,48,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- NeedGoods- Original,20027,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,212,Low Residential - Level1 (ItemClass),,9
+0,21004289,25106,0,0,VerySick,Young,Uneducated,28,Male,Generic,Bad,204,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36538,0,0,ExcellentHealth,Teen,Uneducated,92,Male,Generic,Suberb,139,Low Residential - Level1 (ItemClass),,9
+0,540673,14938,47214,0,ExcellentHealth,Adult,Uneducated,49,Male,Generic,Excellent,129,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40287,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,68,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,12204,3047,0,ExcellentHealth,Adult,Uneducated,61,Male,Generic,Suberb,69,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,134,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13718,0,0,ExcellentHealth,Teen,Uneducated,42,Male,Generic,Excellent,48,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,35790,0,0,Healthy,Child,Uneducated,44,Male,Generic,Excellent,84,Low Residential - Level1 (ItemClass),,9
+7733,39337985,17494,0,0,VerySick,Adult,Uneducated,7,Female,Generic,Bad,136,Low Residential - Level1 (ItemClass),Elisa Harris,9
+51695,Created- Location,39471,580,0,ExcellentHealth,Adult,Uneducated,82,Male,Generic,Suberb,226,Low Residential - Level1 (ItemClass),Sterling Blackwell,9
+0,Created- NeedGoods- Original,43773,0,0,ExcellentHealth,Child,Uneducated,52,Male,Generic,Excellent,110,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,14938,0,0,ExcellentHealth,Adult,Uneducated,39,Male,Generic,Excellent,88,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25905,0,0,ExcellentHealth,Teen,Uneducated,62,Male,Generic,Suberb,244,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,15504,0,0,ExcellentHealth,Adult,Uneducated,43,Male,Generic,Excellent,80,Low Residential - Level1 (ItemClass),,9
+1887,Created- Criminal- Location,1992,35234,0,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),Layton Mason,9
+0,Created,11801,10320,0,ExcellentHealth,Adult,Uneducated,97,Male,Generic,Suberb,40,Low Residential - Level1 (ItemClass),,9
+0,524289,5482,15429,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,128,Low Residential - Level1 (ItemClass),,9
+0,Created,18634,10320,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,160,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,12735,0,0,VeryHealthy,Adult,Uneducated,71,Male,Generic,Suberb,167,Low Residential - Level1 (ItemClass),,9
+42820,Created- NeedGoods- Location,23880,0,0,PoorHealth,Adult,Uneducated,50,Female,Generic,Excellent,231,Low Residential - Level1 (ItemClass),Audrey Wright,9
+0,524289,36044,28554,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,195,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13023,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,243,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25044,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,174,Low Residential - Level1 (ItemClass),,9
+0,17858565,45128,0,32197,VerySick,Teen,Uneducated,7,Male,Generic,Bad,59,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9205,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,150,Low Residential - Level1 (ItemClass),,9
+0,Created,33841,26589,0,ExcellentHealth,Young,Uneducated,84,Male,Generic,Suberb,10,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44171,0,0,ExcellentHealth,Teen,Uneducated,55,Male,Generic,Suberb,4,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,125,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,4820,0,0,VeryHealthy,Child,Uneducated,72,Male,Generic,Suberb,250,Low Residential - Level1 (ItemClass),,9
+0,1081345,14700,0,3977,VeryHealthy,Child,Uneducated,80,Male,Generic,Suberb,140,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,45,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,17207,0,0,Healthy,Teen,Uneducated,60,Male,Generic,Excellent,111,Low Residential - Level1 (ItemClass),,9
+0,1048581,12329,26589,32197,Sick,Adult,Uneducated,36,Male,Generic,Poor,233,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33841,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,166,Low Residential - Level1 (ItemClass),,9
+64537,20463617,39699,0,0,VerySick,Adult,Uneducated,32,Male,Generic,Poor,131,Low Residential - Level1 (ItemClass),Stephen Hunter,9
+0,18350081,14683,0,0,VerySick,Child,Uneducated,13,Male,Generic,Bad,253,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13313,0,0,Healthy,Child,Uneducated,44,Male,Generic,Excellent,27,Low Residential - Level1 (ItemClass),,9
+0,18350081,17494,0,0,VerySick,Child,Uneducated,13,Male,Generic,Bad,22,Low Residential - Level1 (ItemClass),,9
+0,Created,45735,19402,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,27,Low Residential - Level1 (ItemClass),,9
+0,524289,45735,580,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,111,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13718,0,0,ExcellentHealth,Teen,Uneducated,42,Male,Generic,Excellent,201,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11659,0,0,ExcellentHealth,Teen,Uneducated,83,Male,Generic,Suberb,150,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,5824,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,110,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14938,0,0,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,81,Low Residential - Level1 (ItemClass),,9
+2803,24641537,35628,0,0,VerySick,Adult,Uneducated,17,Female,Generic,Bad,47,Low Residential - Level1 (ItemClass),Willow Walker,9
+1809,Created- Location,12692,27789,0,VeryHealthy,Adult,Uneducated,51,Female,Generic,Excellent,43,Low Residential - Level1 (ItemClass),Rosemary Finch,9
+0,Created- NeedGoods- Original,40287,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,68,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,4393,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,215,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,29485,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,163,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25106,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Suberb,130,Low Residential - Level1 (ItemClass),,9
+0,524289,9205,19402,0,VeryHealthy,Adult,Uneducated,52,Male,Generic,Excellent,150,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25106,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Suberb,211,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,15672,0,0,ExcellentHealth,Teen,Uneducated,70,Male,Generic,Suberb,249,Low Residential - Level1 (ItemClass),,9
+0,16777217,35799,38136,0,VerySick,Adult,Uneducated,25,Male,Generic,Bad,19,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,15504,0,0,ExcellentHealth,Adult,Uneducated,43,Male,Generic,Excellent,171,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,17873,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,245,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,19178,0,0,VeryHealthy,Adult,Uneducated,85,Male,Generic,Suberb,21,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,47095,0,0,VeryHealthy,Child,Uneducated,82,Male,Generic,Suberb,134,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,13023,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,177,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,15672,0,0,ExcellentHealth,Child,Uneducated,63,Male,Generic,Suberb,140,Low Residential - Level1 (ItemClass),,9
+11636,Created- Location- Unemployed,8269,0,0,ExcellentHealth,Young,Uneducated,47,Male,Generic,Excellent,10,Low Residential - Level1 (ItemClass),Walter Dixon,9
+0,Created- Original,43773,0,0,ExcellentHealth,Teen,Uneducated,46,Male,Generic,Excellent,110,Low Residential - Level1 (ItemClass),,9
+0,524289,19178,19402,0,VeryHealthy,Adult,Uneducated,95,Male,Generic,Suberb,64,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,45735,0,0,ExcellentHealth,Young,Uneducated,56,Male,Generic,Suberb,68,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25106,0,0,VeryHealthy,Child,Uneducated,64,Male,Generic,Suberb,176,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,9939,0,0,ExcellentHealth,Teen,Uneducated,82,Male,Generic,Suberb,75,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,33841,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,113,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,38135,0,0,VeryHealthy,Child,Uneducated,29,Male,Generic,Excellent,8,Low Residential - Level1 (ItemClass),,9
+47615,672661505,2264,25710,0,PoorHealth,Adult,Uneducated,78,Female,Generic,Excellent,244,Low Residential - Level1 (ItemClass),Sophie Hunter,9
+30706,3686401,35790,0,0,Healthy,Adult,Uneducated,39,Male,Generic,Excellent,152,Low Residential - Level1 (ItemClass),Earl Dixon,9
+0,15745025,45292,0,5757,VeryHealthy,Adult,Uneducated,39,Male,Generic,Excellent,231,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,14166,0,0,VeryHealthy,Adult,Uneducated,84,Male,Generic,Suberb,83,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40853,0,0,ExcellentHealth,Teen,Uneducated,52,Male,Generic,Excellent,31,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45908,0,0,VeryHealthy,Child,Uneducated,84,Male,Generic,Suberb,207,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44171,0,0,ExcellentHealth,Teen,Uneducated,55,Male,Generic,Suberb,79,Low Residential - Level1 (ItemClass),,9
+0,524289,41775,35192,0,ExcellentHealth,Adult,Uneducated,77,Male,Generic,Suberb,38,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,18634,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,54,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,33841,0,0,VeryHealthy,Adult,Uneducated,80,Male,Generic,Suberb,85,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,11158,15429,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,41,Low Residential - Level1 (ItemClass),,9
+0,Created,17207,43523,0,Healthy,Adult,Uneducated,77,Male,Generic,Excellent,96,Low Residential - Level1 (ItemClass),,9
+0,Created,22623,580,0,VeryHealthy,Adult,Uneducated,67,Male,Generic,Suberb,3,Low Residential - Level1 (ItemClass),,9
+10771,Created- Location,40853,0,0,PoorHealth,Adult,Uneducated,50,Female,Generic,Excellent,75,Low Residential - Level1 (ItemClass),Katie Graham,9
+0,1081345,25044,0,6894,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,169,Low Residential - Level1 (ItemClass),,9
+0,50855937,10798,43523,0,VerySick,Adult,Uneducated,38,Male,Generic,Poor,83,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,4820,10320,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,70,Low Residential - Level1 (ItemClass),,9
+32756,39321601,41201,0,0,VerySick,Adult,Uneducated,34,Female,Generic,Poor,90,Low Residential - Level1 (ItemClass),Holly Ward,9
+0,Created,11158,580,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,200,Low Residential - Level1 (ItemClass),,9
+0,51396613,25106,580,28554,VerySick,Adult,Uneducated,39,Male,Generic,Poor,154,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,42659,0,0,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,76,Low Residential - Level1 (ItemClass),,9
+0,48234497,35628,0,0,VerySick,Young,Uneducated,12,Male,Generic,Bad,3,Low Residential - Level1 (ItemClass),,9
+0,2228225,48228,0,0,ExcellentHealth,Young,Uneducated,92,Male,Generic,Suberb,99,Low Residential - Level1 (ItemClass),,9
+0,34603013,11659,14968,28554,VerySick,Young,Uneducated,27,Male,Generic,Bad,15,Low Residential - Level1 (ItemClass),,9
+0,Created,44171,3047,0,ExcellentHealth,Adult,Uneducated,70,Male,Generic,Suberb,4,Low Residential - Level1 (ItemClass),,9
+17858,Created- NeedGoods- Location- BadHealth,18928,0,0,VerySick,Child,Uneducated,24,Female,Generic,Bad,213,Low Residential - Level1 (ItemClass),Stephanie Holmes,9
+0,1064965,13023,27866,32197,Sick,Adult,Uneducated,1,Male,Generic,Bad,243,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11158,0,0,VeryHealthy,Child,Uneducated,29,Male,Generic,Excellent,7,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44118,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,134,Low Residential - Level1 (ItemClass),,9
+0,Created,36120,27866,0,ExcellentHealth,Adult,Uneducated,47,Male,Generic,Excellent,17,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45735,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,111,Low Residential - Level1 (ItemClass),,9
+0,Created,22623,26315,0,VeryHealthy,Adult,Uneducated,67,Male,Generic,Suberb,141,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- BadHealth,40634,0,0,VerySick,Child,Uneducated,18,Male,Generic,Bad,48,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,23647,0,0,ExcellentHealth,Teen,Uneducated,63,Male,Generic,Suberb,240,Low Residential - Level1 (ItemClass),,9
+17807,524289,20027,3475,0,ExcellentHealth,Adult,Uneducated,59,Male,Generic,Suberb,39,Low Residential - Level1 (ItemClass),Aspen Price,9
+0,Created- NeedGoods- Unemployed,28939,0,0,VeryHealthy,Adult,Uneducated,39,Male,Generic,Excellent,201,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,1499,0,0,ExcellentHealth,Young,Uneducated,43,Male,Generic,Excellent,6,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36211,0,0,ExcellentHealth,Teen,Uneducated,59,Male,Generic,Suberb,65,Low Residential - Level1 (ItemClass),,9
+57039,Created- NeedGoods- Location,39145,5757,0,VeryHealthy,Adult,Uneducated,93,Male,Generic,Suberb,41,Low Residential - Level1 (ItemClass),Max Gray,9
+0,Created- NeedGoods- Unemployed,1499,0,0,ExcellentHealth,Adult,Uneducated,39,Male,Generic,Excellent,117,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,34317,0,0,ExcellentHealth,Teen,Uneducated,42,Male,Generic,Excellent,108,Low Residential - Level1 (ItemClass),,9
+0,10485761,41775,0,0,ExcellentHealth,Adult,Uneducated,71,Male,Generic,Suberb,63,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,11158,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,98,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,23647,0,0,ExcellentHealth,Child,Uneducated,58,Male,Generic,Suberb,240,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,40,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,37958,0,0,ExcellentHealth,Teen,Uneducated,74,Male,Generic,Suberb,69,Low Residential - Level1 (ItemClass),,9
+0,524289,13313,12975,0,Healthy,Adult,Uneducated,39,Male,Generic,Excellent,98,Low Residential - Level1 (ItemClass),,9
+0,8388609,45292,0,0,ExcellentHealth,Young,Uneducated,58,Male,Generic,Suberb,98,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,5824,0,0,VeryHealthy,Adult,Uneducated,41,Male,Generic,Excellent,43,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,1992,0,0,VeryHealthy,Child,Uneducated,60,Male,Generic,Suberb,189,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,17873,0,0,VeryHealthy,Adult,Uneducated,91,Male,Generic,Suberb,245,Low Residential - Level1 (ItemClass),,9
+0,46186497,35628,0,0,VerySick,Young,Uneducated,13,Male,Generic,Bad,120,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40853,0,0,ExcellentHealth,Teen,Uneducated,52,Male,Generic,Excellent,172,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,40287,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,168,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,45735,0,0,VeryHealthy,Adult,Uneducated,40,Male,Generic,Excellent,27,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,48091,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,46,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,17081,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,193,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9205,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,167,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44171,0,0,ExcellentHealth,Teen,Uneducated,55,Male,Generic,Suberb,148,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,5824,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44172,0,0,PoorHealth,Child,Uneducated,50,Male,Generic,Excellent,212,Low Residential - Level1 (ItemClass),,9
+0,657409,48228,19652,0,VeryHealthy,Adult,OneSchool,98,Male,Generic,Suberb,99,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,32306,0,0,VeryHealthy,Child,Uneducated,57,Male,Generic,Excellent,117,Low Residential - Level1 (ItemClass),,9
+0,524289,48091,44616,0,ExcellentHealth,Adult,Uneducated,91,Male,Generic,Suberb,46,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,39471,0,0,ExcellentHealth,Adult,Uneducated,72,Male,Generic,Suberb,149,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed- BadHealth,38272,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,174,Low Residential - Level1 (ItemClass),,9
+6247,39337985,35589,0,0,VerySick,Adult,Uneducated,19,Male,Generic,Bad,58,Low Residential - Level1 (ItemClass),Terry Jones,9
+0,Created- Original,9238,0,0,ExcellentHealth,Child,Uneducated,51,Male,Generic,Excellent,212,Low Residential - Level1 (ItemClass),,9
+0,60833793,40634,0,0,VerySick,Adult,Uneducated,24,Male,Generic,Bad,238,Low Residential - Level1 (ItemClass),,9
+0,1048577,40853,12975,5696,VeryHealthy,Adult,Uneducated,44,Male,Generic,Excellent,38,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,44172,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,106,Low Residential - Level1 (ItemClass),,9
+0,524289,12329,12975,0,ExcellentHealth,Adult,Uneducated,47,Male,Generic,Excellent,179,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14700,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,74,Low Residential - Level1 (ItemClass),,9
+8055,Created- NeedGoods- Location,23647,28554,0,ExcellentHealth,Adult,Uneducated,77,Female,Generic,Suberb,220,Low Residential - Level1 (ItemClass),Sabrina Cooper,9
+33830,Created- Location,22687,12785,0,ExcellentHealth,Adult,Uneducated,80,Male,Generic,Suberb,113,Low Residential - Level1 (ItemClass),Pierce Crowley,9
+0,Created- Unemployed,14237,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,59,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,14938,0,0,ExcellentHealth,Child,Uneducated,51,Male,Generic,Excellent,81,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,14017,0,0,ExcellentHealth,Teen,Uneducated,73,Male,Generic,Suberb,136,Low Residential - Level1 (ItemClass),,9
+0,Created,45128,10146,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,103,Low Residential - Level1 (ItemClass),,9
+10585,35127297,35589,0,0,VerySick,Child,Uneducated,1,Male,Generic,Bad,131,Low Residential - Level1 (ItemClass),Ashton Hunter,9
+0,Created- Original,36120,0,0,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,46,Low Residential - Level1 (ItemClass),,9
+0,51412997,10798,0,28554,VerySick,Teen,Uneducated,29,Male,Generic,Bad,57,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19975,0,0,VeryHealthy,Child,Uneducated,55,Male,Generic,Excellent,0,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43709,0,0,ExcellentHealth,Teen,Uneducated,75,Male,Generic,Suberb,24,Low Residential - Level1 (ItemClass),,9
+0,47202305,12204,0,19064,VerySick,Young,Uneducated,9,Male,Generic,Bad,29,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44171,0,0,ExcellentHealth,Child,Uneducated,58,Male,Generic,Suberb,15,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9238,0,0,ExcellentHealth,Child,Uneducated,51,Male,Generic,Excellent,116,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,19975,0,0,VeryHealthy,Child,Uneducated,55,Male,Generic,Excellent,52,Low Residential - Level1 (ItemClass),,9
+0,671121409,4820,0,0,PoorHealth,Child,Uneducated,51,Male,Generic,Excellent,159,Low Residential - Level1 (ItemClass),,9
+0,Created,5824,3047,0,VeryHealthy,Adult,Uneducated,51,Male,Generic,Excellent,5,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,43709,0,0,ExcellentHealth,Adult,Uneducated,81,Male,Generic,Suberb,173,Low Residential - Level1 (ItemClass),,9
+64297,Created- NeedGoods- Location,2146,12975,0,ExcellentHealth,Adult,Uneducated,57,Female,Generic,Suberb,235,Low Residential - Level1 (ItemClass),Olivia Williams,9
+42378,Created- Location,36120,16855,0,ExcellentHealth,Adult,Uneducated,47,Male,Generic,Excellent,17,Low Residential - Level1 (ItemClass),Aspen Graham,9
+0,Created- Original,5824,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,12,Low Residential - Level1 (ItemClass),,9
+0,524289,42659,12975,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,154,Low Residential - Level1 (ItemClass),,9
+58733,7880705,44118,0,0,VeryHealthy,Adult,Uneducated,49,Female,Generic,Excellent,95,Low Residential - Level1 (ItemClass),Anna Lewis,9
+0,10485761,19975,0,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,204,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,42659,0,0,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,30,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,17873,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,245,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,8269,0,0,ExcellentHealth,Teen,Uneducated,50,Male,Generic,Suberb,227,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,15672,0,0,ExcellentHealth,Young,Uneducated,67,Male,Generic,Suberb,85,Low Residential - Level1 (ItemClass),,9
+0,51380229,35799,38136,28554,VerySick,Adult,Uneducated,25,Male,Generic,Bad,212,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+0,Created,13718,0,0,VeryHealthy,Child,Uneducated,40,Male,Generic,Excellent,177,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,18634,0,0,ExcellentHealth,Teen,Uneducated,87,Male,Generic,Suberb,160,Low Residential - Level1 (ItemClass),,9
+0,Created,38135,44616,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,217,Low Residential - Level1 (ItemClass),,9
+4533,Created- NeedGoods- Location,42659,27866,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,154,Low Residential - Level1 (ItemClass),Jeremy Miller,9
+0,524289,36211,26315,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,145,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36538,0,0,ExcellentHealth,Teen,Uneducated,92,Male,Generic,Suberb,83,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13023,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,154,Low Residential - Level1 (ItemClass),,9
+0,10502273,19975,0,0,ExcellentHealth,Adult,Uneducated,55,Male,Generic,Excellent,52,Low Residential - Level1 (ItemClass),,9
+0,51412997,12618,0,32197,VerySick,Teen,Uneducated,0,Male,Generic,Bad,165,Low Residential - Level1 (ItemClass),,9
+17629,Created- Location,23880,0,0,PoorHealth,Adult,Uneducated,50,Male,Generic,Excellent,100,Low Residential - Level1 (ItemClass),Jeremy Webb,9
+0,Created- Original,25298,0,0,ExcellentHealth,Teen,Uneducated,41,Male,Generic,Excellent,82,Low Residential - Level1 (ItemClass),,9
+0,66060293,33831,0,28554,VerySick,Adult,Uneducated,16,Male,Generic,Bad,61,Low Residential - Level1 (ItemClass),,9
+19246,14155777,44171,0,0,ExcellentHealth,Adult,Uneducated,63,Male,Generic,Suberb,4,Low Residential - Level1 (ItemClass),Albert Phillips,9
+0,10502273,38492,0,0,VeryHealthy,Adult,Uneducated,61,Male,Generic,Suberb,213,Low Residential - Level1 (ItemClass),,9
+0,524289,25044,27866,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,169,Low Residential - Level1 (ItemClass),,9
+0,671629313,1144,26315,0,PoorHealth,Adult,Uneducated,63,Male,Generic,Excellent,179,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11801,0,0,ExcellentHealth,Teen,Uneducated,68,Male,Generic,Suberb,100,Low Residential - Level1 (ItemClass),,9
+45843,35127297,35589,0,0,VerySick,Teen,Uneducated,13,Female,Generic,Bad,77,Low Residential - Level1 (ItemClass),Rosemary Young,9
+0,Created- Original,1992,0,0,VeryHealthy,Child,Uneducated,60,Male,Generic,Suberb,189,Low Residential - Level1 (ItemClass),,9
+0,524289,31117,27866,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,220,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11659,0,0,VeryHealthy,Child,Uneducated,72,Male,Generic,Suberb,150,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,13044,0,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,238,Low Residential - Level1 (ItemClass),,9
+0,1064961,34317,14193,5757,ExcellentHealth,Young,Uneducated,43,Male,Generic,Excellent,156,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,1499,0,0,ExcellentHealth,Adult,Uneducated,39,Male,Generic,Excellent,241,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25298,0,0,VeryHealthy,Child,Uneducated,37,Male,Generic,Excellent,245,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,25905,0,0,VeryHealthy,Child,Uneducated,54,Male,Generic,Excellent,101,Low Residential - Level1 (ItemClass),,9
+1454,Created- Location,41775,14193,0,ExcellentHealth,Adult,Uneducated,77,Female,Generic,Suberb,212,Low Residential - Level1 (ItemClass),Holly Gray,9
+0,1048577,47095,26315,35234,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,120,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,40287,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,68,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,22623,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,141,Low Residential - Level1 (ItemClass),,9
+0,1081345,5824,0,3977,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,5,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,35832,0,0,ExcellentHealth,Teen,Uneducated,88,Male,Generic,Suberb,187,Low Residential - Level1 (ItemClass),,9
+0,Created,15504,14193,0,ExcellentHealth,Adult,Uneducated,53,Male,Generic,Suberb,80,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Unemployed,1499,0,0,ExcellentHealth,Adult,Uneducated,39,Male,Generic,Excellent,239,Low Residential - Level1 (ItemClass),,9
+12973,9977857,39145,0,0,VeryHealthy,Adult,Uneducated,89,Female,Generic,Suberb,143,Low Residential - Level1 (ItemClass),Heather Campbell,9
+0,1081349,1992,0,28554,Sick,Teen,Uneducated,20,Male,Generic,Poor,233,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,25044,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,4,Low Residential - Level1 (ItemClass),,9
+35312,Created- Location,11158,0,5757,VeryHealthy,Child,Uneducated,29,Female,Generic,Excellent,22,Low Residential - Level1 (ItemClass),Shirley Roberts,9
+0,Created- Original,12692,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,209,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,42659,0,0,ExcellentHealth,Teen,Uneducated,78,Male,Generic,Suberb,165,Low Residential - Level1 (ItemClass),,9
+0,Created,33831,26315,0,ExcellentHealth,Adult,Uneducated,84,Male,Generic,Suberb,85,Low Residential - Level1 (ItemClass),,9
+43916,3686401,39145,0,0,VeryHealthy,Adult,Uneducated,93,Female,Generic,Suberb,236,Low Residential - Level1 (ItemClass),Faith Murray,9
+0,Created,14413,0,0,ExcellentHealth,Teen,Uneducated,67,Male,Generic,Suberb,71,Low Residential - Level1 (ItemClass),,9
+0,Created,22855,29457,0,ExcellentHealth,Adult,Uneducated,55,Male,Generic,Suberb,67,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,1992,0,0,VeryHealthy,Child,Uneducated,60,Male,Generic,Suberb,213,Low Residential - Level1 (ItemClass),,9
+54779,39321601,41201,0,0,VerySick,Adult,Uneducated,34,Male,Generic,Poor,78,Low Residential - Level1 (ItemClass),Robert Harris,9
+0,Created- NeedGoods- Unemployed,22623,0,0,VeryHealthy,Adult,Uneducated,57,Male,Generic,Excellent,229,Low Residential - Level1 (ItemClass),,9
+11494,20447233,38272,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,13,Low Residential - Level1 (ItemClass),Pierce Holmes,9
+0,Created- Education1- Original,36538,0,0,ExcellentHealth,Teen,OneSchool,90,Male,Generic,Suberb,83,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,11158,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,200,Low Residential - Level1 (ItemClass),,9
+0,10502145,25298,0,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,104,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9205,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,82,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14198,0,0,ExcellentHealth,Teen,Uneducated,90,Male,Generic,Suberb,199,Low Residential - Level1 (ItemClass),,9
+0,1081345,9238,0,5757,ExcellentHealth,Teen,Uneducated,45,Male,Generic,Excellent,212,Low Residential - Level1 (ItemClass),,9
+31342,58195969,18928,0,0,VerySick,Adult,Uneducated,35,Female,Generic,Poor,8,Low Residential - Level1 (ItemClass),Holly Alexander,9
+0,Created- Original,3149,0,0,ExcellentHealth,Teen,Uneducated,65,Male,Generic,Suberb,234,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44172,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,212,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14413,0,0,ExcellentHealth,Child,Uneducated,60,Male,Generic,Suberb,130,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,45128,0,0,ExcellentHealth,Teen,Uneducated,34,Male,Generic,Excellent,208,Low Residential - Level1 (ItemClass),,9
+0,524289,44172,28554,0,VeryHealthy,Adult,Uneducated,86,Male,Generic,Suberb,138,Low Residential - Level1 (ItemClass),,9
+38094,39337985,35799,0,0,VerySick,Adult,Uneducated,34,Female,Generic,Poor,126,Low Residential - Level1 (ItemClass),Sabrina Price,9
+0,1048577,22855,3047,44856,ExcellentHealth,Adult,Uneducated,55,Male,Generic,Suberb,134,Low Residential - Level1 (ItemClass),,9
+0,1081729,12735,0,45823,ExcellentHealth,Teen,Uneducated,73,Male,Generic,Suberb,152,Low Residential - Level1 (ItemClass),,9
+0,Created,12618,0,0,ExcellentHealth,Teen,Uneducated,48,Male,Generic,Excellent,165,Low Residential - Level1 (ItemClass),,9
+0,Created,19975,5742,0,ExcellentHealth,Adult,Uneducated,61,Male,Generic,Suberb,0,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,45128,0,0,VeryHealthy,Child,Uneducated,27,Male,Generic,Excellent,103,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14017,0,0,ExcellentHealth,Teen,Uneducated,73,Male,Generic,Suberb,172,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13023,0,0,VeryHealthy,Child,Uneducated,67,Male,Generic,Suberb,241,Low Residential - Level1 (ItemClass),,9
+0,Created,36211,16855,0,VeryHealthy,Adult,Uneducated,50,Male,Generic,Excellent,177,Low Residential - Level1 (ItemClass),,9
+0,524289,4820,38136,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,86,Low Residential - Level1 (ItemClass),,9
+0,Created,35832,26315,0,ExcellentHealth,Adult,Uneducated,100,Male,Generic,Suberb,168,Low Residential - Level1 (ItemClass),,9
+0,524289,9939,25710,0,ExcellentHealth,Young,Uneducated,82,Male,Generic,Suberb,63,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14413,0,0,ExcellentHealth,Teen,Uneducated,67,Male,Generic,Suberb,75,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,2146,0,0,ExcellentHealth,Teen,Uneducated,49,Male,Generic,Suberb,235,Low Residential - Level1 (ItemClass),,9
+35334,Created,44171,15285,0,ExcellentHealth,Adult,Uneducated,70,Female,Generic,Suberb,148,Low Residential - Level1 (ItemClass),Amanda Williams,9
+0,524289,19254,47214,0,VeryHealthy,Adult,Uneducated,100,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,43773,0,0,ExcellentHealth,Teen,Uneducated,46,Male,Generic,Excellent,21,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12204,0,0,ExcellentHealth,Child,Uneducated,56,Male,Generic,Suberb,83,Low Residential - Level1 (ItemClass),,9
+26759,524289,11158,16862,0,ExcellentHealth,Adult,Uneducated,38,Female,Generic,Excellent,200,Low Residential - Level1 (ItemClass),Elisabeth Crowley,9
+575,7864321,44118,0,0,VeryHealthy,Adult,Uneducated,49,Male,Generic,Excellent,95,Low Residential - Level1 (ItemClass),Tyler Lewis,9
+0,540673,25298,16855,0,ExcellentHealth,Adult,Uneducated,44,Male,Generic,Excellent,7,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods,25106,19636,0,ExcellentHealth,Adult,Uneducated,97,Male,Generic,Suberb,15,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13313,0,0,Healthy,Child,Uneducated,44,Male,Generic,Excellent,72,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,39471,0,0,ExcellentHealth,Child,Uneducated,61,Male,Generic,Suberb,24,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9238,0,0,ExcellentHealth,Child,Uneducated,51,Male,Generic,Excellent,252,Low Residential - Level1 (ItemClass),,9
+0,33587201,40634,0,0,VerySick,Child,Uneducated,18,Male,Generic,Bad,233,Low Residential - Level1 (ItemClass),,9
+0,8404993,9205,0,0,VeryHealthy,Adult,Uneducated,48,Male,Generic,Excellent,122,Low Residential - Level1 (ItemClass),,9
+0,Created,19254,23381,0,VeryHealthy,Adult,Uneducated,100,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),,9
+60839,58195969,32412,0,0,VerySick,Adult,Uneducated,0,Male,Generic,Bad,35,Low Residential - Level1 (ItemClass),James Williams,9
+14154,9961473,19975,0,10273,ExcellentHealth,Adult,Uneducated,57,Male,Generic,Excellent,25,Low Residential - Level1 (ItemClass),Tyler Greenaway,9
+1220,Created- Original- Location,41286,0,5696,VeryHealthy,Child,Uneducated,57,Male,Generic,Excellent,171,Low Residential - Level1 (ItemClass),Tony Crowley,9
+0,Created,14166,35192,0,VeryHealthy,Adult,Uneducated,94,Male,Generic,Suberb,98,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,44172,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,106,Low Residential - Level1 (ItemClass),,9
+0,12582913,14938,0,0,ExcellentHealth,Adult,Uneducated,42,Male,Generic,Excellent,62,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,4292,0,0,PoorHealth,Child,Uneducated,54,Male,Generic,Excellent,127,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,45735,0,0,VeryHealthy,Child,Uneducated,53,Male,Generic,Excellent,111,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,14413,0,0,ExcellentHealth,Child,Uneducated,60,Male,Generic,Suberb,61,Low Residential - Level1 (ItemClass),,9
+44008,39321601,42081,0,0,VerySick,Adult,Uneducated,8,Male,Generic,Bad,15,Low Residential - Level1 (ItemClass),Howard Mason,9
+42461,Created- Location- BadHealth,10798,0,0,VerySick,Teen,Uneducated,29,Female,Generic,Bad,210,Low Residential - Level1 (ItemClass),Audrey Dixon,9
+0,524289,12329,45992,0,ExcellentHealth,Adult,Uneducated,47,Male,Generic,Excellent,22,Low Residential - Level1 (ItemClass),,9
+0,Created- Criminal- Original,44172,0,0,ExcellentHealth,Teen,Uneducated,66,Male,Generic,Suberb,163,Low Residential - Level1 (ItemClass),,9
+0,15728641,11801,0,5757,VeryHealthy,Young,Uneducated,44,Male,Generic,Excellent,195,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,36538,0,0,ExcellentHealth,Teen,Uneducated,92,Male,Generic,Suberb,139,Low Residential - Level1 (ItemClass),,9
+0,12582913,4820,0,0,ExcellentHealth,Adult,Uneducated,96,Male,Generic,Suberb,34,Low Residential - Level1 (ItemClass),,9
+0,12582913,25298,0,0,ExcellentHealth,Adult,Uneducated,37,Male,Generic,Excellent,25,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,38135,0,0,ExcellentHealth,Teen,Uneducated,35,Male,Generic,Excellent,8,Low Residential - Level1 (ItemClass),,9
+0,8388609,42659,0,0,ExcellentHealth,Adult,Uneducated,96,Male,Generic,Suberb,116,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,13023,0,0,ExcellentHealth,Teen,Uneducated,77,Male,Generic,Suberb,243,Low Residential - Level1 (ItemClass),,9
+0,8388609,29485,0,0,ExcellentHealth,Young,Uneducated,60,Male,Generic,Suberb,105,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,3149,0,0,VeryHealthy,Child,Uneducated,59,Male,Generic,Excellent,107,Low Residential - Level1 (ItemClass),,9
+0,8388609,14017,0,0,VeryHealthy,Adult,Uneducated,77,Male,Generic,Suberb,199,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,12692,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,209,Low Residential - Level1 (ItemClass),,9
+0,8388609,13023,0,0,VeryHealthy,Adult,Uneducated,86,Male,Generic,Suberb,154,Low Residential - Level1 (ItemClass),,9
+0,17301509,23880,12975,0,VerySick,Young,Uneducated,13,Male,Generic,Bad,32,Low Residential - Level1 (ItemClass),,9
+8163,60309505,35799,0,0,VerySick,Adult,Uneducated,21,Male,Generic,Bad,126,Low Residential - Level1 (ItemClass),Albert Price,9
+0,Created- NeedGoods- Original,11158,0,0,VeryHealthy,Child,Uneducated,29,Male,Generic,Excellent,32,Low Residential - Level1 (ItemClass),,9
+0,Created- NeedGoods- Original,34317,0,0,ExcellentHealth,Teen,Uneducated,42,Male,Generic,Excellent,33,Low Residential - Level1 (ItemClass),,9
+0,51412997,1144,0,28554,VerySick,Teen,Uneducated,29,Male,Generic,Bad,134,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9205,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,150,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,33831,0,0,ExcellentHealth,Child,Uneducated,63,Male,Generic,Suberb,30,Low Residential - Level1 (ItemClass),,9
+0,8388609,5824,0,0,VeryHealthy,Adult,Uneducated,47,Male,Generic,Excellent,0,Low Residential - Level1 (ItemClass),,9
+0,Created- Unemployed,11158,0,0,ExcellentHealth,Adult,Uneducated,28,Male,Generic,Excellent,134,Low Residential - Level1 (ItemClass),,9
+0,Created,25298,37196,0,ExcellentHealth,Adult,Uneducated,44,Male,Generic,Excellent,245,Low Residential - Level1 (ItemClass),,9
+0,Created- Original,9205,0,0,ExcellentHealth,Teen,Uneducated,60,Male,Generic,Suberb,205,Low Residential - Level1 (ItemClass),,9
+0,8388609,33831,0,0,ExcellentHealth,Adult,Uneducated,80,Male,Generic,Suberb,24,Low Residential - Level1 (ItemClass),,9
+0,12599297,11801,0,0,ExcellentHealth,Adult,Uneducated,90,Male,Generic,Suberb,130,Low Residential - Level1 (ItemClass),,9
+0,Created- Education1- NeedGoods,14166,17795,0,VeryHealthy,Adult,OneSchool,89,Male,Generic,Suberb,230,Low Residential - Level1 (ItemClass),,9
+0,8388609,14017,0,0,VeryHealthy,Adult,Uneducated,77,Male,Generic,Suberb,136,Low Residential - Level1 (ItemClass),,9
+0,Created,11158,3475,0,ExcellentHealth,Adult,Uneducated,38,Male,Generic,Excellent,7,Low Residential - Level1 (ItemClass),,9

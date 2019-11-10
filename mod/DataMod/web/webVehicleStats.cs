@@ -15,7 +15,6 @@ namespace data
         {
              
             vehiclestats vehicle = new vehiclestats();
-            
 
             return HtmlResponse(vehicle.getAllVehicles());
         }

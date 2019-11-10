@@ -97,7 +97,7 @@ namespace data
             {
                 get
                 {
-                    return this.m_Service.ToString()+","+ m_SubService.ToString() +","+m_Level;
+                    return this.m_Service.ToString()+","+ m_SubService.ToString() +","+m_Level + Environment.NewLine;
                 }
             }
 

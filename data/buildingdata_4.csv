@@ -1,0 +1,216 @@
+id, flags, type, happiness, health, youngs, teens, adults, seniors, p_electric, p_heating, p_water, p_worker, p_health, p_service, p_tax, x,y,z
+580,Created- Completed- Active,cargoyard (BuildingInfo),95,77,0,0,0,0,0,0,0,0,0,0,0,-441.9033,220.4997,316.5344
+746,Created- Completed,H1 4x4 Bigfactory01 (BuildingInfo),71,81,0,2,2,0,0,0,0,0,0,0,0,-505.7216,214.6793,311.715
+1499,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),57,74,1,3,9,0,0,0,0,0,0,0,0,475.2346,261.5621,419.9265
+1992,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),73,77,2,5,11,0,0,0,0,0,0,0,0,479.0465,256.5204,719.9288
+2146,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),64,79,3,7,13,0,0,0,0,0,0,0,0,475.202,261.7813,471.9264
+2852,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse_Corner (BuildingInfo),59,84,0,4,2,0,0,0,0,0,0,0,0,723.2571,283.2739,384.0819
+2900,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),19,85,0,0,0,0,0,0,0,255,0,0,0,475.2497,261.3746,395.9265
+3047,Created- Completed- Active,H1 4x4 Sweatshop02 (BuildingInfo),96,81,0,0,0,0,0,0,0,0,0,0,0,-525.2907,212.2921,358.3739
+3059,Created- Completed- Active,L1 3x4 Detached08 (BuildingInfo),90,85,1,2,4,0,0,0,0,0,0,0,0,87.08163,221.5313,663.6831
+3116,Created- Completed- Active- ZonesUpdated,Advanced Wind Turbine (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-618.4167,185.7344,274.8983
+3149,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse01 (BuildingInfo),72,79,1,2,11,0,0,0,0,0,0,0,0,-108.7804,221.5469,443.5602
+3269,Created- HighDensity- Completed- Abandoned,H1_4x4_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-108.8832,221.5156,607.5602
+3274,Created- HighDensity- Completed- Abandoned,H1_2x2_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,519.0314,254.5517,743.954
+3475,Created- Completed- Active,H1 3x3 Sweatshop04 (BuildingInfo),95,76,0,0,0,0,0,0,0,0,0,0,0,763.0189,301.7645,764.1069
+4065,Created- Completed- Active- ZonesUpdated,Advanced Wind Turbine (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-637.1597,186.9688,319.796
+4292,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse (BuildingInfo),79,80,0,0,5,0,0,0,0,0,0,0,0,459.0214,246.4717,759.9163
+4393,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse (BuildingInfo),85,78,2,1,4,0,0,0,0,0,0,0,0,-68.91329,221.5,655.5853
+4820,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),88,82,1,3,18,0,0,0,0,0,0,0,0,-60.86815,221.5313,583.5903
+5482,Created- Completed- Active,L1 4x3 Detached12 (BuildingInfo),69,67,0,4,4,0,0,0,0,0,0,0,0,59.08163,221.5313,663.6655
+5542,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),13,31,0,2,6,0,0,0,0,0,4,0,0,-274.3803,221.5945,329.1853
+5633,Created- HighDensity- Completed- Active,H1_1x1_Blockhouse (BuildingInfo),81,82,0,2,2,0,0,0,0,0,0,0,0,-72.83053,221.5313,523.5828
+5742,Created- Completed- Active,L1 1x2 Shop04 (BuildingInfo),75,79,0,0,1,0,0,0,0,0,0,0,0,245.5934,222.488,836.3782
+5776,Created- HighDensity- Completed- Abandoned,H1_2x4_CommercialBlockhouse (BuildingInfo),14,68,0,0,5,0,0,0,0,255,0,0,0,418.9963,236.9239,799.8912
+5824,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),62,77,0,2,18,0,0,0,0,0,0,0,0,-138.7664,221.5313,339.4265
+6076,Created- Completed- Active,H1_officebuilding02EU_4x4 (BuildingInfo),68,83,0,13,20,0,0,0,0,45,0,0,0,243.1167,222.8769,607.7809
+6232,Created- Completed- Active,4x4_Factory_EU02 (BuildingInfo),95,75,0,0,0,0,0,0,0,0,0,0,0,763.0339,303.2435,740.1069
+6894,Created- Completed- Active,L1 1x2 Shop04 (BuildingInfo),78,82,0,0,2,0,0,0,0,0,0,0,0,182.9663,221.5625,847.7433
+7471,Created- FixedHeight- Completed- Active- ZonesUpdated,Water Tower (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-5.346771,219.5367,847.3607
+8269,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),66,80,2,8,14,0,0,0,0,0,0,0,0,479.1819,261.8748,503.9289
+8494,Created- Completed,H1 4x4 Bigfactory01 (BuildingInfo),71,81,0,0,0,0,0,0,0,0,0,0,0,618.9963,282.6237,800.0167
+8567,Created- HighDensity- Completed- Abandoned,H1_4x3_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-325.8586,221.6719,373.4344
+8888,Created- HighDensity- Completed- Abandoned,H1_3x3_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,715.0389,303.8211,732.0768
+9205,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),60,71,3,5,15,0,0,0,0,0,0,0,0,-174.2901,221.5436,384.8805
+9238,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),59,75,0,2,13,0,0,0,0,0,0,0,0,523.202,261.7813,471.9565
+9756,Created- Completed- Abandoned,H1_officebuilding02EU_4x4b (BuildingInfo),0,0,0,0,0,0,0,0,0,255,0,0,0,243.1719,223.6121,519.7809
+9939,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),71,66,2,6,10,0,0,0,0,0,0,0,0,299.039,223.7055,731.816
+10146,Created- Completed- Active,cargoyard (BuildingInfo),96,71,0,0,0,0,0,0,0,0,0,0,0,586.9963,275.1318,799.9966
+10320,Created- Completed- Active- ZonesUpdated,Combustion Plant (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,715.4,280.6232,156.0769
+10616,Created- HighDensity- Completed- Abandoned,H1_3x2_Blockhouse_Corner (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,479.0214,251.4871,759.9289
+11158,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),58,83,0,14,20,0,0,0,0,0,0,0,0,651.2521,280.5041,392.0368
+11248,Created- HighDensity- Completed- Abandoned,H1_3x4_CommercialBlockhouse (BuildingInfo),11,81,0,0,1,0,0,0,0,255,0,0,0,310.9963,224.7392,799.8235
+11659,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),84,80,0,4,12,0,0,0,0,0,0,0,0,-60.8857,221.5296,611.5903
+11801,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),76,77,4,4,10,0,0,0,0,0,0,0,0,383.0264,231.7354,751.8686
+11937,Created- HighDensity- Completed- Active- ZonesUpdated,H1_1x1_Blockhouse (BuildingInfo),87,82,0,2,2,0,0,0,0,0,0,0,0,-96.93085,221.4688,683.5677
+12042,Created- HighDensity- Completed- Abandoned,H1_3x2_Blockhouse01 (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,679.0264,294.3331,752.0542
+12204,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),60,72,0,3,11,0,0,0,0,0,0,0,0,479.1418,261.6877,567.929
+12314,Created- HighDensity- Completed- Abandoned,H1_4x3_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,255,0,0,0,0,-108.7979,221.5313,471.5602
+12329,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),59,76,2,2,10,0,0,0,0,0,0,0,0,523.2396,261.4995,411.9565
+12618,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),62,77,2,5,10,0,0,0,0,0,0,0,0,475.2195,261.7029,443.9265
+12692,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),65,77,1,6,12,0,0,0,0,0,0,0,0,-218.1652,221.547,381.5672
+12735,Created- HighDensity- Completed- Active,H1_2x4_Blockhouse (BuildingInfo),73,76,0,5,9,0,0,0,0,0,0,0,0,-108.828,221.5313,519.5602
+12785,Created- Completed- Active,H1 4x3 Bigfactory05 (BuildingInfo),95,78,0,0,0,0,0,0,0,0,0,0,0,-354.1532,221.7021,323.161
+12975,Created- Completed- Active,H1 3x3 Sweatshop07 (BuildingInfo),95,77,0,0,0,0,0,0,0,0,0,0,0,-497.3702,216.0851,360.4823
+13023,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),69,70,0,8,14,0,0,0,0,0,0,0,0,-108.8431,221.5173,543.5602
+13044,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse_Corner (BuildingInfo),82,78,0,0,6,0,0,0,0,0,0,0,0,291.0239,223.3773,755.8109
+13313,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),54,65,0,1,10,0,0,0,0,0,0,0,0,-297.938,221.625,375.5429
+13718,Created- HighDensity- Completed- Active,H1_2x3_Blockhouse (BuildingInfo),63,82,2,3,6,0,0,0,0,0,0,0,0,539.2546,266.827,387.9666
+13786,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),17,73,0,0,0,0,0,0,0,255,0,0,0,258.4245,223.0208,670.8887
+14017,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),74,75,1,2,12,0,0,0,0,0,0,0,0,-108.8155,221.5313,499.5602
+14104,Created- HighDensity- Completed- Abandoned,H1_2x4_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,659.0264,290.5959,752.0417
+14133,Created- HighDensity- Completed- Abandoned,H1_4x3_Blockhouse (BuildingInfo),11,17,0,1,2,0,0,0,0,0,0,0,0,611.0264,280.8184,752.0117
+14166,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),76,71,2,5,12,0,0,0,0,0,0,0,0,-108.9007,221.5156,635.5602
+14193,Created- Completed- Active,H1 2x2 Sweatshop06 (BuildingInfo),96,84,0,0,0,0,0,0,0,0,0,0,0,-597.0862,193.1093,352.9521
+14198,Created- Completed- Active,L1 3x4 Detached04a (BuildingInfo),88,83,0,2,4,0,0,0,0,0,0,0,0,31.08164,221.5313,663.6479
+14237,Created- HighDensity- Completed- Active,H1_2x4_Blockhouse (BuildingInfo),55,76,0,2,7,0,0,0,0,0,0,0,0,715.2471,284.9167,400.0769
+14413,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),75,83,0,2,8,0,0,0,0,0,0,0,0,515.0791,259.4552,667.9514
+14445,Created- HighDensity- Completed- Abandoned,H1_4x3_Blockhouse (BuildingInfo),2,0,0,3,2,0,0,0,0,0,0,0,0,715.1317,301.7101,584.0768
+14700,Created- HighDensity- Completed- Active,H1_1x1_Blockhouse (BuildingInfo),85,81,0,3,2,0,0,0,0,0,0,0,0,-107.463,221.4678,687.1667
+14938,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),66,84,2,3,13,0,0,0,0,0,0,0,0,523.222,261.6873,439.9565
+14968,Created- Completed- Active,4x4_Factory_EU02 (BuildingInfo),96,75,0,0,0,0,0,0,0,0,0,0,0,763.049,304.8849,716.1069
+15046,Created- Completed- Abandoned,H1_officebuilding04EU_4x4 (BuildingInfo),19,87,0,0,0,0,0,0,0,255,0,0,0,195.1217,222.9393,599.7509
+15285,Created- Completed- Active- ZonesUpdated,Landfill Site (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,779.3875,280.2326,176.117
+15429,Created- Completed- Active,4x4_Factory_EU02 (BuildingInfo),96,81,0,0,0,0,0,0,0,0,0,0,0,763.1693,296.0406,524.1069
+15504,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),68,86,1,5,9,0,0,0,0,0,0,0,0,519.1644,261.875,531.954
+15672,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),81,86,1,5,9,0,0,0,0,0,0,0,0,479.0866,259.8771,655.9289
+15798,Created- HighDensity- Completed- Abandoned,H1_3x3_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,255,0,0,0,0,-60.80545,221.5313,483.5903
+16156,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),19,85,0,0,0,0,0,0,0,255,0,0,0,195.1895,223.8777,491.7508
+16632,Created- FixedHeight- Completed- Active- ZonesUpdated,Water Tower (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-5.346771,219.534,831.3607
+16855,Created- Completed- Active,3x3_Factory_EU09 (BuildingInfo),96,83,0,0,0,0,0,0,0,0,0,0,0,-377.7109,221.6272,369.5187
+16862,Created- Completed- Active,H1 4x4 Mediumfactory03 (BuildingInfo),95,76,0,0,0,0,0,0,0,0,0,0,0,-469.4497,218.8366,362.5908
+17081,Created- Completed- Active,L1 4x3 Detached12 (BuildingInfo),89,85,0,6,6,0,0,0,0,0,0,0,0,2.656502,221.5313,663.5649
+17166,Created- Completed- Abandoned,H1 3x3 Sweatshop07 (BuildingInfo),46,75,0,0,0,0,0,0,0,0,0,0,0,-353.7791,221.7031,371.326
+17207,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),64,65,2,4,10,0,0,0,0,0,0,0,0,439.0264,242.1532,751.9037
+17273,Created- Completed- Abandoned,L3 1x1 Shop (BuildingInfo),33,50,0,0,1,0,0,0,0,0,0,0,0,259.8124,222.6176,833.9659
+17795,Created- Completed- Active,H1_2x2_Officeblock (BuildingInfo),77,78,0,0,0,0,0,0,0,0,0,0,0,237.2804,222.3716,675.0031
+17873,Created- HighDensity- Completed- Active,H1_1x1_Blockhouse (BuildingInfo),89,84,0,3,2,0,0,0,0,0,0,0,0,-72.92583,221.4704,675.5828
+18634,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse (BuildingInfo),83,77,0,5,6,0,0,0,0,0,0,0,0,-100.9233,221.4844,671.5652
+18926,Created- Completed- Active,H1_officebuilding02EU_4x4 (BuildingInfo),63,82,0,6,20,0,0,0,0,46,0,0,0,243.192,223.9247,487.7809
+19005,Created- HighDensity- Completed- Abandoned,H1_4x3_CommercialBlockhouse (BuildingInfo),12,77,0,0,5,0,0,0,0,255,0,0,0,338.9963,227.0364,799.8411
+19178,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse (BuildingInfo),76,73,2,3,8,0,0,0,0,0,0,0,0,-108.9133,221.4892,655.5602
+19254,Created- HighDensity- Completed- Active,H1_1x1_Blockhouse (BuildingInfo),83,75,0,0,2,0,0,0,0,0,0,0,0,-72.92081,221.4844,667.5828
+19402,Created- Completed- Active,3x3_Factory_EU09 (BuildingInfo),96,76,0,0,0,0,0,0,0,0,0,0,0,-553.2112,205.2602,356.2654
+19636,Created- Completed- Active,H1 3x3 Sweatshop04 (BuildingInfo),96,79,0,0,0,0,0,0,0,0,0,0,0,763.1191,303.0524,604.1069
+19701,Created- HighDensity- Completed- Abandoned,H1_2x3_Blockhouse_Corner (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,519.0214,253.3943,759.9539
+19856,Created- Completed- Abandoned,L1_3x2_Shop_10 (BuildingInfo),30,81,0,0,1,0,0,0,0,0,0,0,0,234.5124,221.8201,852.1313
+19975,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),63,74,0,5,18,0,0,0,0,0,0,0,0,-142.381,221.5313,387.2902
+20027,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),70,85,0,5,10,0,0,0,0,0,0,0,0,479.1619,261.8596,535.9289
+20259,Created- HighDensity- Completed- Abandoned,H1_4x4_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,715.1919,292.384,488.0768
+20964,Created- HighDensity- Completed- Abandoned,H1_2x2_CommercialBlockhouse_Corner (BuildingInfo),21,82,0,0,4,0,0,0,0,0,0,0,0,291.0013,223.4614,791.811
+21211,Created- FixedHeight- Completed- ZonesUpdated,957598160.Farm 1A_Data (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-141.3435,221.4063,795.2744
+21904,Created- FixedHeight- Completed- Active,Water Outlet (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-15.02568,195.492,-865.8184
+22290,Created- Completed- Active,H1_2x2_Officeblock (BuildingInfo),20,0,0,0,0,0,0,0,0,65,0,0,0,187.2572,224.2654,383.7458
+22377,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse (BuildingInfo),56,72,1,0,2,0,0,0,0,0,0,0,0,707.2571,282.5297,384.0719
+22623,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),67,74,0,4,16,0,0,0,0,0,0,0,0,-108.7628,221.5313,415.5602
+22687,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),66,72,0,0,6,0,0,0,0,0,0,0,0,515.064,258.5027,691.9514
+22855,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),68,86,0,4,9,0,0,0,0,0,0,0,0,519.1493,261.7659,555.954
+23381,Created- Completed- Active,L1 1x1 Shop (BuildingInfo),80,82,0,0,2,0,0,0,0,0,0,0,0,166.9662,221.5313,847.7332
+23415,Created- Completed- Active,H1 3x3 Sweatshop07 (BuildingInfo),95,77,0,0,0,0,0,0,0,0,0,0,0,763.1342,301.3976,580.107
+23585,Created- Completed- Abandoned,L1 4x3 Shop03b 1a (BuildingInfo),29,81,0,0,4,0,0,0,0,0,0,0,0,138.9662,221.5469,847.7157
+23588,Created- Completed- Active,Wind Turbine (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,36.7357,212.6172,-822.2222
+23647,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse (BuildingInfo),76,84,0,1,4,0,0,0,0,0,0,0,0,515.0916,260.1427,647.9514
+24553,Created- Completed- Active,H1_officebuilding02EU_4x4 (BuildingInfo),63,84,0,4,19,0,0,0,0,46,0,0,0,243.1518,223.3456,551.7809
+24887,Created- Completed- Abandoned,H1_4x3_officeblock (BuildingInfo),23,84,0,0,0,0,0,0,0,255,0,0,0,195.1619,223.4862,535.7508
+25044,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),53,75,1,5,17,0,0,0,0,0,0,0,0,683.2521,281.818,392.0569
+25106,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),74,73,1,4,15,0,0,0,0,0,0,0,0,355.0264,228.4734,751.851
+25298,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),63,85,2,11,16,0,0,0,0,0,0,0,0,587.2521,274.3491,391.9967
+25710,Created- Completed- Active,H1 3x3 Sweatshop07 (BuildingInfo),97,82,0,0,0,0,0,0,0,0,0,0,0,558.9963,268.2222,799.979
+25905,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),68,79,2,3,14,0,0,0,0,0,0,0,0,-106.8573,221.5313,341.8362
+26315,Created- Completed- Active,3x3_Factory_EU09 (BuildingInfo),96,74,0,0,0,0,0,0,0,0,0,0,0,763.084,305.5649,660.1069
+26589,Created- Completed- Active,H1 4x3 BigFactory06 (BuildingInfo),95,72,0,0,0,0,0,0,0,0,0,0,0,763.1016,304.5198,632.1069
+26631,Created- HighDensity- Completed- Abandoned,H1_1x1_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,715.1793,294.3855,508.0769
+27003,Created- Completed- Active,H1_officebuilding02EU_4x4 (BuildingInfo),63,82,0,0,0,0,0,0,0,45,0,0,0,195.207,224.1589,463.7509
+27298,Created- Completed- Abandoned,H1 3x3 Sweatshop07 (BuildingInfo),46,82,0,0,0,0,0,0,0,0,0,0,0,678.9962,294.319,800.0543
+27789,Created- Completed- Active,H1 4x4 Mediumfactory03 (BuildingInfo),95,77,0,0,0,0,0,0,0,0,0,0,0,763.1517,298.8683,552.107
+27790,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),9,4,0,5,5,0,0,0,0,0,0,0,0,639.0264,286.8215,752.0292
+27866,Created- Completed- Active,4x4_Factory_EU02 (BuildingInfo),95,77,0,0,0,0,0,0,0,0,0,0,0,-577.1431,198.3137,354.4581
+28554,Created- Completed- Active- ZonesUpdated,medicalclinicEU (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,523.1292,261.5161,587.9565
+28939,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),64,79,1,2,10,0,0,0,0,0,0,0,0,-222.5279,221.5625,333.101
+28979,Created- Completed- Active,H1_2x2_Officeblock_Corner (BuildingInfo),78,87,0,0,0,0,0,0,0,0,0,0,0,203.2572,225.0175,383.7559
+29422,Created- HighDensity- Completed- Abandoned,H1_2x2_CommercialBlockhouse (BuildingInfo),15,75,0,0,5,0,0,0,0,255,0,0,0,458.9963,244.2961,799.9163
+29457,Created- Completed- Active,H1 2x2 Sweatshop05 (BuildingInfo),96,83,0,0,0,0,0,0,0,0,0,0,0,-593.7729,193.108,309.077
+29485,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse (BuildingInfo),63,77,0,1,6,0,0,0,0,0,0,0,0,-198.222,221.5469,383.0732
+30059,Created- Completed- Active,H1_officebuilding02EU_4x4 (BuildingInfo),45,0,0,0,0,0,0,0,0,45,0,0,0,195.2271,224.4871,431.7509
+30546,Created- HighDensity- Completed- Abandoned,H1_4x4_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,579.0264,273.1786,751.9916
+30639,Created- Completed- Active,H1 2x2 Sweatshop03 (BuildingInfo),96,83,0,0,0,0,0,0,0,0,0,0,0,538.9963,263.2034,799.9664
+31117,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),78,80,1,10,13,0,0,0,0,0,0,0,0,-60.7879,221.5469,455.5903
+31240,Created- Completed,H1 4x4 Bigfactory01 (BuildingInfo),71,83,0,0,0,0,0,0,0,0,0,0,0,-537.6307,208.5441,309.3053
+31661,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,255,0,0,0,203.1769,223.6893,511.7558
+31996,Created- HighDensity- Completed- Abandoned,H1_4x3_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,547.0264,264.8974,751.9714
+32038,Created- HighDensity- Completed- Abandoned,H1_3x2_CommercialBlockhouse01 (BuildingInfo),14,82,0,0,6,0,0,0,0,255,0,0,0,398.9963,233.6509,799.8787
+32197,Created- Completed- Active- ZonesUpdated,hospital_EU (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,99.29484,221.8664,323.6907
+32306,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse (BuildingInfo),77,83,0,3,6,0,0,0,0,0,0,0,0,515.0415,255.8642,727.9514
+32775,Created- Completed- Active,H1 4x4 Mediumfactory03 (BuildingInfo),96,81,0,0,0,0,0,0,0,0,0,0,0,-405.6314,221.4213,367.4102
+33806,Created- HighDensity- Completed- Abandoned,H1_4x3_CommercialBlockhouse (BuildingInfo),10,69,0,0,1,0,0,0,0,255,0,0,0,370.9963,230.0131,799.8611
+33831,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),73,77,2,5,12,0,0,0,0,0,0,0,0,479.0665,258.6898,687.9289
+33841,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),74,74,2,8,11,0,0,0,0,0,0,0,0,-108.8631,221.5313,575.5602
+34317,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),59,78,2,5,10,0,0,0,0,0,0,0,0,559.2521,270.7528,391.9791
+35192,Created- Completed- Active,4x3_Factory_EU08 (BuildingInfo),96,82,0,0,0,0,0,0,0,0,0,0,0,763.0665,305.9993,688.1069
+35234,Created- Completed- Active- ZonesUpdated,Library 01 (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,171.0916,221.6958,647.7358
+35601,Created- HighDensity- Completed- Abandoned,H1_4x4_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-60.76783,221.5313,423.5903
+35832,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),87,82,0,11,13,0,0,0,0,0,0,0,0,-60.90075,221.5156,635.5903
+36044,Created- HighDensity- Completed- Active,H1_2x3_Blockhouse (BuildingInfo),85,80,0,1,4,0,0,0,0,0,0,0,0,307.0239,224.4461,755.8209
+36120,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse_Corner (BuildingInfo),65,85,2,5,8,0,0,0,0,0,0,0,0,519.2547,262.6468,387.954
+36211,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),64,74,2,14,16,0,0,0,0,0,0,0,0,-246.0857,221.5625,379.4587
+36303,Created- Completed- Abandoned,H1 4x3 Bigfactory05 (BuildingInfo),46,69,0,0,0,0,0,0,0,0,0,0,0,-569.5399,199.4691,306.8956
+36405,Created- HighDensity- Completed- Active,H1_3x2_CommercialBlockhouse (BuildingInfo),45,0,3,13,1,0,0,0,0,45,0,0,0,290.9888,222.9555,811.8109
+36538,Created- Completed- Active,L1 4x4 Detached11 (BuildingInfo),90,86,0,7,4,0,0,0,0,0,0,0,0,115.0816,221.5589,663.7007
+36892,Created- HighDensity- Completed- Abandoned,H1_4x3_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,715.1667,296.4627,528.0768
+37030,Created- Completed,H1 4x4 Bigfactory01 (BuildingInfo),71,83,0,0,0,0,0,0,0,0,0,0,0,-473.8124,218.1291,314.1247
+37196,Created- Completed- Active,L1 4x3 Shop02a (BuildingInfo),76,77,0,0,5,0,0,0,0,0,0,0,0,202.9662,221.574,847.7559
+37236,Created- Completed- Abandoned,H3 4x4 Mediumfactory08 (BuildingInfo),45,73,0,0,0,0,0,0,0,0,0,0,0,514.9963,257.1284,799.9514
+37958,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse01 (BuildingInfo),50,48,3,3,10,0,0,0,0,0,0,0,0,327.0264,226.0083,751.8335
+38008,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),18,73,0,0,0,0,0,0,0,255,0,0,0,243.2095,224.205,459.7809
+38135,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),49,66,0,6,19,0,0,0,0,0,0,0,0,619.2521,277.9258,392.0167
+38136,Created- Completed- Active,H1 3x3 Sweatshop07 (BuildingInfo),94,63,0,0,0,0,0,0,0,0,0,0,0,-382.0737,221.581,321.0526
+38148,Created- HighDensity- Completed- Active,H1_2x4_Blockhouse (BuildingInfo),13,0,2,2,3,0,0,0,0,0,0,0,0,475.0314,254.5515,743.9263
+38298,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),19,81,0,0,0,0,0,0,0,255,0,0,0,243.0992,222.6268,635.7809
+38424,Created- HighDensity- Completed- Abandoned,H1_4x3_Blockhouse (BuildingInfo),4,0,1,1,2,0,0,0,0,0,0,0,0,715.1116,303.7392,616.0768
+38492,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse01 (BuildingInfo),67,74,2,3,6,0,0,0,0,0,0,0,0,-100.7453,221.5313,387.5652
+38524,Created- HighDensity- Completed- Abandoned,H1_2x2_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,699.0239,297.8609,756.0668
+38570,Created- Completed- Abandoned,H1_officebuilding04EU_4x4 (BuildingInfo),0,0,0,0,0,0,0,0,0,255,0,0,0,243.2472,224.8622,399.781
+39098,Created- Completed- Active- ZonesUpdated,Advanced Wind Turbine (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-650.1025,186.375,362.682
+39471,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),78,86,1,11,9,0,0,0,0,0,0,0,0,479.1067,260.8453,623.9288
+39782,Created- Completed,H1 2x2 Sweatshop03 (BuildingInfo),71,83,0,0,0,0,0,0,0,0,0,0,0,698.9962,297.8622,800.0667
+40215,Created- Completed- Active- Historical,1341215328.TURTULE HOUSE_Data (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,91.05153,221.5313,711.6856
+40287,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),58,82,2,6,14,0,0,0,0,0,0,0,0,715.232,287.5399,424.0769
+40773,Created- HighDensity- Completed- Abandoned,H1_3x3_Blockhouse_Corner (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,719.0239,300.8726,756.0793
+40779,Created- Completed- Abandoned,H1_officebuilding04EU_4x4 (BuildingInfo),0,0,0,0,0,0,0,0,0,255,0,0,0,243.2271,224.4872,431.781
+40853,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),65,80,3,5,9,0,0,0,0,0,0,0,0,-246.4598,221.5781,331.2938
+41286,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse (BuildingInfo),78,84,0,3,6,0,0,0,0,0,0,0,0,515.0515,257.1606,711.9514
+41527,Created- Completed- Abandoned,H1_4x3_officeblock (BuildingInfo),18,85,0,0,0,0,0,0,0,255,0,0,0,195.1418,223.2049,567.7509
+41775,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),74,83,3,7,6,0,0,0,0,0,0,0,0,519.1067,260.8453,623.9539
+42036,Created- Completed- Active- Historical,1341215328.TURTULE HOUSE_Data (BuildingInfo),89,84,0,7,5,0,0,0,0,0,0,0,0,211.0515,222.4359,711.7609
+42221,Created- HighDensity- Completed- Abandoned,H1_3x3_CommercialBlockhouse (BuildingInfo),16,80,0,0,10,0,0,0,0,255,0,0,0,438.9963,240.5219,799.9037
+42659,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),80,78,0,13,15,0,0,0,0,0,0,0,0,-60.84809,221.5296,551.5903
+42773,Created- HighDensity- Completed- Abandoned,H1_3x2_Blockhouse01 (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,715.0539,305.3541,708.0768
+43523,Created- Completed- Active,H1 2x2 Sweatshop05 (BuildingInfo),95,72,0,0,0,0,0,0,0,0,0,0,0,763.1818,293.9776,504.107
+43709,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),81,83,1,10,11,0,0,0,0,0,0,0,0,-60.8205,221.5313,507.5903
+43773,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),68,86,0,5,12,0,0,0,0,0,0,0,0,519.1819,261.8748,503.954
+44118,Created- HighDensity- Completed- Active,H1_2x2_Blockhouse (BuildingInfo),55,64,1,2,4,0,0,0,0,0,0,0,0,-117.8467,221.5313,381.1202
+44171,Created- HighDensity- Completed- Active,H1_3x2_Blockhouse (BuildingInfo),70,80,0,2,10,0,0,0,0,0,0,0,0,479.1242,261.4225,595.9289
+44172,Created- HighDensity- Completed- Active,H1_4x3_Blockhouse (BuildingInfo),68,70,1,9,17,0,0,0,0,0,0,0,0,411.0264,237.494,751.8862
+44616,Created- Completed- Active,4x3_Factory_EU08 (BuildingInfo),95,73,0,0,0,0,0,0,0,0,0,0,0,-409.9942,221.3268,318.9441
+44670,Created- HighDensity- Completed- Abandoned,H1_4x4_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,715.0915,305.1751,648.0768
+44947,Created- HighDensity- Completed- Abandoned,H1_4x4_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,715.0715,305.9539,680.0768
+45128,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),53,73,0,7,15,0,0,0,0,0,0,0,0,715.2119,289.7096,456.0768
+45204,Created- Completed- Abandoned,H1_2x2_Officeblock (BuildingInfo),0,0,0,0,0,0,0,0,0,255,0,0,0,235.0866,222.455,655.7759
+45292,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),59,71,1,3,14,0,0,0,0,0,0,0,0,-198.5961,221.5469,334.9083
+45669,Created- Completed,H1 4x4 Bigfactory01 (BuildingInfo),72,83,0,0,0,0,0,0,0,0,0,0,0,482.9963,249.4011,799.9313
+45694,Created- Completed- Abandoned,H1_3x3_Officeblock (BuildingInfo),19,85,0,0,0,0,0,0,0,255,0,0,0,243.1343,223.0956,579.7809
+45735,Created- HighDensity- Completed- Active,H1_4x4_Blockhouse (BuildingInfo),63,75,5,1,16,0,0,0,0,0,0,0,0,-170.6756,221.5436,337.0168
+45823,Created- Completed- Active- ZonesUpdated,police_station_EU (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-60.74776,221.5313,391.5903
+45862,Created- Completed- Active- ZonesUpdated,Bus Depot (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,66.93113,221.5313,903.6705
+45908,Created- HighDensity- Completed- Active,H1_1x1_Blockhouse (BuildingInfo),87,78,0,0,2,0,0,0,0,0,0,0,0,-103.3447,221.4518,700.9884
+45992,Created- Completed- Active,H1 4x4 Mediumfactory02 (BuildingInfo),95,74,0,0,0,0,0,0,0,0,0,0,0,-437.5406,220.857,365.0005
+46599,Created- HighDensity- Completed- Abandoned,H1_3x2_Blockhouse01 (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-274.0062,221.5938,377.3502
+47095,Created- Completed- Active,L1 4x4 Detached02 (BuildingInfo),74,68,0,6,6,0,0,0,0,0,0,0,0,-29.3435,221.5313,663.5649
+47214,Created- Completed- Active,4x3_Factory_EU08 (BuildingInfo),94,62,0,0,0,0,0,0,0,0,0,0,0,722.9962,301.3178,800.0818
+47453,Created- Completed,H1 4x4 Bigfactory01 (BuildingInfo),71,80,0,0,0,0,0,0,0,0,0,0,0,650.9963,289.0959,800.0367
+48091,Created- HighDensity- Completed- Active,H1_1x1_Blockhouse (BuildingInfo),81,83,0,2,2,0,0,0,0,0,0,0,0,-72.83554,221.5313,531.5828
+48205,Created- HighDensity- Completed- Active,H1_3x3_Blockhouse (BuildingInfo),30,35,1,2,10,0,0,0,0,0,14,0,0,-302.3008,221.6422,327.0768
+48228,Created- Completed- Active- Historical,1341215328.TURTULE HOUSE_Data (BuildingInfo),90,84,0,6,6,0,0,0,0,0,0,0,0,-12.94844,221.5156,711.6204
+48493,Created- Completed- Abandoned,H1_3x4_Officeblock (BuildingInfo),19,83,0,0,0,0,0,0,0,255,0,0,0,195.2446,224.8152,403.7509
+48585,Created- HighDensity- Completed- Abandoned,H1_3x3_Blockhouse (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,-326.2327,221.6875,325.2695
+49043,Created- HighDensity- Completed- Abandoned,H1_3x2_Blockhouse01 (BuildingInfo),0,0,0,0,0,0,0,0,0,0,0,0,0,715.1492,299.2627,556.0768

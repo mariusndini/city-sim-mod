@@ -11,7 +11,7 @@ namespace CityWebServer.Extensibility
         }
 
         public override Guid HandlerID { get { return _handlerID; } }
-
+         
         public override int Priority { get { return _priority; } }
 
         public override string Name { get { return _name; } }

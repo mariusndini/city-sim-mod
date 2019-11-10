@@ -244,7 +244,7 @@ public class vehiclestats
                             + myv.m_targetBuilding + ','
                             + myv.m_touristCount + ','
                             + myv.m_trailingVehicle + ','
-                            + myv.m_waitCounter + ','
+                            + myv.m_waitCounter
                             + Environment.NewLine;
                 count++;
             }

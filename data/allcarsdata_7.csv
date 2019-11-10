@@ -1,0 +1,667 @@
+id,info,flags,type,path,source,destination,tourist,trailing,wait
+1,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,100119,0,0,0,0,0
+21,Scooter (VehicleInfo),Created- Spawned,Vehicle,54131,0,0,1,0,0
+40,Donut Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,18546,19636,735,0,0,0
+46,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,207947,0,0,4,0,0
+117,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,104021,0,0,1,0,0
+137,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,235392,27789,0,0,0,0
+147,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Arriving,Vehicle,198,45862,18537,0,0,0
+151,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Emergency2,Vehicle,220320,32197,35589,0,0,0
+158,Scooter (VehicleInfo),Created- Spawned,Vehicle,179630,0,0,1,8956,0
+178,Sports-car (VehicleInfo),Created- Spawned,Vehicle,96271,0,0,1,0,0
+190,Suv (VehicleInfo),Created- Spawned,Vehicle,104362,0,0,1,0,0
+218,Scooter (VehicleInfo),Created- Spawned,Vehicle,34237,0,0,1,0,0
+225,Hatchback (VehicleInfo),Created- Spawned,Vehicle,50007,0,0,0,0,0
+228,Scooter (VehicleInfo),Created- Spawned,Vehicle,65525,0,0,1,0,0
+235,Scooter (VehicleInfo),Created- Spawned,Vehicle,69933,0,0,1,7998,0
+252,Sports-car (VehicleInfo),Created- Spawned,Vehicle,113259,0,0,0,0,0
+256,Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,19801,45992,735,0,0,0
+279,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+281,Electric Car 04 (VehicleInfo),Created- Spawned,Vehicle,70556,0,0,1,0,0
+341,Hatchback (VehicleInfo),Created- Spawned,Vehicle,237038,0,0,0,0,0
+357,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,32761,0,0,2,0,0
+377,Suv (VehicleInfo),Created- Spawned,Vehicle,78616,0,0,3,0,0
+381,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,207025,0,0,1,0,0
+399,Suv (VehicleInfo),Created- Spawned,Vehicle,157792,0,0,1,0,0
+424,Electric Car 03 (VehicleInfo),Created- Spawned,Vehicle,167765,0,0,1,0,0
+433,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Stopped,Vehicle,53971,45862,23497,0,0,3
+442,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,212404,0,0,0,0,0
+445,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,253261,0,0,5,0,0
+449,Sedan (VehicleInfo),Created- Spawned,Vehicle,106643,0,0,2,0,0
+465,Forestry Truck (VehicleInfo),Created- Spawned- TransferToTarget- Importing- Exporting,Vehicle,211686,24075,24075,0,16103,0
+495,Sports-car (VehicleInfo),Created- Spawned,Vehicle,50124,0,0,1,0,0
+504,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,51352,0,0,2,0,0
+511,Scooter (VehicleInfo),Created- Spawned,Vehicle,110965,0,0,0,0,0
+527,Scooter (VehicleInfo),Created- Spawned,Vehicle,111234,0,0,1,4372,0
+534,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,145288,0,0,1,0,0
+567,Hatchback (VehicleInfo),Created- Spawned,Vehicle,12588,0,0,3,0,0
+574,Sedan (VehicleInfo),Created- Spawned,Vehicle,236935,0,0,1,0,0
+639,Sedan (VehicleInfo),Created- Spawned,Vehicle,160766,0,0,3,0,0
+684,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,162654,0,0,1,0,0
+709,Ambulance (VehicleInfo),Created- TransferToSource- Emergency2- WaitingSpace,Vehicle,87047,32197,38272,0,0,0
+710,Ambulance (VehicleInfo),Created- TransferToSource- Emergency2- WaitingSpace,Vehicle,139865,32197,17494,0,0,0
+717,Sports-car (VehicleInfo),Created- Spawned,Vehicle,181142,0,0,0,0,0
+757,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,100323,0,0,3,0,0
+769,Suv (VehicleInfo),Created- Spawned,Vehicle,100995,0,0,3,0,0
+780,Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,165373,580,30157,0,0,0
+787,Sedan (VehicleInfo),Created- Spawned,Vehicle,23162,0,0,1,0,0
+821,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,108497,0,0,1,0,0
+857,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,136197,45862,18538,0,0,0
+876,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,73276,0,0,1,0,0
+883,Sports-car (VehicleInfo),Created- Spawned,Vehicle,45170,0,0,0,0,0
+921,Sports-car (VehicleInfo),Created- Spawned,Vehicle,178904,0,0,3,0,0
+930,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,183024,0,0,0,0,0
+973,Suv (VehicleInfo),Created- Spawned,Vehicle,48896,0,0,0,0,0
+987,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Arriving,Vehicle,17397,45862,23505,0,0,0
+998,Suv (VehicleInfo),Created- Spawned,Vehicle,48765,0,0,0,0,0
+1032,Hatchback (VehicleInfo),Created- Spawned,Vehicle,233075,0,0,0,0,0
+1033,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,172744,0,0,1,0,0
+1037,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,31037,43523,24075,0,0,0
+1038,Hatchback (VehicleInfo),Created- Spawned,Vehicle,245346,0,0,2,9853,0
+1042,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,193429,0,0,1,0,0
+1050,Tractor (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing- Exporting,Vehicle,259066,30157,0,0,8975,0
+1082,Hatchback (VehicleInfo),Created- Spawned,Vehicle,198121,0,0,1,0,0
+1115,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Arriving,Vehicle,0,45862,16310,0,0,0
+1156,Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,176014,35192,30157,0,0,0
+1173,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,80454,45862,22123,0,0,0
+1199,Sports-car (VehicleInfo),Created- Spawned,Vehicle,32706,0,0,3,0,0
+1201,Scooter (VehicleInfo),Created- Spawned,Vehicle,112836,0,0,2,0,0
+1206,Suv (VehicleInfo),Created- Spawned,Vehicle,81302,0,0,0,0,0
+1226,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,95401,45862,16320,0,0,0
+1235,Suv (VehicleInfo),Created- Spawned,Vehicle,201570,0,0,1,0,0
+1313,Oil Truck (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing,Vehicle,195928,30157,0,0,1520,0
+1325,Tractor (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing- Exporting,Vehicle,5288,30157,0,0,10644,0
+1335,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+1357,Sports-car (VehicleInfo),Created- Spawned,Vehicle,161838,0,0,1,0,0
+1394,Sports-car (VehicleInfo),Created- Spawned,Vehicle,248037,0,0,0,0,0
+1408,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,177080,45862,23505,0,0,0
+1441,Scooter (VehicleInfo),Created- Spawned,Vehicle,40522,0,0,0,0,0
+1461,Electric Car 03 (VehicleInfo),Created- Spawned,Vehicle,243325,0,0,1,0,0
+1475,Scooter (VehicleInfo),Created- Spawned,Vehicle,76984,0,0,1,2378,0
+1492,Hatchback (VehicleInfo),Created- Spawned,Vehicle,56945,0,0,0,0,0
+1503,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,50905,0,0,0,0,0
+1528,Electric Car 04 (VehicleInfo),Created- Spawned,Vehicle,157908,0,0,1,0,0
+1556,Ambulance (VehicleInfo),Created- TransferToSource- Emergency2- WaitingSpace,Vehicle,253033,32197,14683,0,0,0
+1564,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,250609,0,0,5,0,0
+1573,Scooter (VehicleInfo),Created- Spawned,Vehicle,193920,0,0,0,0,0
+1603,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,23433,0,0,2,0,0
+1615,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,42333,0,0,2,0,0
+1630,Hatchback (VehicleInfo),Created- Spawned,Vehicle,156345,0,0,2,0,0
+1635,Sports-car (VehicleInfo),Created- Spawned,Vehicle,121316,0,0,2,0,0
+1686,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,194016,45862,23495,0,0,0
+1721,Sedan (VehicleInfo),Created- Spawned,Vehicle,227724,0,0,0,0,0
+1794,Suv (VehicleInfo),Created- Spawned,Vehicle,245677,0,0,0,0,0
+1830,Scooter (VehicleInfo),Created- Spawned,Vehicle,137123,0,0,0,0,0
+1833,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,181797,45862,23495,0,0,0
+1866,Suv (VehicleInfo),Created- Spawned,Vehicle,26789,0,0,1,15660,0
+1877,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,232556,0,0,2,0,0
+1903,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,32226,0,0,1,0,0
+1917,Suv (VehicleInfo),Created- Spawned,Vehicle,63925,0,0,1,0,0
+1920,Electric Car 03 (VehicleInfo),Created- Spawned,Vehicle,21411,0,0,0,0,0
+1938,Suv (VehicleInfo),Created- Spawned,Vehicle,66326,0,0,1,12275,0
+1940,Oil Truck (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing- Exporting,Vehicle,211658,30157,0,0,13162,0
+1966,Forestry Truck (VehicleInfo),Created- Spawned- TransferToTarget- Importing- Exporting,Vehicle,75588,735,735,0,13215,0
+2029,Sedan (VehicleInfo),Created- Spawned,Vehicle,138692,0,0,1,0,0
+2045,Suv (VehicleInfo),Created- Spawned,Vehicle,31755,0,0,1,9216,0
+2056,Sedan (VehicleInfo),Created- Spawned,Vehicle,118642,0,0,1,0,0
+2168,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+2187,Sedan (VehicleInfo),Created- Spawned,Vehicle,33095,0,0,0,0,0
+2223,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+2281,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,123740,0,0,1,0,0
+2378,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+2510,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,140486,0,0,1,0,0
+2691,Sedan (VehicleInfo),Created- Spawned,Vehicle,233442,0,0,0,0,0
+2700,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,122272,0,0,1,0,0
+2811,Hatchback (VehicleInfo),Created- Spawned,Vehicle,33309,0,0,1,279,0
+2818,Sedan (VehicleInfo),Created- Spawned,Vehicle,138450,0,0,1,0,0
+2892,Sports-car (VehicleInfo),Created- Spawned,Vehicle,123056,0,0,0,0,0
+2951,Sports-car (VehicleInfo),Created- Spawned,Vehicle,175858,0,0,1,0,0
+2963,Sedan (VehicleInfo),Created- Spawned,Vehicle,212551,0,0,1,0,0
+2992,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,72376,14193,0,0,0,0
+3040,Scooter (VehicleInfo),Created- Spawned- Parking,Vehicle,219807,0,0,0,0,0
+3050,Hatchback (VehicleInfo),Created- Spawned,Vehicle,210457,0,0,1,0,0
+3073,Hatchback (VehicleInfo),Created- Spawned,Vehicle,67289,0,0,2,0,0
+3169,Scooter (VehicleInfo),Created- Spawned,Vehicle,54955,0,0,0,0,0
+3174,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,135653,10146,0,0,0,0
+3180,Electric Car 03 (VehicleInfo),Created- Spawned,Vehicle,183159,0,0,2,0,0
+3186,Suv (VehicleInfo),Created- Spawned,Vehicle,160846,0,0,0,0,0
+3199,Scooter (VehicleInfo),Created- Spawned,Vehicle,114597,0,0,1,2223,0
+3348,Bugspray Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,52546,27789,0,0,0,0
+3352,Tractor (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing- Exporting,Vehicle,258406,24075,0,0,15271,0
+3400,Sports-car (VehicleInfo),Created- Spawned,Vehicle,68118,0,0,1,0,0
+3427,Sedan (VehicleInfo),Created- Spawned,Vehicle,26643,0,0,2,0,0
+3439,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,185433,0,0,1,0,0
+3452,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,52390,44616,30157,0,0,0
+3454,Bugspray Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,262127,15429,24075,0,0,0
+3502,Sedan (VehicleInfo),Created- Spawned,Vehicle,205759,0,0,0,0,0
+3539,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,4972,0,0,1,0,0
+3595,Tractor (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing- Exporting,Vehicle,218855,30157,0,0,14440,0
+3604,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,97003,0,0,3,0,0
+3615,Sedan (VehicleInfo),Created- Spawned,Vehicle,131038,0,0,1,0,0
+3628,Suv (VehicleInfo),Created- Spawned,Vehicle,237290,0,0,3,0,0
+3670,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,53100,0,0,1,0,0
+3700,Suv (VehicleInfo),Created- Spawned,Vehicle,209581,0,0,1,0,0
+3758,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,49821,0,0,0,0,0
+3762,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,176149,0,0,3,0,0
+3776,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+3781,Oil Truck (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing- Exporting,Vehicle,92826,24075,0,0,12684,0
+3790,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,212270,0,0,1,0,0
+3812,Scooter (VehicleInfo),Created- Spawned,Vehicle,40472,0,0,0,0,0
+3836,Hatchback (VehicleInfo),Created- Spawned,Vehicle,98682,0,0,0,0,0
+3855,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,70212,0,0,1,0,0
+3921,Sedan (VehicleInfo),Created- Spawned,Vehicle,44512,0,0,2,0,0
+3924,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,118375,0,0,1,0,0
+3926,Suv (VehicleInfo),Created- Spawned,Vehicle,21971,0,0,4,0,0
+3929,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+3996,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,167437,0,0,0,0,0
+4023,Scooter (VehicleInfo),Created- Spawned,Vehicle,252323,0,0,1,0,0
+4038,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,241780,25710,0,0,0,0
+4048,Hatchback (VehicleInfo),Created- Spawned,Vehicle,43250,0,0,1,0,0
+4076,Suv (VehicleInfo),Created- Spawned,Vehicle,109653,0,0,0,0,0
+4083,Train Engine (VehicleInfo),Created- Spawned- Inverted,Vehicle,98432,0,0,0,0,0
+4134,Sports-car (VehicleInfo),Created- Spawned,Vehicle,179193,0,0,0,0,0
+4148,Scooter (VehicleInfo),Created- Spawned,Vehicle,184187,0,0,0,0,0
+4153,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+4174,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,149512,0,0,1,0,0
+4190,Bugspray Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,261211,14968,30157,0,0,0
+4219,Suv (VehicleInfo),Created- Spawned,Vehicle,238008,0,0,1,0,0
+4233,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+4263,Sedan (VehicleInfo),Created- Spawned,Vehicle,24379,0,0,0,0,0
+4271,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Arriving- GoingBack,Vehicle,0,32197,0,0,0,0
+4273,Sports-car (VehicleInfo),Created- Spawned,Vehicle,168957,0,0,0,0,0
+4292,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,159995,0,0,1,0,0
+4295,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Stopped,Vehicle,168845,45862,23501,0,0,5
+4325,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,190697,0,0,1,0,0
+4372,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+4397,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,45302,45862,23495,0,0,0
+4405,Forestry Truck (VehicleInfo),Created- Spawned- TransferToTarget- Arriving- GoingBack- Importing,Vehicle,206110,735,0,0,13271,0
+4421,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Leaving- GoingBack,Vehicle,190252,32197,0,0,0,0
+4473,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+4475,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,28794,0,0,1,0,0
+4504,Suv (VehicleInfo),Created- Spawned,Vehicle,75367,0,0,0,0,0
+4545,Electric Car 04 (VehicleInfo),Created- Spawned,Vehicle,115323,0,0,4,0,0
+4583,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,109364,0,0,1,0,0
+4617,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,133544,0,0,1,0,0
+4631,Scooter (VehicleInfo),Created- Spawned,Vehicle,165609,0,0,0,0,0
+4679,Bugspray Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,35629,3475,24075,0,0,0
+4687,Scooter (VehicleInfo),Created- Spawned,Vehicle,233585,0,0,1,0,0
+4702,Bugspray Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,44420,12975,0,0,0,0
+4723,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,149121,45862,23505,0,0,0
+4839,Hatchback (VehicleInfo),Created- Spawned,Vehicle,2954,0,0,2,8274,0
+4850,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,202716,45862,23507,0,0,0
+4879,Sports-car (VehicleInfo),Created- Spawned,Vehicle,23961,0,0,2,0,0
+4900,Sedan (VehicleInfo),Created- Spawned,Vehicle,63978,0,0,1,0,0
+4907,Sedan (VehicleInfo),Created- Spawned,Vehicle,213508,0,0,2,0,0
+4932,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,218832,0,0,1,0,0
+4958,Sedan (VehicleInfo),Created- Spawned,Vehicle,118884,0,0,1,0,0
+5008,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,144380,0,0,1,0,0
+5013,Scooter (VehicleInfo),Created- Spawned,Vehicle,221875,0,0,1,4233,0
+5014,Sports-car (VehicleInfo),Created- Spawned,Vehicle,40765,0,0,1,0,0
+5015,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,121631,580,30157,0,0,0
+5017,Forestry Truck (VehicleInfo),Created- Spawned- TransferToTarget- Importing- Exporting,Vehicle,153211,735,24075,0,10701,0
+5018,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,193936,27866,0,0,0,0
+5020,Sports-car (VehicleInfo),Created- Spawned,Vehicle,212753,0,0,0,0,0
+5027,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,254784,12975,24075,0,0,0
+5032,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,52532,0,0,1,0,0
+5141,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,171245,0,0,1,0,0
+5159,Electric Car 03 (VehicleInfo),Created- Spawned,Vehicle,143722,0,0,1,0,0
+5162,Scooter (VehicleInfo),Created- Spawned,Vehicle,145869,0,0,2,0,0
+5279,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,91148,0,0,2,0,0
+5289,Suv (VehicleInfo),Created- Spawned,Vehicle,199971,0,0,0,0,0
+5344,Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,90352,26589,24075,0,0,0
+5361,Suv (VehicleInfo),Created- Spawned,Vehicle,29103,0,0,1,0,0
+5364,Scooter (VehicleInfo),Created- Spawned,Vehicle,258103,0,0,1,0,0
+5419,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,84462,0,0,2,0,0
+5434,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,168432,0,0,1,0,0
+5474,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,111538,0,0,2,0,0
+5501,Scooter (VehicleInfo),Created- Spawned,Vehicle,140630,0,0,0,0,0
+5522,Oil Truck (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing- Exporting,Vehicle,116380,24075,0,0,14563,0
+5633,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,46980,0,0,0,0,0
+5653,Scooter (VehicleInfo),Created- Spawned,Vehicle,106134,0,0,1,0,0
+5694,Hatchback (VehicleInfo),Created- Spawned,Vehicle,143650,0,0,1,0,0
+5701,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,197044,0,0,5,0,0
+5711,Scooter (VehicleInfo),Created- Spawned,Vehicle,256911,0,0,0,0,0
+5712,Donut Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,69724,16862,30157,0,0,0
+5737,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,19850,26589,0,0,0,0
+5741,Hatchback (VehicleInfo),Created- Spawned,Vehicle,47913,0,0,1,0,0
+5757,Hatchback (VehicleInfo),Created- Spawned,Vehicle,247141,0,0,1,0,0
+5762,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,233805,0,0,0,0,0
+5796,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,70285,0,0,0,0,0
+5800,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,37547,9975,735,0,0,0
+5801,Scooter (VehicleInfo),Created- Spawned,Vehicle,167800,0,0,1,0,0
+5823,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Stopped- GoingBack,Vehicle,234889,32197,0,0,0,0
+5830,Electric Car 04 (VehicleInfo),Created- Spawned,Vehicle,196110,0,0,0,0,0
+5855,Electric Car 03 (VehicleInfo),Created- Spawned,Vehicle,141933,0,0,0,0,0
+5884,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,224479,16855,735,0,0,0
+5889,Suv (VehicleInfo),Created- Spawned,Vehicle,229672,0,0,3,0,0
+5890,Scooter (VehicleInfo),Created- Spawned,Vehicle,259490,0,0,0,0,0
+5901,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,92611,0,0,1,0,0
+5902,Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,108392,26315,0,0,0,0
+5909,Suv (VehicleInfo),Created- Spawned,Vehicle,220236,0,0,1,0,0
+5934,Forestry Truck (VehicleInfo),Created- Spawned- TransferToTarget- Importing- Exporting,Vehicle,183950,24075,30157,0,293,0
+5945,Sedan (VehicleInfo),Created- Spawned,Vehicle,104534,0,0,1,0,0
+5992,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,205215,0,0,2,0,0
+6013,Electric Car 04 (VehicleInfo),Created- Spawned,Vehicle,61175,0,0,1,0,0
+6019,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,239949,45862,18537,0,0,0
+6107,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,37269,0,0,1,0,0
+6117,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,229521,45862,23498,0,0,0
+6147,Police Car (VehicleInfo),Created- Spawned- TransferToSource- GoingBack,Vehicle,102600,45823,0,0,0,0
+6161,Scooter (VehicleInfo),Created- Spawned,Vehicle,217980,0,0,1,0,0
+6237,Tractor (VehicleInfo),Created- Spawned- TransferToTarget- Importing,Vehicle,5107,24075,27789,0,5158,0
+6247,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,89165,45862,18538,0,0,0
+6249,Hatchback (VehicleInfo),Created- Spawned,Vehicle,107015,0,0,1,0,0
+6256,Hatchback (VehicleInfo),Created- Spawned,Vehicle,157234,0,0,2,0,0
+6257,Sports-car (VehicleInfo),Created- Spawned,Vehicle,75573,0,0,0,0,0
+6268,Suv (VehicleInfo),Created- Spawned,Vehicle,174166,0,0,2,13553,0
+6310,Hatchback (VehicleInfo),Created- Spawned,Vehicle,148102,0,0,0,0,0
+6311,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,130428,45862,18537,0,0,0
+6328,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,223382,45862,18538,0,0,0
+6330,Scooter (VehicleInfo),Created- Spawned,Vehicle,234176,0,0,0,0,0
+6364,Suv (VehicleInfo),Created- Spawned,Vehicle,225648,0,0,1,0,0
+6376,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,148475,19402,24075,0,0,0
+6397,Sedan (VehicleInfo),Created- Spawned,Vehicle,232883,0,0,3,0,0
+6403,Sports-car (VehicleInfo),Created- Spawned,Vehicle,72658,0,0,2,0,0
+6430,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,88915,0,0,1,0,0
+6440,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,142639,0,0,1,0,0
+6478,Sedan (VehicleInfo),Created- Spawned,Vehicle,9118,0,0,5,0,0
+6541,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Emergency2,Vehicle,249369,28554,14212,0,0,0
+6566,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,222461,0,0,1,0,0
+6608,Donut Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,118657,19636,0,0,0,0
+6654,Hatchback (VehicleInfo),Created- Spawned,Vehicle,110513,0,0,0,0,0
+6663,Scooter (VehicleInfo),Created- Spawned,Vehicle,86791,0,0,0,0,0
+6687,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,58015,0,0,1,0,0
+6698,Suv (VehicleInfo),Created- Spawned,Vehicle,229816,0,0,2,0,0
+6724,Scooter (VehicleInfo),Created- Spawned,Vehicle,52795,0,0,0,0,0
+6743,Hatchback (VehicleInfo),Created- Spawned,Vehicle,24486,0,0,1,0,0
+6805,Police Car (VehicleInfo),Created- Spawned- TransferToSource- GoingBack,Vehicle,148731,45823,0,0,0,0
+6817,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,86372,0,0,0,0,0
+6826,Suv (VehicleInfo),Created- Spawned,Vehicle,84406,0,0,2,0,0
+6872,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,70088,0,0,2,0,0
+6899,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,19443,25710,24075,0,0,0
+6953,Sedan (VehicleInfo),Created- Spawned,Vehicle,40176,0,0,2,0,0
+6982,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,37195,0,0,2,0,0
+6986,Sedan (VehicleInfo),Created- Spawned,Vehicle,104066,0,0,2,0,0
+6994,Scooter (VehicleInfo),Created- Spawned,Vehicle,143077,0,0,1,0,0
+7014,Hatchback (VehicleInfo),Created- Spawned,Vehicle,147637,0,0,3,0,0
+7042,Hatchback (VehicleInfo),Created- Spawned,Vehicle,242529,0,0,1,0,0
+7062,Oil Truck (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing- Exporting,Vehicle,150008,24075,0,0,15897,0
+7068,Ambulance (VehicleInfo),Created- TransferToSource- Emergency2- WaitingSpace,Vehicle,249362,32197,35589,0,0,0
+7069,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+7076,Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,9698,45992,0,0,0,0
+7116,Garbage Truck (VehicleInfo),Created- Spawned- TransferToSource,Vehicle,175116,15285,9939,0,0,0
+7132,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,171595,0,0,1,0,0
+7148,Hatchback (VehicleInfo),Created- Spawned,Vehicle,191867,0,0,4,10479,0
+7213,Suv (VehicleInfo),Created- Spawned,Vehicle,187532,0,0,3,14279,0
+7221,Sports-car (VehicleInfo),Created- Spawned,Vehicle,234894,0,0,1,0,0
+7223,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,223824,0,0,3,0,0
+7240,Electric Car 04 (VehicleInfo),Created- Spawned,Vehicle,144110,0,0,3,0,0
+7261,Sports-car (VehicleInfo),Created- Spawned,Vehicle,153439,0,0,2,0,0
+7317,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Emergency2,Vehicle,76722,28554,10273,0,0,0
+7318,Sports-car (VehicleInfo),Created- Spawned,Vehicle,100620,0,0,1,0,0
+7354,Police Car (VehicleInfo),Created- Spawned- TransferToSource- GoingBack,Vehicle,111723,45823,0,0,0,0
+7357,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,91863,0,0,0,0,0
+7375,Sports-car (VehicleInfo),Created- Spawned,Vehicle,122831,0,0,1,0,0
+7402,Sports-car (VehicleInfo),Created- Spawned,Vehicle,111552,0,0,0,0,0
+7430,Electric Car 02 (VehicleInfo),Created- Spawned- Arriving,Vehicle,0,0,0,1,0,0
+7435,Sports-car (VehicleInfo),Created- Spawned,Vehicle,57326,0,0,1,0,0
+7465,Sedan (VehicleInfo),Created- Spawned,Vehicle,247290,0,0,0,0,0
+7472,Suv (VehicleInfo),Created- Spawned,Vehicle,102432,0,0,0,0,0
+7504,Hatchback (VehicleInfo),Created- Spawned,Vehicle,176938,0,0,2,0,0
+7529,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,86610,19402,0,0,0,0
+7531,Sports-car (VehicleInfo),Created- Spawned,Vehicle,65242,0,0,0,0,0
+7562,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,161685,0,0,1,0,0
+7566,Sports-car (VehicleInfo),Created- Spawned,Vehicle,41257,0,0,1,0,0
+7570,Bugspray Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,248044,32775,30157,0,0,0
+7615,Hatchback (VehicleInfo),Created- Spawned,Vehicle,145422,0,0,2,0,0
+7618,Scooter (VehicleInfo),Created- Spawned,Vehicle,25584,0,0,1,0,0
+7637,Suv (VehicleInfo),Created- Spawned,Vehicle,223696,0,0,0,0,0
+7660,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,115288,0,0,0,0,0
+7704,Scooter (VehicleInfo),Created- Spawned,Vehicle,261186,0,0,1,0,0
+7849,Suv (VehicleInfo),Created- Spawned,Vehicle,53644,0,0,1,0,0
+7887,Suv (VehicleInfo),Created- Spawned,Vehicle,107303,0,0,0,0,0
+7913,Suv (VehicleInfo),Created- Spawned,Vehicle,110915,0,0,2,0,0
+7951,Hatchback (VehicleInfo),Created- Spawned,Vehicle,218823,0,0,0,0,0
+7953,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,94666,0,0,1,0,0
+7998,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+8003,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,98806,0,0,1,0,0
+8027,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,130335,0,0,0,0,0
+8031,Sports-car (VehicleInfo),Created- Spawned,Vehicle,233187,0,0,0,0,0
+8036,Sedan (VehicleInfo),Created- Spawned,Vehicle,208891,0,0,0,0,0
+8038,Suv (VehicleInfo),Created- Spawned,Vehicle,36482,0,0,0,0,0
+8061,Sports-car (VehicleInfo),Created- Spawned,Vehicle,55451,0,0,0,0,0
+8082,Hatchback (VehicleInfo),Created- Spawned,Vehicle,238609,0,0,0,0,0
+8124,Sedan (VehicleInfo),Created- Spawned,Vehicle,177215,0,0,2,0,0
+8138,Hatchback (VehicleInfo),Created- Spawned,Vehicle,95349,0,0,0,0,0
+8173,Sedan (VehicleInfo),Created- Spawned,Vehicle,176259,0,0,1,0,0
+8180,Sedan (VehicleInfo),Created- Spawned,Vehicle,174272,0,0,1,0,0
+8272,Sedan (VehicleInfo),Created- Spawned,Vehicle,85101,0,0,1,0,0
+8274,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+8288,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,95735,45862,23507,0,0,0
+8301,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,145995,45862,23507,0,0,0
+8313,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,250908,45862,18537,0,0,0
+8362,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,172997,0,0,1,0,0
+8421,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,229815,0,0,4,0,0
+8439,Sedan (VehicleInfo),Created- Spawned,Vehicle,16276,0,0,2,0,0
+8486,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,42133,0,0,1,0,0
+8544,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,154896,0,0,1,0,0
+8549,Hatchback (VehicleInfo),Created- Spawned,Vehicle,230385,0,0,4,0,0
+8587,Hatchback (VehicleInfo),Created- Spawned,Vehicle,76885,0,0,3,0,0
+8589,Sedan (VehicleInfo),Created- Spawned,Vehicle,182793,0,0,1,0,0
+8620,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,42962,0,0,1,0,0
+8629,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,174537,0,0,0,0,0
+8638,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Stopped,Vehicle,56958,45862,22124,0,0,43
+8650,Police Car (VehicleInfo),Created- Spawned- TransferToSource- GoingBack,Vehicle,177465,45823,0,0,0,0
+8703,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,38747,0,0,1,0,0
+8717,Scooter (VehicleInfo),Created- Spawned,Vehicle,232578,0,0,1,0,0
+8762,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,27842,0,0,1,0,0
+8784,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,56472,0,0,1,0,0
+8811,Garbage Truck (VehicleInfo),Created- Spawned- TransferToSource- GoingBack,Vehicle,214252,15285,0,0,0,0
+8823,Scooter (VehicleInfo),Created- Spawned,Vehicle,344,0,0,1,10157,0
+8852,Scooter (VehicleInfo),Created- Spawned,Vehicle,233567,0,0,0,0,0
+8870,Electric Car 04 (VehicleInfo),Created- Spawned,Vehicle,99982,0,0,1,0,0
+8888,Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,204589,10146,30157,0,0,0
+8915,Scooter (VehicleInfo),Created- Spawned,Vehicle,236654,0,0,2,0,0
+8919,Sedan (VehicleInfo),Created- Spawned,Vehicle,141752,0,0,1,0,0
+8930,Scooter (VehicleInfo),Created- Spawned,Vehicle,224360,0,0,1,0,0
+8956,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+8962,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,245475,0,0,1,0,0
+8966,Scooter (VehicleInfo),Created- Spawned,Vehicle,49160,0,0,1,0,0
+9006,Sedan (VehicleInfo),Created- Spawned,Vehicle,169761,0,0,1,0,0
+9132,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,133392,0,0,1,0,0
+9148,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,109074,45862,16323,0,0,0
+9186,Scooter (VehicleInfo),Created- Spawned,Vehicle,199919,0,0,0,0,0
+9190,Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,122688,16862,0,0,0,0
+9201,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,72336,0,0,1,0,0
+9213,Sedan (VehicleInfo),Created- Spawned,Vehicle,99883,0,0,4,0,0
+9216,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+9247,Suv (VehicleInfo),Created- Spawned,Vehicle,119674,0,0,2,0,0
+9258,Sedan (VehicleInfo),Created- Spawned,Vehicle,142938,0,0,1,0,0
+9301,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,1521,0,0,1,0,0
+9342,Scooter (VehicleInfo),Created- Spawned,Vehicle,226688,0,0,1,0,0
+9374,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+9388,Scooter (VehicleInfo),Created- Spawned,Vehicle,242935,0,0,0,0,0
+9392,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Emergency2,Vehicle,132805,28554,42081,0,0,0
+9403,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,124352,0,0,1,0,0
+9454,Sports-car (VehicleInfo),Created- Spawned,Vehicle,183103,0,0,2,0,0
+9464,Sedan (VehicleInfo),Created- Spawned,Vehicle,14201,0,0,2,0,0
+9474,Sports-car (VehicleInfo),Created- Spawned,Vehicle,65385,0,0,1,0,0
+9498,Scooter (VehicleInfo),Created- Spawned,Vehicle,27284,0,0,1,0,0
+9521,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,107303,0,0,0,0,0
+9523,Sedan (VehicleInfo),Created- Spawned,Vehicle,181304,0,0,1,0,0
+9558,Sedan (VehicleInfo),Created- Spawned,Vehicle,97741,0,0,1,0,0
+9563,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+9575,Electric Car 03 (VehicleInfo),Created- Spawned,Vehicle,200094,0,0,1,0,0
+9648,Sedan (VehicleInfo),Created- Spawned,Vehicle,75341,0,0,0,0,0
+9655,Sedan (VehicleInfo),Created- Spawned,Vehicle,250651,0,0,0,0,0
+9667,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,170867,0,0,2,0,0
+9713,Donut Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,48957,3047,735,0,0,0
+9720,Sports-car (VehicleInfo),Created- Spawned,Vehicle,80225,0,0,1,0,0
+9741,Scooter (VehicleInfo),Created- Spawned,Vehicle,189355,0,0,2,0,0
+9768,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,61757,45862,22124,0,0,0
+9829,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Emergency2- Arriving,Vehicle,65643,32197,42081,0,0,0
+9852,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,80627,0,0,0,0,0
+9853,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+9861,Sedan (VehicleInfo),Created- Spawned,Vehicle,4512,0,0,3,0,0
+9887,Suv (VehicleInfo),Created- Spawned,Vehicle,75166,0,0,0,0,0
+9917,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,11032,0,0,1,0,0
+9992,Suv (VehicleInfo),Created- Spawned,Vehicle,149426,0,0,0,0,0
+10055,Sedan (VehicleInfo),Created- Spawned,Vehicle,31573,0,0,0,0,0
+10082,Scooter (VehicleInfo),Created- Spawned,Vehicle,20849,0,0,1,11344,0
+10087,Suv (VehicleInfo),Created- Spawned,Vehicle,232263,0,0,1,0,0
+10136,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,14012,45862,23505,0,0,0
+10157,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+10165,Suv (VehicleInfo),Created- Spawned,Vehicle,225035,0,0,0,0,0
+10179,Suv (VehicleInfo),Created- Spawned,Vehicle,194167,0,0,3,9374,0
+10201,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Congestion,Vehicle,138676,45862,16308,0,0,0
+10317,Suv (VehicleInfo),Created- Spawned,Vehicle,220498,0,0,1,3929,0
+10329,Suv (VehicleInfo),Created- Spawned,Vehicle,3961,0,0,1,14346,0
+10341,Suv (VehicleInfo),Created- Spawned,Vehicle,204498,0,0,2,0,0
+10349,Scooter (VehicleInfo),Created- Spawned- Parking,Vehicle,210828,0,0,0,0,0
+10363,Suv (VehicleInfo),Created- Spawned,Vehicle,206054,0,0,3,16099,0
+10418,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,68389,0,0,0,0,0
+10430,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,154579,6232,30157,0,0,0
+10444,Hatchback (VehicleInfo),Created- Spawned,Vehicle,13954,0,0,1,9563,0
+10479,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+10547,Sedan (VehicleInfo),Created- Spawned,Vehicle,202923,0,0,1,0,0
+10550,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,239226,0,0,2,0,0
+10623,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,51203,0,0,0,0,0
+10646,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,29145,0,0,0,0,0
+10666,Scooter (VehicleInfo),Created- Spawned,Vehicle,257333,0,0,1,0,0
+10700,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,240841,38136,0,0,0,0
+10703,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,250912,0,0,2,0,0
+10709,Hatchback (VehicleInfo),Created- Spawned,Vehicle,155380,0,0,0,0,0
+10738,Sports-car (VehicleInfo),Created- Spawned,Vehicle,193045,0,0,1,0,0
+10791,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Emergency2- Arriving,Vehicle,0,32197,45992,0,0,0
+10795,Sedan (VehicleInfo),Created- Spawned,Vehicle,177070,0,0,0,0,0
+10834,Donut Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,247350,6232,735,0,0,0
+10853,Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,26801,12785,0,0,0,0
+10859,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- GoingBack,Vehicle,230128,32197,0,0,0,0
+10872,Hatchback (VehicleInfo),Created- Spawned,Vehicle,75111,0,0,1,0,0
+10880,Hatchback (VehicleInfo),Created- Spawned,Vehicle,157838,0,0,0,0,0
+10991,Sedan (VehicleInfo),Created- Spawned,Vehicle,133257,0,0,5,0,0
+11019,Hatchback (VehicleInfo),Created- Spawned,Vehicle,157144,0,0,0,0,0
+11020,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,153909,0,0,1,0,0
+11050,Scooter (VehicleInfo),Created- Spawned,Vehicle,38165,0,0,1,4473,0
+11070,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+11090,Sports-car (VehicleInfo),Created- Spawned,Vehicle,26402,0,0,1,0,0
+11104,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Stopped,Vehicle,115709,45862,22123,0,0,13
+11189,Sports-car (VehicleInfo),Created- Spawned,Vehicle,181953,0,0,1,0,0
+11249,Suv (VehicleInfo),Created- Spawned,Vehicle,128692,0,0,1,0,0
+11276,Sports-car (VehicleInfo),Created- Spawned,Vehicle,86769,0,0,1,0,0
+11292,Sedan (VehicleInfo),Created- Spawned,Vehicle,44195,0,0,0,0,0
+11314,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,156593,0,0,1,0,0
+11326,Sports-car (VehicleInfo),Created- Spawned,Vehicle,19994,0,0,0,0,0
+11344,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+11350,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,44508,15429,735,0,0,0
+11358,Scooter (VehicleInfo),Created- Spawned,Vehicle,6668,0,0,1,0,0
+11384,Electric Car 04 (VehicleInfo),Created- Spawned,Vehicle,108474,0,0,1,0,0
+11391,Scooter (VehicleInfo),Created- Spawned,Vehicle,77872,0,0,0,0,0
+11393,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Emergency2,Vehicle,142209,32197,42081,0,0,0
+11397,Train Engine (VehicleInfo),Created- Spawned- Inverted,Vehicle,237147,0,0,0,0,0
+11415,Sedan (VehicleInfo),Created- Spawned,Vehicle,173182,0,0,2,0,0
+11416,Sports-car (VehicleInfo),Created- Spawned,Vehicle,247452,0,0,1,0,0
+11447,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,177860,15039,735,0,0,0
+11474,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,261600,0,0,3,0,0
+11501,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,97448,0,0,2,0,0
+11533,Scooter (VehicleInfo),Created- Spawned,Vehicle,68990,0,0,1,0,0
+11557,Oil Truck (VehicleInfo),Created- Spawned- TransferToTarget- Importing- Exporting,Vehicle,32593,30157,30157,0,3850,0
+11593,Sports-car (VehicleInfo),Created- Spawned,Vehicle,50189,0,0,0,0,0
+11597,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+11603,Suv (VehicleInfo),Created- Spawned,Vehicle,111148,0,0,0,0,0
+11607,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Leaving- GoingBack,Vehicle,114841,32197,0,0,0,0
+11672,Suv (VehicleInfo),Created- Spawned,Vehicle,230339,0,0,0,0,0
+11673,Suv (VehicleInfo),Created- Spawned,Vehicle,63876,0,0,1,0,0
+11695,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,121696,45862,22124,0,0,0
+11699,Hatchback (VehicleInfo),Created- Spawned,Vehicle,227566,0,0,0,0,0
+11730,Sports-car (VehicleInfo),Created- Spawned,Vehicle,127390,0,0,0,0,0
+11745,Forestry Truck (VehicleInfo),Created- Spawned- TransferToTarget- Importing- Exporting,Vehicle,19139,30157,30157,0,11173,0
+11751,Tractor (VehicleInfo),Created- Spawned- TransferToTarget- Importing- Exporting,Vehicle,232474,735,24075,0,5914,0
+11762,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,25954,0,0,1,0,0
+11778,Bugspray Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,6155,47214,735,0,0,0
+11810,Suv (VehicleInfo),Created- Spawned,Vehicle,32176,0,0,0,0,0
+11819,Tractor (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing,Vehicle,194647,24075,0,0,1651,0
+11840,Garbage Truck (VehicleInfo),Created- Spawned- TransferToSource- GoingBack,Vehicle,90717,10320,0,0,0,0
+11881,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Emergency2,Vehicle,225929,28554,42081,0,0,0
+11884,Donut Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,174066,6648,735,0,0,0
+11887,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,56085,0,0,1,0,0
+11903,Scooter (VehicleInfo),Created- Spawned,Vehicle,146445,0,0,1,11597,0
+11927,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- GoingBack,Vehicle,116494,28554,0,0,0,0
+11964,Suv (VehicleInfo),Created- Spawned,Vehicle,97991,0,0,1,0,0
+11967,Sports-car (VehicleInfo),Created- Spawned,Vehicle,81759,0,0,0,0,0
+11976,Sports-car (VehicleInfo),Created- Spawned,Vehicle,96975,0,0,0,0,0
+11980,Bugspray Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,87307,29457,24075,0,0,0
+11985,Scooter (VehicleInfo),Created- Spawned,Vehicle,231884,0,0,0,0,0
+12026,Bugspray Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,89557,16855,0,0,0,0
+12040,Hatchback (VehicleInfo),Created- Spawned,Vehicle,99066,0,0,0,0,0
+12047,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,70762,0,0,2,0,0
+12056,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,85446,0,0,2,0,0
+12066,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Stopped,Vehicle,220075,45862,16323,0,0,9
+12085,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,183670,0,0,1,0,0
+12275,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+12321,Scooter (VehicleInfo),Created- Spawned,Vehicle,133,0,0,0,0,0
+12322,Camper Trailer 02 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+12395,Suv (VehicleInfo),Created- Spawned,Vehicle,40529,0,0,0,0,0
+12422,Sedan (VehicleInfo),Created- Spawned,Vehicle,137977,0,0,0,0,0
+12426,Sedan (VehicleInfo),Created- Spawned,Vehicle,164059,0,0,1,0,0
+12427,Scooter (VehicleInfo),Created- Spawned,Vehicle,218732,0,0,0,0,0
+12438,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Leaving- Congestion,Vehicle,251987,45862,16307,0,0,0
+12439,Police Car (VehicleInfo),Created- Spawned- TransferToSource- GoingBack,Vehicle,135891,45823,0,0,0,0
+12511,Sedan (VehicleInfo),Created- Spawned,Vehicle,222030,0,0,2,0,0
+12519,Suv (VehicleInfo),Created- Spawned,Vehicle,84096,0,0,1,11070,0
+12541,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,218808,0,0,0,0,0
+12617,Scooter (VehicleInfo),Created- Spawned,Vehicle,82517,0,0,1,0,0
+12638,Sedan (VehicleInfo),Created- Spawned,Vehicle,49567,0,0,3,0,0
+12661,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Stopped- GoingBack,Vehicle,137826,28554,0,0,0,0
+12698,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,92174,0,0,1,0,0
+12708,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,42463,0,0,1,0,0
+12793,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,94330,0,0,1,0,0
+12816,Sports-car (VehicleInfo),Created- Spawned,Vehicle,27622,0,0,1,0,0
+12865,Sedan (VehicleInfo),Created- Spawned,Vehicle,133432,0,0,1,0,0
+12873,Oil Truck (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing- Exporting,Vehicle,141477,735,0,0,12313,0
+12905,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,204253,0,0,2,0,0
+12910,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,100636,18891,24075,0,0,0
+12931,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,113197,45862,16308,0,0,0
+12980,Sedan (VehicleInfo),Created- Spawned,Vehicle,39679,0,0,2,0,0
+12985,Electric Car 04 (VehicleInfo),Created- Spawned,Vehicle,21369,0,0,1,0,0
+13001,Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,70307,47214,0,0,0,0
+13022,Suv (VehicleInfo),Created- Spawned,Vehicle,109202,0,0,0,0,0
+13038,Forestry Truck (VehicleInfo),Created- Spawned- TransferToTarget- Importing- Exporting,Vehicle,173713,24075,30157,0,4808,0
+13044,Tractor (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing- Exporting,Vehicle,205083,30157,0,0,562,0
+13065,Sports-car (VehicleInfo),Created- Spawned,Vehicle,79570,0,0,1,0,0
+13179,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,22185,0,0,1,0,0
+13199,Suv (VehicleInfo),Created- Spawned,Vehicle,221698,0,0,3,0,0
+13210,Sedan (VehicleInfo),Created- Spawned,Vehicle,135668,0,0,1,0,0
+13219,Scooter (VehicleInfo),Created- Spawned,Vehicle,33833,0,0,2,1335,0
+13240,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,95252,45862,16323,0,0,0
+13285,Sports-car (VehicleInfo),Created- Spawned,Vehicle,261245,0,0,1,0,0
+13341,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Emergency2,Vehicle,135616,32197,46105,0,0,0
+13384,Sedan (VehicleInfo),Created- Spawned,Vehicle,40450,0,0,1,0,0
+13389,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,19819,0,0,1,0,0
+13411,Sedan (VehicleInfo),Created- Spawned,Vehicle,44375,0,0,0,0,0
+13465,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,25174,0,0,1,0,0
+13508,Scooter (VehicleInfo),Created- Spawned,Vehicle,45840,0,0,1,0,0
+13512,Sports-car (VehicleInfo),Created- Spawned,Vehicle,68129,0,0,0,0,0
+13520,Hatchback (VehicleInfo),Created- Spawned,Vehicle,70395,0,0,1,0,0
+13523,Ambulance (VehicleInfo),Created- TransferToSource- Emergency2- WaitingSpace,Vehicle,46654,32197,35628,0,0,0
+13553,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+13555,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,16411,0,0,2,0,0
+13565,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,140842,0,0,1,0,0
+13567,Sedan (VehicleInfo),Created- Spawned,Vehicle,182560,0,0,2,0,0
+13569,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Arriving- GoingBack,Vehicle,0,28554,0,0,0,0
+13575,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,118783,0,0,2,0,0
+13581,Suv (VehicleInfo),Created- Spawned- Stopped,Vehicle,193873,0,0,1,0,1
+13616,Scooter (VehicleInfo),Created- Spawned,Vehicle,207318,0,0,0,0,0
+13622,Suv (VehicleInfo),Created- Spawned,Vehicle,242706,0,0,1,0,0
+13632,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,127655,0,0,3,0,0
+13686,Sports-car (VehicleInfo),Created- Spawned,Vehicle,14490,0,0,2,0,0
+13744,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,218339,0,0,2,0,0
+13752,Hatchback (VehicleInfo),Created- Spawned,Vehicle,159195,0,0,0,0,0
+13797,Hatchback (VehicleInfo),Created- Spawned,Vehicle,29632,0,0,1,0,0
+13800,Scooter (VehicleInfo),Created- Spawned,Vehicle,742,0,0,1,12322,0
+13891,Sports-car (VehicleInfo),Created- Spawned,Vehicle,190745,0,0,1,0,0
+13900,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,37711,44616,0,0,0,0
+13978,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,158501,0,0,2,0,0
+13990,Hatchback (VehicleInfo),Created- Spawned,Vehicle,73071,0,0,1,0,0
+14002,Suv (VehicleInfo),Created- Spawned,Vehicle,41789,0,0,1,0,0
+14059,Hatchback (VehicleInfo),Created- Spawned,Vehicle,88652,0,0,0,0,0
+14069,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,114963,0,0,0,0,0
+14077,Hatchback (VehicleInfo),Created- Spawned,Vehicle,155432,0,0,1,0,0
+14079,Sports-car (VehicleInfo),Created- Spawned,Vehicle,141963,0,0,0,0,0
+14127,Hatchback (VehicleInfo),Created- Spawned,Vehicle,235754,0,0,0,0,0
+14148,Sports-car (VehicleInfo),Created- Spawned,Vehicle,76596,0,0,0,0,0
+14149,Sedan (VehicleInfo),Created- Spawned- Stopped,Vehicle,130943,0,0,0,0,3
+14151,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,182545,0,0,3,0,0
+14182,Sports-car (VehicleInfo),Created- Spawned,Vehicle,80626,0,0,0,0,0
+14212,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,184979,0,0,2,0,0
+14222,Hatchback (VehicleInfo),Created- Spawned,Vehicle,99440,0,0,1,4153,0
+14225,Hatchback (VehicleInfo),Created- Spawned,Vehicle,105125,0,0,0,0,0
+14255,Scooter (VehicleInfo),Created- Spawned,Vehicle,150025,0,0,1,0,0
+14258,Scooter (VehicleInfo),Created- Spawned,Vehicle,104369,0,0,1,0,0
+14276,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Arriving,Vehicle,0,45862,16318,0,0,0
+14277,Lorry (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,146700,3047,0,0,0,0
+14279,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+14292,Sedan (VehicleInfo),Created- Spawned,Vehicle,61671,0,0,0,0,0
+14338,Hatchback (VehicleInfo),Created- Spawned,Vehicle,131713,0,0,1,0,0
+14346,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+14375,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,196847,0,0,0,0,0
+14404,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,37409,0,0,0,0,0
+14405,Suv (VehicleInfo),Created- Spawned,Vehicle,92390,0,0,1,0,0
+14412,Scooter (VehicleInfo),Created- Spawned,Vehicle,220185,0,0,1,0,0
+14441,Sedan (VehicleInfo),Created- Spawned,Vehicle,136912,0,0,1,0,0
+14442,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Stopped,Vehicle,143611,45862,16320,0,0,16
+14479,Donut Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,40379,35192,0,0,0,0
+14492,Suv (VehicleInfo),Created- Spawned,Vehicle,213946,0,0,1,0,0
+14515,Van (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Exporting,Vehicle,21592,14968,0,0,0,0
+14531,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,168285,0,0,4,0,0
+14541,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,16684,45862,18538,0,0,0
+14576,Sports-car (VehicleInfo),Created- Spawned,Vehicle,225867,0,0,4,0,0
+14580,Sedan (VehicleInfo),Created- Spawned,Vehicle,77779,0,0,0,0,0
+14588,Hatchback (VehicleInfo),Created- Spawned,Vehicle,138311,0,0,0,0,0
+14623,Ambulance (VehicleInfo),Created- TransferToSource- Emergency2- WaitingSpace,Vehicle,49132,32197,35799,0,0,0
+14626,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,21759,0,0,1,0,0
+14667,Sports-car (VehicleInfo),Created- Spawned,Vehicle,251795,0,0,1,0,0
+14671,Hatchback (VehicleInfo),Created- Spawned,Vehicle,95323,0,0,0,0,0
+14674,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,129983,0,0,3,0,0
+14676,Camper Van 03 (VehicleInfo),Created- Spawned,Vehicle,171369,0,0,1,0,0
+14678,Scooter (VehicleInfo),Created- Spawned,Vehicle,120181,0,0,3,0,0
+14708,Electric Car 03 (VehicleInfo),Created- Spawned,Vehicle,232421,0,0,3,0,0
+14737,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,180007,0,0,0,0,0
+14751,Suv (VehicleInfo),Created- Spawned,Vehicle,209075,0,0,1,7069,0
+14765,Scooter (VehicleInfo),Created- Spawned,Vehicle,227923,0,0,1,0,0
+14835,Sedan (VehicleInfo),Created- Spawned,Vehicle,198053,0,0,1,0,0
+14838,Suv (VehicleInfo),Created- Spawned,Vehicle,73202,0,0,0,0,0
+14845,Scooter (VehicleInfo),Created- Spawned,Vehicle,29145,0,0,2,0,0
+14854,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,18560,45862,23505,0,0,0
+14870,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Stopped,Vehicle,204169,45862,23508,0,0,8
+14920,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,23384,0,0,1,0,0
+14943,Bus (VehicleInfo),Created- Spawned- TransferToTarget- Stopped- Congestion,Vehicle,29893,45862,16309,0,0,4
+14968,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,257999,0,0,1,0,0
+15005,Police Car (VehicleInfo),Created- Spawned- TransferToSource- Arriving- GoingBack,Vehicle,83555,45823,0,0,0,0
+15011,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,203005,45862,22123,0,0,0
+15035,Suv (VehicleInfo),Created- Spawned,Vehicle,136022,0,0,1,0,0
+15050,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,139085,45862,23505,0,0,0
+15058,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,180158,0,0,1,0,0
+15063,Sedan (VehicleInfo),Created- Spawned,Vehicle,34548,0,0,2,0,0
+15068,Sports-car (VehicleInfo),Created- Spawned,Vehicle,57464,0,0,3,0,0
+15089,Sedan (VehicleInfo),Created- Spawned,Vehicle,220228,0,0,0,0,0
+15116,Sedan (VehicleInfo),Created- Spawned,Vehicle,100670,0,0,0,0,0
+15172,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,213127,0,0,0,0,0
+15245,Tractor (VehicleInfo),Created- Spawned- TransferToTarget- GoingBack- Importing,Vehicle,230233,24075,0,0,6449,0
+15256,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,87795,0,0,0,0,0
+15265,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,83208,0,0,1,0,0
+15274,Forestry Truck (VehicleInfo),Created- Spawned- TransferToTarget- Importing- Exporting,Vehicle,218315,30157,24075,0,6635,0
+15285,Hatchback (VehicleInfo),Created- Spawned,Vehicle,71266,0,0,1,0,0
+15296,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,60433,27866,24075,0,0,0
+15314,Scooter (VehicleInfo),Created- Spawned,Vehicle,118394,0,0,1,3776,0
+15348,Sedan (VehicleInfo),Created- Spawned,Vehicle,28717,0,0,1,0,0
+15375,Personal Electric Transport Ride (VehicleInfo),Created- Spawned,Vehicle,223318,0,0,0,0,0
+15388,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,55130,0,0,4,0,0
+15430,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,226647,45862,16308,0,0,0
+15444,Suv (VehicleInfo),Created- Spawned,Vehicle,63281,0,0,0,0,0
+15456,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,12140,0,0,3,0,0
+15461,Hatchback (VehicleInfo),Created- Spawned,Vehicle,21903,0,0,1,0,0
+15473,Garbage Truck (VehicleInfo),Created- Spawned- TransferToSource,Vehicle,245637,10320,45862,0,0,0
+15474,Suv (VehicleInfo),Created- Spawned,Vehicle,131663,0,0,2,0,0
+15491,hotdog-van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,140675,12785,24075,0,0,0
+15506,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,127994,0,0,1,0,0
+15591,Scooter (VehicleInfo),Created- Spawned,Vehicle,144450,0,0,0,0,0
+15625,Suv (VehicleInfo),Created- Spawned,Vehicle,188168,0,0,1,0,0
+15655,Scooter (VehicleInfo),Created- Spawned,Vehicle,31708,0,0,1,0,0
+15660,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+15730,Electric Car 01 (VehicleInfo),Created- Spawned,Vehicle,6207,0,0,2,0,0
+15957,Suv (VehicleInfo),Created- Spawned,Vehicle,131331,0,0,0,0,0
+15967,Suv (VehicleInfo),Created- Spawned,Vehicle,137515,0,0,0,0,0
+16003,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,36521,0,0,1,0,0
+16010,Camper Van 01 (VehicleInfo),Created- Spawned,Vehicle,72179,0,0,1,0,0
+16025,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,237123,0,0,1,0,0
+16053,Camper Van 02 (VehicleInfo),Created- Spawned,Vehicle,39020,0,0,4,0,0
+16055,Scooter (VehicleInfo),Created- Spawned,Vehicle,205232,0,0,1,2168,0
+16060,Electric Car 02 (VehicleInfo),Created- Spawned,Vehicle,110595,0,0,2,0,0
+16068,Ambulance (VehicleInfo),Created- Spawned- TransferToSource- Emergency2,Vehicle,74595,32197,38272,0,0,0
+16099,Camper Trailer 01 (VehicleInfo),Created- Spawned,Vehicle,0,0,0,0,0,0
+16145,Suv (VehicleInfo),Created- Spawned,Vehicle,85830,0,0,0,0,0
+16155,Station-wagon (VehicleInfo),Created- Spawned,Vehicle,51513,0,0,1,0,0
+16184,Bus (VehicleInfo),Created- Spawned- TransferToTarget,Vehicle,255221,45862,22123,0,0,0
+16211,Sports-car (VehicleInfo),Created- Spawned,Vehicle,74818,0,0,0,0,0
+16213,Electric Car 01 (VehicleInfo),Created- Stopped- WaitingSpace,Vehicle,163917,0,0,0,0,0
+16368,Bugspray Van (VehicleInfo),Created- Spawned- TransferToTarget- Exporting,Vehicle,79584,32775,24075,0,0,0

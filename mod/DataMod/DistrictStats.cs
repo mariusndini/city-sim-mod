@@ -1,4 +1,4 @@
-﻿/*using ICities;
+﻿using ICities;
 using UnityEngine;
 using ColossalFramework;
 using System;
@@ -69,10 +69,9 @@ namespace data
 
         }
 
-        public string getStats()
+        public string getData()
         {
             string header = "waterbuffer,sewagebuffer,watercapacity,sewagecapacity,garbage,dmcount,dmusage,dmproduction,deadamount,finalcrimerate,citizencount,sickcount,groundpollution,dmincome,education1rate,education2rate,education3rate,educated0,educated1,educated2,educated3";
-
             return header + Environment.NewLine + data;
 
         }//end get stats method
@@ -81,4 +80,3 @@ namespace data
      
 
 }
-*/

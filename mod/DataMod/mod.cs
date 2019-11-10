@@ -19,6 +19,7 @@ namespace data
         public void OnLevelLoaded(LoadMode mode)
         {
             CityInformation ci = new CityInformation();
+            ci.getData(null);
         }//end get cim data
 
         // When level created? or load created? 

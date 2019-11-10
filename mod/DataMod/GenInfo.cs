@@ -11,7 +11,7 @@ namespace data
         public string getStats()
         {
             Bindings dataBinding = new Bindings();
-            string headers = "population,temperature,cash,gameDate,timeOfDay,";
+            string headers = "population,temperature,cash,gameDate,timeOfDay<br>";
             string generalInfo = (dataBinding.population + "").Replace(",", "") + ",";
             generalInfo += dataBinding.temperature + ",";
             generalInfo += dataBinding.cash + ",";
